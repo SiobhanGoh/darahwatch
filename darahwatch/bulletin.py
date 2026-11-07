@@ -1,6 +1,5 @@
-"""A short bulletin in English and Bahasa Malaysia, written from the numbers by fixed templates.
-
-No language model writes it, so it can only ever say what the forecast file says.
+"""A short bulletin in English and Bahasa Malaysia, written from the numbers by fixed templates,
+so it can only ever say what the forecast file says.
 """
 from __future__ import annotations
 
@@ -41,9 +40,9 @@ def write(issue: dict) -> dict:
     label = lambda w: f"{w['state']} {w['blood_type']}"
 
     en = [f"Data to {_en_date(issue['data_end'])}. For {_en_date(w1['first'])} to {_en_date(w1['last'])}, "
-          f"the 13 states are expected to collect about {_n(w1['total'])} donations in total."]
-    ms = [f"Data sehingga {_ms_date(issue['data_end'])}. Bagi {_ms_date(w1['first'])} hingga {_ms_date(w1['last'])}, "
-          f"13 negeri dijangka mengumpul kira-kira {_n(w1['total'])} derma darah kesemuanya."]
+          f"{issue.get('where_en', 'the places covered')} are expected to collect about {_n(w1['total'])} donations in total."]
+    ms = [f"Data sehingga {_ms_date(issue['data_end'])}. Bagi tempoh {_ms_date(w1['first'])} hingga {_ms_date(w1['last'])}, "
+          f"{issue.get('where_ms', 'kawasan yang diliputi')} dijangka mengumpul kira-kira {_n(w1['total'])} derma darah secara keseluruhan."]
     if likely:
         en.append(f"Likely low week: {_list(map(label, likely), 'and')}.")
         ms.append(f"Minggu yang mungkin rendah: {_list(map(label, likely), 'dan')}.")
@@ -51,16 +50,17 @@ def write(issue: dict) -> dict:
         en.append(f"Worth watching: {_list(map(label, watch), 'and')}.")
         ms.append(f"Perlu diperhatikan: {_list(map(label, watch), 'dan')}.")
     if not likely and not watch:
-        en.append("No state and blood group is expected to have a low week.")
-        ms.append("Tiada negeri dan kumpulan darah dijangka mengalami minggu yang rendah.")
+        en.append("No state or blood group is expected to have a low week.")
+        ms.append("Tiada negeri atau kumpulan darah yang dijangka mengalami minggu yang rendah.")
     if later:
         en.append(f"The week after: {len(later)} more warning{'s' if len(later) != 1 else ''}.")
         ms.append(f"Minggu berikutnya: {len(later)} amaran lagi.")
     for h in issue["holidays"][:3]:
-        where = "every state" if h["states"] >= 13 else f"{h['states']} state{'s' if h['states'] != 1 else ''}"
-        di = "semua negeri" if h["states"] >= 13 else f"{h['states']} negeri"
+        everywhere = h["states"] >= issue.get("regions", 13)
+        where = "everywhere covered" if everywhere else f"{h['states']} state{'s' if h['states'] != 1 else ''}"
+        di = "semua kawasan yang diliputi" if everywhere else f"{h['states']} negeri"
         en.append(f"Public holiday ahead: {h['name']} on {_en_date(h['date'])} ({where}).")
         ms.append(f"Cuti umum akan datang: {h['name']} pada {_ms_date(h['date'])} ({di}).")
     en.append("These are forecasts of donations collected, not of blood stock or hospital demand.")
-    ms.append("Ini ramalan jumlah derma yang dikumpul, bukan stok darah atau permintaan hospital.")
+    ms.append("Ini ialah ramalan jumlah derma yang dikumpul, bukan ramalan stok darah atau permintaan hospital.")
     return {"en": " ".join(en), "ms": " ".join(ms)}

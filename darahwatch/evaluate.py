@@ -13,7 +13,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from . import data, model as M, ranges as R
+from . import data, jsonout, model as M, ranges as R
 
 
 def day_kind(bt: pd.DataFrame) -> np.ndarray:
@@ -78,7 +78,7 @@ def run(source: str, out_dir: Path, years=None) -> dict:
     R.daily_offsets(cal).assign(calibration_year=last_complete).to_csv(out_dir / "daily_offsets.csv", index=False)
     R.weekly_offsets(R.weekly(cal)).assign(calibration_year=last_complete).to_csv(out_dir / "weekly_offsets.csv", index=False)
     report["calibration_year"] = int(last_complete)
-    (out_dir / "backtest.json").write_text(json.dumps(report, indent=1))
+    (out_dir / "backtest.json").write_text(jsonout.dumps(report))
     return report
 
 

@@ -16,11 +16,10 @@ import argparse
 import json
 from pathlib import Path
 
-import holidays
 import numpy as np
 import pandas as pd
 
-from . import bulletin, calendar as cal, data, model as M, ranges as R, scorecard
+from . import bulletin, calendar as cal, data, jsonout, model as M, ranges as R, scorecard
 
 CHOSEN = "Gradient-boosted trees"
 
@@ -40,20 +39,15 @@ def forecast(s: pd.DataFrame, offsets_dir: Path) -> tuple[pd.DataFrame, pd.DataF
 
 
 def holidays_ahead(states, start, end) -> list:
-    """Public holidays in the forecast window, with how many of the states have each."""
-    days = pd.date_range(start, end)
+    """Public holidays in the forecast window: one row per day and holiday, with its English and
+    Malay names (each looked up in the states that have it) and how many states have it."""
     seen = {}
-    for st in states:
-        for d in days:
-            name = cal.holiday_name(st, d)
-            if name:
-                key = (d, name)
-                seen[key] = seen.get(key, 0) + 1
-    en = {}
-    for y in {d.year for d in days}:
-        en.update({pd.Timestamp(k): v for k, v in holidays.Malaysia(years=y, language="en_US").items()})
-    out = [{"date": str(d.date()), "name_ms": n, "name_en": en.get(d, n), "states": c} for (d, n), c in sorted(seen.items())]
-    return out
+    for d in pd.date_range(start, end):
+        for st in states:
+            for ms, en in cal.holiday_names(st, d):
+                row = seen.setdefault((d, en), {"date": str(d.date()), "name_en": en, "name_ms": ms, "states": 0})
+                row["states"] += 1
+    return [seen[k] for k in sorted(seen)]
 
 
 def issue_summary(daily: pd.DataFrame, wk: pd.DataFrame, end: pd.Timestamp) -> dict:
@@ -63,7 +57,11 @@ def issue_summary(daily: pd.DataFrame, wk: pd.DataFrame, end: pd.Timestamp) -> d
     warnings = [{"state": r.state, "blood_type": r.blood_type, "level": r.warning, "week": int(r.week)}
                 for r in w[w.warning != ""].sort_values(["week", "warning", "state", "blood_type"]).itertuples()]
     hol = holidays_ahead(sorted(ch.state.unique()), ch.date.min(), ch.date.max())
-    return {"data_end": str(end.date()),
+    regions = int(ch.state.nunique())
+    kl = "W.P. Kuala Lumpur" in set(ch.state)
+    where_en = f"{regions - 1} states and Kuala Lumpur" if kl else f"{regions} states"
+    where_ms = f"{regions - 1} negeri dan Kuala Lumpur" if kl else f"{regions} negeri"
+    return {"data_end": str(end.date()), "regions": regions, "where_en": where_en, "where_ms": where_ms,
             "week1": {"first": str(w1.date.min().date()), "last": str(w1.date.max().date()), "total": float(w1.forecast.sum())},
             "warnings": warnings, "holidays": hol}
 
@@ -106,11 +104,11 @@ def run(source: str, root: Path) -> dict:
                   for r in w.sort_values(["state", "blood_type", "week"]).itertuples()],
         "scorecard": card,
     }
-    (latest / "forecast.json").write_text(json.dumps(payload, indent=1))
+    (latest / "forecast.json").write_text(jsonout.dumps(payload))
     (latest / "bulletin.md").write_text(
         f"# DarahWatch bulletin, {issued}\n\n## English\n\n{text['en']}\n\n## Bahasa Malaysia\n\n{text_ms['ms']}\n")
     (root / "scorecard").mkdir(exist_ok=True)
-    (root / "scorecard" / "scorecard.json").write_text(json.dumps(card, indent=1))
+    (root / "scorecard" / "scorecard.json").write_text(jsonout.dumps(card))
     return payload
 
 

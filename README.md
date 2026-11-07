@@ -1,6 +1,6 @@
 # DarahWatch
 
-**Every morning, DarahWatch forecasts blood donations for the next 14 days in every Malaysian state and blood group, puts an honest 80% range on each number, warns when a week is likely to be low, and scores every forecast it has ever published against what really happened.**
+**Every morning, DarahWatch forecasts blood donations for the next 14 days for each blood group in 12 Malaysian states and Kuala Lumpur (all the places in the official data), puts an honest 80% range on each number, warns when a week is likely to be low, and scores every forecast it has ever published against what really happened.**
 
 It runs for free on GitHub Actions from the Government of Malaysia's open data. Its results appear on the [Klang Valley blood donation dashboard](https://github.com/SiobhanGoh/klang-valley-blood-donation-dashboard) under **Every state**.
 
@@ -8,48 +8,46 @@ It runs for free on GitHub Actions from the Government of Malaysia's open data. 
 
 ---
 
-## What it found (rolling backtests, 13 states x 4 blood groups)
+## What it found (rolling backtests, 12 states and Kuala Lumpur x 4 blood groups)
 
-"Pretend it is each day of the year in turn, forecast the next 14 days using only what was known that day, then check." The model was trained only on years before the test year.
+"Pretend it is each day of the year in turn, forecast the next 14 days using only what was known that day, then check." The model was trained only on years before the test year. These numbers come from the frozen data snapshot (to 28 Aug 2026) and are kept in [`evaluation/snapshot-2026-08-28/backtest.json`](evaluation/snapshot-2026-08-28/backtest.json). The weekly job refreshes [`evaluation/backtest.json`](evaluation/backtest.json) from the latest data, so that file will move on from these.
 
 **Average miss per forecast (donations per state, blood group and day; lower is better)**
 
 | Test year | Same weekday last week | Recent weekday average | **Gradient-boosted trees** |
 |---|---:|---:|---:|
-| 2023 | 14.98 | 10.94 | **10.40** |
-| 2024 | 14.80 | 10.52 | **10.07** |
-| 2025 | 14.81 | 10.68 | **9.94** |
-| 2026 to 28 Aug | 15.18 | 10.96 | **10.32** |
+| 2023 | 14.98 | 10.94 | **10.37** |
+| 2024 | 14.80 | 10.52 | **10.01** |
+| 2025 | 14.81 | 10.68 | **9.85** |
+| 2026 to 28 Aug | 15.18 | 10.96 | **10.15** |
 
-The overall gain is modest (5–7%), but it comes almost entirely from the days the simple methods cannot see coming:
+Overall the gain is modest, 5–8%. Almost all of it comes from the days the simple methods can't see coming:
 
 | 2025 | Recent weekday average | Gradient-boosted trees | Change |
 |---|---:|---:|---:|
-| Public holidays | 19.7 | 15.3 | **−22%** |
+| Public holidays | 19.7 | 13.9 | **−30%** |
 | Ramadan | 12.3 | 8.7 | **−29%** |
-| Other days | 9.90 | 9.87 | same |
+| Other days | 9.90 | 9.86 | same |
 
-**Do the 80% ranges hold on a year they never saw?** (ranges built on year Y−1, checked on year Y)
+**Do the 80% ranges hold on a year they never saw?** Each range is built on year Y−1 and checked on year Y.
 
 | Checked on | Days inside the range | Week totals inside the range | Worst / best state |
 |---|---:|---:|---:|
-| 2024 | 80.2% | 79.2% | 76.0% / 85.7% |
-| 2025 | 79.5% | 79.4% | 74.1% / 83.2% |
-| 2026 to 28 Aug | 79.9% | 79.7% | 76.3% / 85.3% |
+| 2024 | 80.3% | 79.3% | 76.8% / 85.9% |
+| 2025 | 79.6% | 79.6% | 74.1% / 83.7% |
+| 2026 to 28 Aug | 79.9% | 80.0% | 76.4% / 85.5% |
 
-**The low-week warning**, scored on years it never saw (every 7-day window that one forecast run covers):
+**The low-week warning**, scored on years it never saw. It counts every 7-day window that one forecast run covers.
 
 | Checked on | Weeks that were really low | Warnings | Warnings that were right | Low weeks warned about |
 |---|---:|---:|---:|---:|
-| 2024 | 17.6% | 2,400 | 50% | 18% |
-| 2025 | 23.4% | 2,450 | 67% | 19% |
-| 2026 to 28 Aug | 22.4% | 2,519 | 72% | 34% |
+| 2024 | 17.6% | 2,340 | 50% | 18% |
+| 2025 | 23.4% | 2,839 | 69% | 23% |
+| 2026 to 28 Aug | 22.4% | 2,773 | 73% | 38% |
 
-The stricter "Likely low" level was right 89%, 100% and 95% of the time, but it fires rarely and misses most low weeks. The recent weekday average **never** raised a warning, because an average over three years cannot see a holiday week coming. A warning needs the calendar.
+The stricter "Likely low" level was right 89%, 100% and 95% of the time. But it fires rarely and misses most low weeks.
 
-All numbers come from [`evaluation/backtest.json`](evaluation/backtest.json), which `python -m darahwatch.evaluate` rebuilds every week from the latest data.
-
----
+The recent weekday average **never** raised a warning. An average over three years can't see a holiday week coming, so a warning needs the calendar.
 
 ## How it works, step by step
 
@@ -66,7 +64,7 @@ For each state and day: public holidays (state by state, so Hari Hol Pahang only
 | Recent weekday average | The average for that weekday over the last 156 weeks. The Klang Valley dashboard's best method. |
 | **Gradient-boosted trees** (LightGBM, Poisson loss) | One model for all states and groups. Inputs: the weekday averages above, recent levels, last year's level, and the calendar signals. |
 
-Every input for a forecast made on day *o* uses counts up to day *o* only. A test scrambles every later count and checks that no input changes. The gradient-boosted model was chosen because it had the lowest error in 2023. Its settings were fixed before 2024–2026 were scored.
+Every input for a forecast made on day *o* uses counts up to day *o* only. A test scrambles every later count and checks that no input changes. The gradient-boosted model's settings were not tuned on any test year, and it has the lowest error in every year checked, starting with 2023.
 
 ### 4. Honest ranges (split conformal)
 For each state, blood group and look-ahead (days 1–7 or 8–14), the backtest errors e = actual − forecast from the latest complete year are sorted. With α = 0.2:

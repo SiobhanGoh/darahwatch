@@ -100,7 +100,7 @@ def test_bulletin_only_uses_the_numbers_given():
     b = bulletin.write(issue)
     assert "11,293" in b["en"] and "11,293" in b["ms"]
     assert "Kelantan AB" in b["en"] and "Kelantan AB" in b["ms"]
-    assert "Isnin 31 Ogos 2026" in b["ms"] and "semua negeri" in b["ms"]
+    assert "Isnin 31 Ogos 2026" in b["ms"] and "semua kawasan yang diliputi" in b["ms"]
 
 
 def test_scorecard_scores_saved_forecasts(tmp_path, small):
@@ -115,3 +115,10 @@ def test_scorecard_scores_saved_forecasts(tmp_path, small):
     assert c["scored_days"] == 2 and m["scored"] == 2
     assert abs(m["MAE"] - (real.donations - 50).abs().mean()) < 1e-9
     assert m["coverage"] == ((real.donations >= 40) & (real.donations <= 60)).mean()
+
+
+def test_raya_haji_and_english_names():
+    assert cal.kind_of("Hari Raya Qurban (Hari Kedua)") == cal.KIND_CODES["raya_haji"]
+    # Two holidays on one day in Sabah: each Malay name keeps its own English name.
+    assert cal.holiday_names("Sabah", "2026-06-02") == [("Cuti Hari Wesak", "Vesak Day (observed)"),
+                                                        ("Cuti Pesta Kaamatan", "Pesta Kaamatan (observed)")]

@@ -22,8 +22,10 @@ STATE_CODES = {
     "W.P. Putrajaya": "16",
 }
 # Which festive season a holiday belongs to, by the words in its Malay name.
-KINDS = [("raya_puasa", "Hari Raya Puasa"), ("raya_haji", "Hari Raya Haji"), ("cny", "Tahun Baharu Cina"),
-         ("deepavali", "Deepavali"), ("christmas", "Krismas"), ("gawai", "Gawai"), ("kaamatan", "Kaamatan")]
+# (`holidays` calls Hari Raya Haji "Hari Raya Qurban".)
+KINDS = [("raya_puasa", ("Hari Raya Puasa",)), ("raya_haji", ("Hari Raya Qurban", "Hari Raya Haji")),
+         ("cny", ("Tahun Baharu Cina",)), ("deepavali", ("Deepavali",)), ("christmas", ("Krismas",)),
+         ("gawai", ("Gawai",)), ("kaamatan", ("Kaamatan",))]
 KIND_CODES = {k: i + 1 for i, (k, _) in enumerate(KINDS)}  # 0 = no holiday, len+1 = other holiday
 WINDOW = 14  # days counted before or after a holiday; further away counts as WINDOW + 1
 
@@ -31,7 +33,7 @@ WINDOW = 14  # days counted before or after a holiday; further away counts as WI
 def kind_of(name: str) -> int:
     """The festive season of a holiday name; several holidays on one day are joined by '; '."""
     for k, words in KINDS:  # in order, so Raya wins over a national day falling on it
-        if words.lower() in name.lower():
+        if any(w.lower() in name.lower() for w in words):
             return KIND_CODES[k]
     return len(KINDS) + 1
 
@@ -110,3 +112,34 @@ def features(state: str, days: pd.DatetimeIndex) -> pd.DataFrame:
 def holiday_name(state: str, day: pd.Timestamp) -> str:
     day = pd.Timestamp(day)
     return _holidays(state, day.year - 1, day.year + 1).get(day, "")
+
+
+@lru_cache(maxsize=None)
+def _ms_to_en() -> dict:
+    """Malay holiday name -> English name. `holidays` joins several names on one day in each
+    language's alphabetical order, so names are paired only from days that have a single holiday."""
+    out = {}
+    for code in set(STATE_CODES.values()):
+        ms = holidays.Malaysia(subdiv=code, years=range(2006, 2031))
+        en = holidays.Malaysia(subdiv=code, years=range(2006, 2031), language="en_US")
+        for d, n in ms.items():
+            e = en.get(d, "")
+            if "; " not in n and e and "; " not in e:
+                out.setdefault(n, e)
+    return out
+
+
+def holiday_names(state: str, day: pd.Timestamp) -> list:
+    """Every holiday on `day` in `state`, as (Malay name, English name) pairs."""
+    names = holiday_name(state, day)
+    if not names:
+        return []
+    table = _ms_to_en()
+
+    def en(n):
+        if n in table:
+            return table[n]
+        if n.startswith("Cuti ") and n[5:] in table:  # "Cuti X" is the day off in lieu of X
+            return f"{table[n[5:]]} (observed)"
+        return n
+    return [(n, en(n)) for n in names.split("; ")]
