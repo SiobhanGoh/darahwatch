@@ -1,0 +1,874 @@
+{
+ "data": {
+  "rows": 490425,
+  "first_date": "2006-01-01",
+  "last_date": "2026-08-28",
+  "states": 13,
+  "missing_values": 0,
+  "duplicate_keys": 0,
+  "negative_counts": 0,
+  "all_not_equal_to_sum_of_groups": 280,
+  "analysed_to": "2026-08-28",
+  "missing_state_group_days": 0
+ },
+ "methods": [
+  "Same weekday last week",
+  "Recent weekday average",
+  "Gradient-boosted trees"
+ ],
+ "range_level": 0.8,
+ "low_quantile": 0.3,
+ "years": [
+  {
+   "year": 2023,
+   "partial": false,
+   "forecasts": 260988,
+   "mae": [
+    {
+     "method": "Same weekday last week",
+     "MAE": 14.976075528376784,
+     "days_1_7": 14.665222208730496,
+     "days_8_14": 15.293058350100603,
+     "by_day": {
+      "Public holiday": 25.061115260144387,
+      "Ramadan": 15.49896408839779,
+      "Within 3 days of a holiday": 14.802224947442186,
+      "Other days": 14.004989019383176
+     }
+    },
+    {
+     "method": "Recent weekday average",
+     "MAE": 10.93879463659396,
+     "days_1_7": 10.931605704820749,
+     "days_8_14": 10.946125321951431,
+     "by_day": {
+      "Public holiday": 21.751991535972117,
+      "Ramadan": 9.77156378382207,
+      "Within 3 days of a holiday": 9.711196835750094,
+      "Other days": 10.46129856658269
+     }
+    },
+    {
+     "method": "Gradient-boosted trees",
+     "MAE": 10.403629131077103,
+     "days_1_7": 10.38692692538134,
+     "days_8_14": 10.420660676040109,
+     "by_day": {
+      "Public holiday": 15.628775589195405,
+      "Ramadan": 8.308804996737566,
+      "Within 3 days of a holiday": 9.84959847815592,
+      "Other days": 10.344743730708462
+     }
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "partial": false,
+   "forecasts": 261716,
+   "mae": [
+    {
+     "method": "Same weekday last week",
+     "MAE": 14.802465267694753,
+     "days_1_7": 14.551009596464143,
+     "days_8_14": 15.05886529201136,
+     "by_day": {
+      "Public holiday": 24.606544901065448,
+      "Ramadan": 16.03713527851459,
+      "Within 3 days of a holiday": 13.958872323320909,
+      "Other days": 14.173048421832666
+     }
+    },
+    {
+     "method": "Recent weekday average",
+     "MAE": 10.518403536658056,
+     "days_1_7": 10.497771071197645,
+     "days_8_14": 10.53944169666404,
+     "by_day": {
+      "Public holiday": 22.09153055848261,
+      "Ramadan": 10.73829958171802,
+      "Within 3 days of a holiday": 10.392036276532549,
+      "Other days": 9.651181473063057
+     }
+    },
+    {
+     "method": "Gradient-boosted trees",
+     "MAE": 10.07301981519579,
+     "days_1_7": 10.029801886386204,
+     "days_8_14": 10.117087534740397,
+     "by_day": {
+      "Public holiday": 15.131378202635105,
+      "Ramadan": 9.105375871792832,
+      "Within 3 days of a holiday": 10.290145433599593,
+      "Other days": 9.737693126311818
+     }
+    }
+   ],
+   "daily_range": [
+    {
+     "method": "Same weekday last week",
+     "coverage": 0.8105847559950481,
+     "mean_width": 41.38993794800471
+    },
+    {
+     "method": "Recent weekday average",
+     "coverage": 0.7982087453575631,
+     "mean_width": 32.85670616828341
+    },
+    {
+     "method": "Gradient-boosted trees",
+     "coverage": 0.8018386342447539,
+     "mean_width": 31.35018739225667
+    }
+   ],
+   "weekly_range": [
+    {
+     "method": "Gradient-boosted trees",
+     "coverage": 0.7915902470600927,
+     "mean_width": 105.21109623396778
+    },
+    {
+     "method": "Recent weekday average",
+     "coverage": 0.8212860071205093,
+     "mean_width": 117.5814441092586
+    },
+    {
+     "method": "Same weekday last week",
+     "coverage": 0.8329916927392383,
+     "mean_width": 161.01324306829216
+    }
+   ],
+   "low_week_rule": {
+    "Gradient-boosted trees": {
+     "weeks": 37076,
+     "really_low_weeks": 6515,
+     "base_rate": 0.1757201424101845,
+     "likely_low": {
+      "flagged": 249,
+      "hit_rate": 0.8875502008032129,
+      "catch_rate": 0.033921719109746735
+     },
+     "any_warning": {
+      "flagged": 2400,
+      "hit_rate": 0.5004166666666666,
+      "catch_rate": 0.18434382194934765
+     }
+    },
+    "Recent weekday average": {
+     "weeks": 37076,
+     "really_low_weeks": 6515,
+     "base_rate": 0.1757201424101845,
+     "likely_low": {
+      "flagged": 0,
+      "hit_rate": null,
+      "catch_rate": 0.0
+     },
+     "any_warning": {
+      "flagged": 0,
+      "hit_rate": null,
+      "catch_rate": 0.0
+     }
+    },
+    "Same weekday last week": {
+     "weeks": 37076,
+     "really_low_weeks": 6515,
+     "base_rate": 0.1757201424101845,
+     "likely_low": {
+      "flagged": 189,
+      "hit_rate": 0.23809523809523808,
+      "catch_rate": 0.006907137375287797
+     },
+     "any_warning": {
+      "flagged": 6451,
+      "hit_rate": 0.21640055805301503,
+      "catch_rate": 0.21427475057559478
+     }
+    }
+   },
+   "by_state": [
+    {
+     "state": "Johor",
+     "coverage": 0.7599344327438903,
+     "MAE": 8.072930112961817,
+     "MAE_simple": 8.537159873043045,
+     "weeks": 2852,
+     "really_low_weeks": 480,
+     "warnings": 215,
+     "warning_hit_rate": 0.4558139534883721,
+     "warning_catch_rate": 0.20416666666666666
+    },
+    {
+     "state": "Kedah",
+     "coverage": 0.8136797138883369,
+     "MAE": 6.2805554549143165,
+     "MAE_simple": 6.537647360752367,
+     "weeks": 2852,
+     "really_low_weeks": 818,
+     "warnings": 265,
+     "warning_hit_rate": 0.569811320754717,
+     "warning_catch_rate": 0.1845965770171149
+    },
+    {
+     "state": "Kelantan",
+     "coverage": 0.764851976952116,
+     "MAE": 6.999253518586538,
+     "MAE_simple": 7.0629537361109,
+     "weeks": 2852,
+     "really_low_weeks": 198,
+     "warnings": 65,
+     "warning_hit_rate": 0.5384615384615384,
+     "warning_catch_rate": 0.17676767676767677
+    },
+    {
+     "state": "Melaka",
+     "coverage": 0.8229684085038744,
+     "MAE": 9.676699379280056,
+     "MAE_simple": 9.736104849022094,
+     "weeks": 2852,
+     "really_low_weeks": 714,
+     "warnings": 257,
+     "warning_hit_rate": 0.36186770428015563,
+     "warning_catch_rate": 0.13025210084033614
+    },
+    {
+     "state": "Negeri Sembilan",
+     "coverage": 0.7833796940194715,
+     "MAE": 6.680847336642012,
+     "MAE_simple": 6.901445651011019,
+     "weeks": 2852,
+     "really_low_weeks": 684,
+     "warnings": 175,
+     "warning_hit_rate": 0.5542857142857143,
+     "warning_catch_rate": 0.14181286549707603
+    },
+    {
+     "state": "Pahang",
+     "coverage": 0.8536161335187761,
+     "MAE": 7.732140567714181,
+     "MAE_simple": 7.987822996428699,
+     "weeks": 2852,
+     "really_low_weeks": 618,
+     "warnings": 160,
+     "warning_hit_rate": 0.55625,
+     "warning_catch_rate": 0.14401294498381878
+    },
+    {
+     "state": "Perak",
+     "coverage": 0.8568448241605404,
+     "MAE": 10.56322427493621,
+     "MAE_simple": 10.875146469200713,
+     "weeks": 2852,
+     "really_low_weeks": 636,
+     "warnings": 144,
+     "warning_hit_rate": 0.5069444444444444,
+     "warning_catch_rate": 0.11477987421383648
+    },
+    {
+     "state": "Pulau Pinang",
+     "coverage": 0.7798529703953905,
+     "MAE": 9.560648266196697,
+     "MAE_simple": 9.805461836494521,
+     "weeks": 2852,
+     "really_low_weeks": 332,
+     "warnings": 178,
+     "warning_hit_rate": 0.5730337078651685,
+     "warning_catch_rate": 0.3072289156626506
+    },
+    {
+     "state": "Sabah",
+     "coverage": 0.7668388635008941,
+     "MAE": 11.289243534965774,
+     "MAE_simple": 11.149002799472202,
+     "weeks": 2852,
+     "really_low_weeks": 360,
+     "warnings": 53,
+     "warning_hit_rate": 0.5283018867924528,
+     "warning_catch_rate": 0.07777777777777778
+    },
+    {
+     "state": "Sarawak",
+     "coverage": 0.7916749453606199,
+     "MAE": 8.155840382416077,
+     "MAE_simple": 8.687501910467834,
+     "weeks": 2852,
+     "really_low_weeks": 453,
+     "warnings": 264,
+     "warning_hit_rate": 0.5871212121212122,
+     "warning_catch_rate": 0.34216335540838855
+    },
+    {
+     "state": "Selangor",
+     "coverage": 0.7965428174051261,
+     "MAE": 10.056987723081543,
+     "MAE_simple": 10.943081431781014,
+     "weeks": 2852,
+     "really_low_weeks": 498,
+     "warnings": 125,
+     "warning_hit_rate": 0.464,
+     "warning_catch_rate": 0.11646586345381527
+    },
+    {
+     "state": "Terengganu",
+     "coverage": 0.8053844625471885,
+     "MAE": 7.057544339740219,
+     "MAE_simple": 6.955048283890426,
+     "weeks": 2852,
+     "really_low_weeks": 322,
+     "warnings": 126,
+     "warning_hit_rate": 0.3968253968253968,
+     "warning_catch_rate": 0.15527950310559005
+    },
+    {
+     "state": "W.P. Kuala Lumpur",
+     "coverage": 0.8283330021855752,
+     "MAE": 28.82334270610984,
+     "MAE_simple": 31.560868778879904,
+     "weeks": 2852,
+     "really_low_weeks": 402,
+     "warnings": 373,
+     "warning_hit_rate": 0.46112600536193027,
+     "warning_catch_rate": 0.42786069651741293
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "partial": false,
+   "forecasts": 260988,
+   "mae": [
+    {
+     "method": "Same weekday last week",
+     "MAE": 14.80999509555995,
+     "days_1_7": 14.546855078623034,
+     "days_8_14": 15.07832378888717,
+     "by_day": {
+      "Public holiday": 21.606265356265357,
+      "Ramadan": 16.86637931034483,
+      "Within 3 days of a holiday": 14.164423420207068,
+      "Other days": 14.178636438854873
+     }
+    },
+    {
+     "method": "Recent weekday average",
+     "MAE": 10.678130967216097,
+     "days_1_7": 10.656638016856355,
+     "days_8_14": 10.700047722230819,
+     "by_day": {
+      "Public holiday": 19.738663488663487,
+      "Ramadan": 12.30466783989662,
+      "Within 3 days of a holiday": 10.058506806177283,
+      "Other days": 9.895743887366425
+     }
+    },
+    {
+     "method": "Gradient-boosted trees",
+     "MAE": 9.943127471760125,
+     "days_1_7": 9.913460888054566,
+     "days_8_14": 9.97337903035565,
+     "by_day": {
+      "Public holiday": 15.278821000745083,
+      "Ramadan": 8.682764003175167,
+      "Within 3 days of a holiday": 9.240853624265604,
+      "Other days": 9.870857270693488
+     }
+    }
+   ],
+   "daily_range": [
+    {
+     "method": "Same weekday last week",
+     "coverage": 0.8107001088172636,
+     "mean_width": 41.21577237267614
+    },
+    {
+     "method": "Recent weekday average",
+     "coverage": 0.7828444219657609,
+     "mean_width": 32.18880679453579
+    },
+    {
+     "method": "Gradient-boosted trees",
+     "coverage": 0.7952549542507702,
+     "mean_width": 30.64504338368714
+    }
+   ],
+   "weekly_range": [
+    {
+     "method": "Gradient-boosted trees",
+     "coverage": 0.7941956074867468,
+     "mean_width": 103.56107957219307
+    },
+    {
+     "method": "Recent weekday average",
+     "coverage": 0.7651736449204803,
+     "mean_width": 106.67489274627785
+    },
+    {
+     "method": "Same weekday last week",
+     "coverage": 0.785729741425944,
+     "mean_width": 146.89540733528077
+    }
+   ],
+   "low_week_rule": {
+    "Gradient-boosted trees": {
+     "weeks": 36972,
+     "really_low_weeks": 8643,
+     "base_rate": 0.23377150275884453,
+     "likely_low": {
+      "flagged": 294,
+      "hit_rate": 1.0,
+      "catch_rate": 0.034015966678236725
+     },
+     "any_warning": {
+      "flagged": 2450,
+      "hit_rate": 0.6706122448979592,
+      "catch_rate": 0.1900960314705542
+     }
+    },
+    "Recent weekday average": {
+     "weeks": 36972,
+     "really_low_weeks": 8643,
+     "base_rate": 0.23377150275884453,
+     "likely_low": {
+      "flagged": 0,
+      "hit_rate": null,
+      "catch_rate": 0.0
+     },
+     "any_warning": {
+      "flagged": 0,
+      "hit_rate": null,
+      "catch_rate": 0.0
+     }
+    },
+    "Same weekday last week": {
+     "weeks": 36972,
+     "really_low_weeks": 8643,
+     "base_rate": 0.23377150275884453,
+     "likely_low": {
+      "flagged": 490,
+      "hit_rate": 0.2571428571428571,
+      "catch_rate": 0.014578271433530025
+     },
+     "any_warning": {
+      "flagged": 8453,
+      "hit_rate": 0.2660593871998107,
+      "catch_rate": 0.26021057503181766
+     }
+    }
+   },
+   "by_state": [
+    {
+     "state": "Johor",
+     "coverage": 0.7813309424188085,
+     "MAE": 8.916491936201027,
+     "MAE_simple": 9.875535145932634,
+     "weeks": 2844,
+     "really_low_weeks": 568,
+     "warnings": 172,
+     "warning_hit_rate": 0.7674418604651163,
+     "warning_catch_rate": 0.2323943661971831
+    },
+    {
+     "state": "Kedah",
+     "coverage": 0.7889519824666268,
+     "MAE": 6.03821506116231,
+     "MAE_simple": 6.399061131801718,
+     "weeks": 2844,
+     "really_low_weeks": 706,
+     "warnings": 311,
+     "warning_hit_rate": 0.5819935691318328,
+     "warning_catch_rate": 0.2563739376770538
+    },
+    {
+     "state": "Kelantan",
+     "coverage": 0.7780434349472006,
+     "MAE": 7.250192364074056,
+     "MAE_simple": 7.307378755600514,
+     "weeks": 2844,
+     "really_low_weeks": 412,
+     "warnings": 102,
+     "warning_hit_rate": 0.7647058823529411,
+     "warning_catch_rate": 0.18932038834951456
+    },
+    {
+     "state": "Melaka",
+     "coverage": 0.7860629607491533,
+     "MAE": 9.829342516525104,
+     "MAE_simple": 10.130651600839885,
+     "weeks": 2844,
+     "really_low_weeks": 798,
+     "warnings": 174,
+     "warning_hit_rate": 0.632183908045977,
+     "warning_catch_rate": 0.13784461152882205
+    },
+    {
+     "state": "Negeri Sembilan",
+     "coverage": 0.7656405658497709,
+     "MAE": 6.76259737010233,
+     "MAE_simple": 7.052892597871678,
+     "weeks": 2844,
+     "really_low_weeks": 722,
+     "warnings": 208,
+     "warning_hit_rate": 0.4326923076923077,
+     "warning_catch_rate": 0.12465373961218837
+    },
+    {
+     "state": "Pahang",
+     "coverage": 0.7896991432556286,
+     "MAE": 7.840692564300506,
+     "MAE_simple": 8.127205720824966,
+     "weeks": 2844,
+     "really_low_weeks": 624,
+     "warnings": 112,
+     "warning_hit_rate": 0.9285714285714286,
+     "warning_catch_rate": 0.16666666666666666
+    },
+    {
+     "state": "Perak",
+     "coverage": 0.7407352062163778,
+     "MAE": 11.58005054541042,
+     "MAE_simple": 11.477031511027327,
+     "weeks": 2844,
+     "really_low_weeks": 1003,
+     "warnings": 145,
+     "warning_hit_rate": 0.5172413793103449,
+     "warning_catch_rate": 0.07477567298105683
+    },
+    {
+     "state": "Pulau Pinang",
+     "coverage": 0.8291492329149233,
+     "MAE": 8.574597298961319,
+     "MAE_simple": 9.295782117696342,
+     "weeks": 2844,
+     "really_low_weeks": 521,
+     "warnings": 198,
+     "warning_hit_rate": 0.5404040404040404,
+     "warning_catch_rate": 0.2053742802303263
+    },
+    {
+     "state": "Sabah",
+     "coverage": 0.8086272165770074,
+     "MAE": 11.25368469026897,
+     "MAE_simple": 11.386295857791673,
+     "weeks": 2844,
+     "really_low_weeks": 785,
+     "warnings": 51,
+     "warning_hit_rate": 0.9607843137254902,
+     "warning_catch_rate": 0.062420382165605096
+    },
+    {
+     "state": "Sarawak",
+     "coverage": 0.8144052600119546,
+     "MAE": 7.8705429407807745,
+     "MAE_simple": 8.84313806254183,
+     "weeks": 2844,
+     "really_low_weeks": 767,
+     "warnings": 336,
+     "warning_hit_rate": 0.7916666666666666,
+     "warning_catch_rate": 0.3468057366362451
+    },
+    {
+     "state": "Selangor",
+     "coverage": 0.795676429567643,
+     "MAE": 10.254514895328484,
+     "MAE_simple": 10.866865845683837,
+     "weeks": 2844,
+     "really_low_weeks": 540,
+     "warnings": 78,
+     "warning_hit_rate": 0.7435897435897436,
+     "warning_catch_rate": 0.10740740740740741
+    },
+    {
+     "state": "Terengganu",
+     "coverage": 0.8277545327754533,
+     "MAE": 6.765757174883724,
+     "MAE_simple": 6.885214709743999,
+     "weeks": 2844,
+     "really_low_weeks": 469,
+     "warnings": 138,
+     "warning_hit_rate": 0.572463768115942,
+     "warning_catch_rate": 0.16844349680170576
+    },
+    {
+     "state": "W.P. Kuala Lumpur",
+     "coverage": 0.8322374975094641,
+     "MAE": 26.323977774882582,
+     "MAE_simple": 31.168649516452867,
+     "weeks": 2844,
+     "really_low_weeks": 728,
+     "warnings": 425,
+     "warning_hit_rate": 0.7388235294117647,
+     "warning_catch_rate": 0.43131868131868134
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "partial": true,
+   "forecasts": 169988,
+   "mae": [
+    {
+     "method": "Same weekday last week",
+     "MAE": 15.176412452643715,
+     "days_1_7": 14.754764223118654,
+     "days_8_14": 15.610893454371714,
+     "by_day": {
+      "Public holiday": 22.596570397111915,
+      "Ramadan": 15.766826923076923,
+      "Within 3 days of a holiday": 14.844945444984882,
+      "Other days": 14.312894904101395
+     }
+    },
+    {
+     "method": "Recent weekday average",
+     "MAE": 10.955982564078429,
+     "days_1_7": 10.92060125987828,
+     "days_8_14": 10.992440690580322,
+     "by_day": {
+      "Public holiday": 19.692414985736285,
+      "Ramadan": 12.028121918145956,
+      "Within 3 days of a holiday": 10.428465642306513,
+      "Other days": 9.906492508625458
+     }
+    },
+    {
+     "method": "Gradient-boosted trees",
+     "MAE": 10.318443490089829,
+     "days_1_7": 10.273960901566385,
+     "days_8_14": 10.364279896524856,
+     "by_day": {
+      "Public holiday": 16.83955511258426,
+      "Ramadan": 9.147548031698008,
+      "Within 3 days of a holiday": 10.062128078275718,
+      "Other days": 9.871546547625034
+     }
+    }
+   ],
+   "daily_range": [
+    {
+     "method": "Same weekday last week",
+     "coverage": 0.8080276254794456,
+     "mean_width": 41.49588794503141
+    },
+    {
+     "method": "Recent weekday average",
+     "coverage": 0.7989799279949172,
+     "mean_width": 32.44696918274171
+    },
+    {
+     "method": "Gradient-boosted trees",
+     "coverage": 0.7994564322187449,
+     "mean_width": 30.05471638557546
+    }
+   ],
+   "weekly_range": [
+    {
+     "method": "Gradient-boosted trees",
+     "coverage": 0.7968046053729351,
+     "mean_width": 101.95505585178059
+    },
+    {
+     "method": "Recent weekday average",
+     "coverage": 0.7789921575171033,
+     "mean_width": 113.52370527367397
+    },
+    {
+     "method": "Same weekday last week",
+     "coverage": 0.7837477056565993,
+     "mean_width": 154.05502252628065
+    }
+   ],
+   "low_week_rule": {
+    "Gradient-boosted trees": {
+     "weeks": 23972,
+     "really_low_weeks": 5358,
+     "base_rate": 0.2235107625563157,
+     "likely_low": {
+      "flagged": 661,
+      "hit_rate": 0.9455370650529501,
+      "catch_rate": 0.11664800298618888
+     },
+     "any_warning": {
+      "flagged": 2519,
+      "hit_rate": 0.7173481540293767,
+      "catch_rate": 0.33725270623366926
+     }
+    },
+    "Recent weekday average": {
+     "weeks": 23972,
+     "really_low_weeks": 5358,
+     "base_rate": 0.2235107625563157,
+     "likely_low": {
+      "flagged": 0,
+      "hit_rate": null,
+      "catch_rate": 0.0
+     },
+     "any_warning": {
+      "flagged": 0,
+      "hit_rate": null,
+      "catch_rate": 0.0
+     }
+    },
+    "Same weekday last week": {
+     "weeks": 23972,
+     "really_low_weeks": 5358,
+     "base_rate": 0.2235107625563157,
+     "likely_low": {
+      "flagged": 410,
+      "hit_rate": 0.35609756097560974,
+      "catch_rate": 0.02724897349757372
+     },
+     "any_warning": {
+      "flagged": 5492,
+      "hit_rate": 0.24544792425345957,
+      "catch_rate": 0.2515864128406122
+     }
+    }
+   },
+   "by_state": [
+    {
+     "state": "Johor",
+     "coverage": 0.7626950137656776,
+     "MAE": 10.048632903626977,
+     "MAE_simple": 10.769961212948365,
+     "weeks": 1844,
+     "really_low_weeks": 317,
+     "warnings": 176,
+     "warning_hit_rate": 0.7727272727272727,
+     "warning_catch_rate": 0.42902208201892744
+    },
+    {
+     "state": "Kedah",
+     "coverage": 0.7753900275313551,
+     "MAE": 7.382221244457077,
+     "MAE_simple": 7.093651708748069,
+     "weeks": 1844,
+     "really_low_weeks": 384,
+     "warnings": 226,
+     "warning_hit_rate": 0.5707964601769911,
+     "warning_catch_rate": 0.3359375
+    },
+    {
+     "state": "Kelantan",
+     "coverage": 0.7978739675741817,
+     "MAE": 7.342302421126168,
+     "MAE_simple": 7.4279895247507675,
+     "weeks": 1844,
+     "really_low_weeks": 353,
+     "warnings": 190,
+     "warning_hit_rate": 0.4631578947368421,
+     "warning_catch_rate": 0.24929178470254956
+    },
+    {
+     "state": "Melaka",
+     "coverage": 0.8534720097889262,
+     "MAE": 9.029251020142803,
+     "MAE_simple": 9.7046654273635,
+     "weeks": 1844,
+     "really_low_weeks": 495,
+     "warnings": 174,
+     "warning_hit_rate": 0.8563218390804598,
+     "warning_catch_rate": 0.301010101010101
+    },
+    {
+     "state": "Negeri Sembilan",
+     "coverage": 0.8144692566534109,
+     "MAE": 6.768709808954658,
+     "MAE_simple": 6.839550929085191,
+     "weeks": 1844,
+     "really_low_weeks": 443,
+     "warnings": 156,
+     "warning_hit_rate": 0.3974358974358974,
+     "warning_catch_rate": 0.1399548532731377
+    },
+    {
+     "state": "Pahang",
+     "coverage": 0.8002447231569287,
+     "MAE": 7.694028534041847,
+     "MAE_simple": 8.046377783529818,
+     "weeks": 1844,
+     "really_low_weeks": 460,
+     "warnings": 135,
+     "warning_hit_rate": 0.9111111111111111,
+     "warning_catch_rate": 0.2673913043478261
+    },
+    {
+     "state": "Perak",
+     "coverage": 0.8483481186907311,
+     "MAE": 9.944116274247365,
+     "MAE_simple": 10.636471397981033,
+     "weeks": 1844,
+     "really_low_weeks": 394,
+     "warnings": 154,
+     "warning_hit_rate": 0.7922077922077922,
+     "warning_catch_rate": 0.3096446700507614
+    },
+    {
+     "state": "Pulau Pinang",
+     "coverage": 0.7794432548179872,
+     "MAE": 9.500395535728773,
+     "MAE_simple": 10.209787847769645,
+     "weeks": 1844,
+     "really_low_weeks": 384,
+     "warnings": 265,
+     "warning_hit_rate": 0.7547169811320755,
+     "warning_catch_rate": 0.5208333333333334
+    },
+    {
+     "state": "Sabah",
+     "coverage": 0.7805903946160906,
+     "MAE": 11.386691626120854,
+     "MAE_simple": 12.017322791412727,
+     "weeks": 1844,
+     "really_low_weeks": 382,
+     "warnings": 175,
+     "warning_hit_rate": 0.7828571428571428,
+     "warning_catch_rate": 0.3586387434554974
+    },
+    {
+     "state": "Sarawak",
+     "coverage": 0.7896145610278372,
+     "MAE": 8.155924970319196,
+     "MAE_simple": 8.893404240299315,
+     "weeks": 1844,
+     "really_low_weeks": 414,
+     "warnings": 259,
+     "warning_hit_rate": 0.749034749034749,
+     "warning_catch_rate": 0.46859903381642515
+    },
+    {
+     "state": "Selangor",
+     "coverage": 0.8099571734475375,
+     "MAE": 10.112499855525945,
+     "MAE_simple": 10.809358601783654,
+     "weeks": 1844,
+     "really_low_weeks": 459,
+     "warnings": 139,
+     "warning_hit_rate": 0.7338129496402878,
+     "warning_catch_rate": 0.2222222222222222
+    },
+    {
+     "state": "Terengganu",
+     "coverage": 0.792903028449067,
+     "MAE": 7.036574724184835,
+     "MAE_simple": 7.138769599422704,
+     "weeks": 1844,
+     "really_low_weeks": 339,
+     "warnings": 139,
+     "warning_hit_rate": 0.8273381294964028,
+     "warning_catch_rate": 0.3392330383480826
+    },
+    {
+     "state": "W.P. Kuala Lumpur",
+     "coverage": 0.7879320893239523,
+     "MAE": 29.73841645269128,
+     "MAE_simple": 32.84046226792479,
+     "weeks": 1844,
+     "really_low_weeks": 534,
+     "warnings": 331,
+     "warning_hit_rate": 0.7552870090634441,
+     "warning_catch_rate": 0.4681647940074906
+    }
+   ]
+  }
+ ],
+ "calibration_year": 2025
+}
