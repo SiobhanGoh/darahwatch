@@ -1,0 +1,32 @@
+name: Weekly evaluation
+# Rebuilds the backtests and the 80% ranges the daily forecast uses, from the newest data.
+on:
+  schedule:
+    - cron: "7 20 * * 6"     # Sunday 04:07 in Malaysia
+  workflow_dispatch:
+permissions:
+  contents: write   # to commit evaluation/
+concurrency:
+  group: commits
+  cancel-in-progress: false
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m darahwatch.evaluate --data live --out evaluation
+      - name: Commit the evaluation
+        run: |
+          git config user.name "SiobhanGoh"
+          git config user.email "siobhangoh17@gmail.com"
+          git add evaluation
+          if git diff --cached --quiet; then echo "No change."; exit 0; fi
+          git commit -q -m "Evaluation refreshed with data to $(python -c "import json;print(json.load(open('evaluation/backtest.json'))['data']['analysed_to'])")"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main

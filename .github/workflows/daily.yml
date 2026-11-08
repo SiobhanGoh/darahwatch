@@ -1,0 +1,33 @@
+name: Daily forecast
+# data.gov.my refreshes the CSV around 21:00 UTC. This runs at 21:37 UTC (05:37 in Malaysia), before
+# the blood dashboard rebuilds at 22:17 UTC and picks the results up.
+on:
+  schedule:
+    - cron: "37 21 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write   # to commit the day's forecast, scorecard and bulletin
+concurrency:
+  group: commits
+  cancel-in-progress: false
+jobs:
+  forecast:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - run: pip install -r requirements.txt
+      # Live data only: if the download fails the run fails, and nothing is published.
+      - run: python -m darahwatch.run --data live --root .
+      - name: Commit the results
+        run: |
+          git config user.name "SiobhanGoh"
+          git config user.email "siobhangoh17@gmail.com"
+          git add forecasts latest scorecard
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -q -m "Forecast issued with data to $(python -c "import json;print(json.load(open('latest/forecast.json'))['issued'])")"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main

@@ -1,0 +1,313 @@
+state,blood_type,method,bucket,lo,hi,n,calibration_year
+Johor,A,Gradient-boosted trees,days 1-7,-14.16741875092039,13.723012170399599,2534,2025
+Johor,A,Gradient-boosted trees,days 8-14,-13.961550598991966,13.641219611448097,2485,2025
+Johor,A,Recent weekday average,days 1-7,-14.71153846153846,15.935897435897434,2534,2025
+Johor,A,Recent weekday average,days 8-14,-14.929487179487182,15.878205128205128,2485,2025
+Johor,A,Same weekday last week,days 1-7,-22.0,20.0,2534,2025
+Johor,A,Same weekday last week,days 8-14,-20.0,20.0,2485,2025
+Johor,AB,Gradient-boosted trees,days 1-7,-4.6371820244485935,4.507370059532229,2534,2025
+Johor,AB,Gradient-boosted trees,days 8-14,-4.61031847355884,4.417189670417436,2485,2025
+Johor,AB,Recent weekday average,days 1-7,-4.288461538461538,5.25,2534,2025
+Johor,AB,Recent weekday average,days 8-14,-4.32051282051282,5.160256410256411,2485,2025
+Johor,AB,Same weekday last week,days 1-7,-7.0,7.0,2534,2025
+Johor,AB,Same weekday last week,days 8-14,-7.0,6.0,2485,2025
+Johor,B,Gradient-boosted trees,days 1-7,-16.352221412400652,15.494152868756263,2534,2025
+Johor,B,Gradient-boosted trees,days 8-14,-16.017247441974988,15.399258810584431,2485,2025
+Johor,B,Recent weekday average,days 1-7,-15.621794871794872,19.33974358974359,2534,2025
+Johor,B,Recent weekday average,days 8-14,-15.583333333333332,19.326923076923077,2485,2025
+Johor,B,Same weekday last week,days 1-7,-23.0,21.0,2534,2025
+Johor,B,Same weekday last week,days 8-14,-25.0,24.0,2485,2025
+Johor,O,Gradient-boosted trees,days 1-7,-22.510744443640924,22.044071451036906,2534,2025
+Johor,O,Gradient-boosted trees,days 8-14,-21.95337563679466,22.364758069715997,2485,2025
+Johor,O,Recent weekday average,days 1-7,-22.47435897435897,27.58974358974359,2534,2025
+Johor,O,Recent weekday average,days 8-14,-23.82692307692308,27.72435897435897,2485,2025
+Johor,O,Same weekday last week,days 1-7,-36.0,33.0,2534,2025
+Johor,O,Same weekday last week,days 8-14,-32.0,31.0,2485,2025
+Kedah,A,Gradient-boosted trees,days 1-7,-8.258793373513257,8.938712196721413,2534,2025
+Kedah,A,Gradient-boosted trees,days 8-14,-8.193065404272133,9.172478813982417,2485,2025
+Kedah,A,Recent weekday average,days 1-7,-8.66025641025641,9.128205128205128,2534,2025
+Kedah,A,Recent weekday average,days 8-14,-8.756410256410257,9.134615384615385,2485,2025
+Kedah,A,Same weekday last week,days 1-7,-12.0,12.0,2534,2025
+Kedah,A,Same weekday last week,days 8-14,-14.0,13.0,2485,2025
+Kedah,AB,Gradient-boosted trees,days 1-7,-2.716137765426274,3.5871400415028,2534,2025
+Kedah,AB,Gradient-boosted trees,days 8-14,-2.747615460316581,3.6197664637403504,2485,2025
+Kedah,AB,Recent weekday average,days 1-7,-2.814102564102564,3.730769230769231,2534,2025
+Kedah,AB,Recent weekday average,days 8-14,-2.878205128205128,3.769230769230769,2485,2025
+Kedah,AB,Same weekday last week,days 1-7,-4.0,4.0,2534,2025
+Kedah,AB,Same weekday last week,days 8-14,-5.0,5.0,2485,2025
+Kedah,B,Gradient-boosted trees,days 1-7,-9.601008994165277,12.89758587602255,2534,2025
+Kedah,B,Gradient-boosted trees,days 8-14,-9.366852345799233,12.764020711092392,2485,2025
+Kedah,B,Recent weekday average,days 1-7,-10.301282051282051,13.378205128205128,2534,2025
+Kedah,B,Recent weekday average,days 8-14,-10.326923076923077,12.884615384615385,2485,2025
+Kedah,B,Same weekday last week,days 1-7,-15.0,15.0,2534,2025
+Kedah,B,Same weekday last week,days 8-14,-17.0,16.0,2485,2025
+Kedah,O,Gradient-boosted trees,days 1-7,-13.62177380209108,16.687990826635726,2534,2025
+Kedah,O,Gradient-boosted trees,days 8-14,-13.89431339268328,16.846490262880927,2485,2025
+Kedah,O,Recent weekday average,days 1-7,-13.237179487179489,16.32692307692308,2534,2025
+Kedah,O,Recent weekday average,days 8-14,-14.006410256410255,16.307692307692307,2485,2025
+Kedah,O,Same weekday last week,days 1-7,-22.0,21.0,2534,2025
+Kedah,O,Same weekday last week,days 8-14,-20.0,21.0,2485,2025
+Kelantan,A,Gradient-boosted trees,days 1-7,-10.028778499444002,12.034901503527724,2534,2025
+Kelantan,A,Gradient-boosted trees,days 8-14,-10.060255050597398,11.907085899701883,2485,2025
+Kelantan,A,Recent weekday average,days 1-7,-10.051282051282051,13.596153846153847,2534,2025
+Kelantan,A,Recent weekday average,days 8-14,-10.134615384615385,13.615384615384615,2485,2025
+Kelantan,A,Same weekday last week,days 1-7,-14.0,14.0,2534,2025
+Kelantan,A,Same weekday last week,days 8-14,-14.0,16.0,2485,2025
+Kelantan,AB,Gradient-boosted trees,days 1-7,-3.217330257521215,3.722337578929674,2534,2025
+Kelantan,AB,Gradient-boosted trees,days 8-14,-3.2765393036146624,3.860871354244672,2485,2025
+Kelantan,AB,Recent weekday average,days 1-7,-3.019230769230769,4.1923076923076925,2534,2025
+Kelantan,AB,Recent weekday average,days 8-14,-3.0128205128205128,4.198717948717949,2485,2025
+Kelantan,AB,Same weekday last week,days 1-7,-4.0,5.0,2534,2025
+Kelantan,AB,Same weekday last week,days 8-14,-5.0,6.0,2485,2025
+Kelantan,B,Gradient-boosted trees,days 1-7,-10.229846900505532,11.844638096405628,2534,2025
+Kelantan,B,Gradient-boosted trees,days 8-14,-10.306008060862908,12.373609790916634,2485,2025
+Kelantan,B,Recent weekday average,days 1-7,-10.147435897435898,13.474358974358974,2534,2025
+Kelantan,B,Recent weekday average,days 8-14,-10.33974358974359,14.032051282051283,2485,2025
+Kelantan,B,Same weekday last week,days 1-7,-15.0,14.0,2534,2025
+Kelantan,B,Same weekday last week,days 8-14,-16.0,15.0,2485,2025
+Kelantan,O,Gradient-boosted trees,days 1-7,-13.819018763622857,17.21486295466854,2534,2025
+Kelantan,O,Gradient-boosted trees,days 8-14,-14.169869720759102,17.566793606059374,2485,2025
+Kelantan,O,Recent weekday average,days 1-7,-13.46153846153846,17.621794871794872,2534,2025
+Kelantan,O,Recent weekday average,days 8-14,-13.775641025641026,17.71153846153846,2485,2025
+Kelantan,O,Same weekday last week,days 1-7,-21.0,20.0,2534,2025
+Kelantan,O,Same weekday last week,days 8-14,-21.0,23.0,2485,2025
+Melaka,A,Gradient-boosted trees,days 1-7,-14.3236186961783,16.039191526674074,2534,2025
+Melaka,A,Gradient-boosted trees,days 8-14,-14.20935728588399,16.394949608951894,2485,2025
+Melaka,A,Recent weekday average,days 1-7,-14.53846153846154,17.397435897435898,2534,2025
+Melaka,A,Recent weekday average,days 8-14,-14.653846153846153,17.493589743589745,2485,2025
+Melaka,A,Same weekday last week,days 1-7,-21.0,20.0,2534,2025
+Melaka,A,Same weekday last week,days 8-14,-22.0,22.0,2485,2025
+Melaka,AB,Gradient-boosted trees,days 1-7,-4.002127628174532,4.976758732088829,2534,2025
+Melaka,AB,Gradient-boosted trees,days 8-14,-4.087021844684716,5.109359829180242,2485,2025
+Melaka,AB,Recent weekday average,days 1-7,-4.673076923076923,5.243589743589743,2534,2025
+Melaka,AB,Recent weekday average,days 8-14,-4.6923076923076925,5.2756410256410255,2485,2025
+Melaka,AB,Same weekday last week,days 1-7,-7.0,7.0,2534,2025
+Melaka,AB,Same weekday last week,days 8-14,-7.0,7.0,2485,2025
+Melaka,B,Gradient-boosted trees,days 1-7,-15.503945537078884,17.943062796587512,2534,2025
+Melaka,B,Gradient-boosted trees,days 8-14,-15.812629852789101,17.885434211601375,2485,2025
+Melaka,B,Recent weekday average,days 1-7,-16.134615384615383,19.705128205128204,2534,2025
+Melaka,B,Recent weekday average,days 8-14,-16.166666666666668,19.685897435897434,2485,2025
+Melaka,B,Same weekday last week,days 1-7,-23.0,24.0,2534,2025
+Melaka,B,Same weekday last week,days 8-14,-24.0,22.0,2485,2025
+Melaka,O,Gradient-boosted trees,days 1-7,-23.993632868583816,25.8093254370876,2534,2025
+Melaka,O,Gradient-boosted trees,days 8-14,-23.923798959910748,26.331621020815064,2485,2025
+Melaka,O,Recent weekday average,days 1-7,-24.012820512820515,26.737179487179485,2534,2025
+Melaka,O,Recent weekday average,days 8-14,-24.391025641025642,26.903846153846153,2485,2025
+Melaka,O,Same weekday last week,days 1-7,-34.0,34.0,2534,2025
+Melaka,O,Same weekday last week,days 8-14,-37.0,37.0,2485,2025
+Negeri Sembilan,A,Gradient-boosted trees,days 1-7,-9.938639127476762,13.990282153726273,2534,2025
+Negeri Sembilan,A,Gradient-boosted trees,days 8-14,-9.888295552969057,14.009467171410071,2485,2025
+Negeri Sembilan,A,Recent weekday average,days 1-7,-11.525641025641026,13.115384615384617,2534,2025
+Negeri Sembilan,A,Recent weekday average,days 8-14,-11.532051282051283,13.134615384615383,2485,2025
+Negeri Sembilan,A,Same weekday last week,days 1-7,-19.0,17.0,2534,2025
+Negeri Sembilan,A,Same weekday last week,days 8-14,-21.0,18.0,2485,2025
+Negeri Sembilan,AB,Gradient-boosted trees,days 1-7,-2.979185211434369,4.098274293838604,2534,2025
+Negeri Sembilan,AB,Gradient-boosted trees,days 8-14,-2.983492645734033,4.119259629245101,2485,2025
+Negeri Sembilan,AB,Recent weekday average,days 1-7,-2.75,4.384615384615385,2534,2025
+Negeri Sembilan,AB,Recent weekday average,days 8-14,-3.25,4.371794871794872,2485,2025
+Negeri Sembilan,AB,Same weekday last week,days 1-7,-5.0,5.0,2534,2025
+Negeri Sembilan,AB,Same weekday last week,days 8-14,-5.0,5.0,2485,2025
+Negeri Sembilan,B,Gradient-boosted trees,days 1-7,-9.543012158285613,13.036458555266748,2534,2025
+Negeri Sembilan,B,Gradient-boosted trees,days 8-14,-9.606264582255452,13.140529460155225,2485,2025
+Negeri Sembilan,B,Recent weekday average,days 1-7,-11.801282051282051,13.685897435897434,2534,2025
+Negeri Sembilan,B,Recent weekday average,days 8-14,-11.878205128205128,13.71153846153846,2485,2025
+Negeri Sembilan,B,Same weekday last week,days 1-7,-16.0,15.0,2534,2025
+Negeri Sembilan,B,Same weekday last week,days 8-14,-16.0,16.0,2485,2025
+Negeri Sembilan,O,Gradient-boosted trees,days 1-7,-15.18281610647536,21.712793170621083,2534,2025
+Negeri Sembilan,O,Gradient-boosted trees,days 8-14,-15.199593933632963,21.967853953439054,2485,2025
+Negeri Sembilan,O,Recent weekday average,days 1-7,-16.903846153846153,23.044871794871796,2534,2025
+Negeri Sembilan,O,Recent weekday average,days 8-14,-18.076923076923077,23.352564102564102,2485,2025
+Negeri Sembilan,O,Same weekday last week,days 1-7,-29.0,26.0,2534,2025
+Negeri Sembilan,O,Same weekday last week,days 8-14,-31.0,29.0,2485,2025
+Pahang,A,Gradient-boosted trees,days 1-7,-12.855206685565317,12.626972768569406,2534,2025
+Pahang,A,Gradient-boosted trees,days 8-14,-12.882369993760598,12.877995770098401,2485,2025
+Pahang,A,Recent weekday average,days 1-7,-12.653846153846153,14.737179487179485,2534,2025
+Pahang,A,Recent weekday average,days 8-14,-12.673076923076923,14.73076923076923,2485,2025
+Pahang,A,Same weekday last week,days 1-7,-18.0,18.0,2534,2025
+Pahang,A,Same weekday last week,days 8-14,-21.0,18.0,2485,2025
+Pahang,AB,Gradient-boosted trees,days 1-7,-3.4197606731657695,4.031413922500004,2534,2025
+Pahang,AB,Gradient-boosted trees,days 8-14,-3.3713845573821795,4.113277999060038,2485,2025
+Pahang,AB,Recent weekday average,days 1-7,-3.7051282051282053,4.32051282051282,2534,2025
+Pahang,AB,Recent weekday average,days 8-14,-3.698717948717949,4.333333333333333,2485,2025
+Pahang,AB,Same weekday last week,days 1-7,-6.0,6.0,2534,2025
+Pahang,AB,Same weekday last week,days 8-14,-6.0,6.0,2485,2025
+Pahang,B,Gradient-boosted trees,days 1-7,-13.38883710941386,14.120703279136933,2534,2025
+Pahang,B,Gradient-boosted trees,days 8-14,-13.459592827010251,14.17121309485417,2485,2025
+Pahang,B,Recent weekday average,days 1-7,-13.262820512820515,16.17948717948718,2534,2025
+Pahang,B,Recent weekday average,days 8-14,-13.358974358974358,15.852564102564102,2485,2025
+Pahang,B,Same weekday last week,days 1-7,-22.0,19.0,2534,2025
+Pahang,B,Same weekday last week,days 8-14,-22.0,21.0,2485,2025
+Pahang,O,Gradient-boosted trees,days 1-7,-20.734177721606436,21.932082393200396,2534,2025
+Pahang,O,Gradient-boosted trees,days 8-14,-20.374098636738218,20.914903034489985,2485,2025
+Pahang,O,Recent weekday average,days 1-7,-18.685897435897434,24.08974358974359,2534,2025
+Pahang,O,Recent weekday average,days 8-14,-18.692307692307693,24.307692307692307,2485,2025
+Pahang,O,Same weekday last week,days 1-7,-29.0,29.0,2534,2025
+Pahang,O,Same weekday last week,days 8-14,-31.0,31.0,2485,2025
+Perak,A,Gradient-boosted trees,days 1-7,-16.88254983608072,16.347624486758676,2534,2025
+Perak,A,Gradient-boosted trees,days 8-14,-16.67875388880801,15.566784982120144,2485,2025
+Perak,A,Recent weekday average,days 1-7,-16.33974358974359,16.794871794871796,2534,2025
+Perak,A,Recent weekday average,days 8-14,-16.435897435897438,16.993589743589745,2485,2025
+Perak,A,Same weekday last week,days 1-7,-25.0,24.0,2534,2025
+Perak,A,Same weekday last week,days 8-14,-24.0,24.0,2485,2025
+Perak,AB,Gradient-boosted trees,days 1-7,-5.547699687562654,5.9697644566526815,2534,2025
+Perak,AB,Gradient-boosted trees,days 8-14,-5.613741397749914,5.961338316345579,2485,2025
+Perak,AB,Recent weekday average,days 1-7,-5.493589743589743,6.621794871794871,2534,2025
+Perak,AB,Recent weekday average,days 8-14,-5.602564102564102,6.576923076923077,2485,2025
+Perak,AB,Same weekday last week,days 1-7,-8.0,9.0,2534,2025
+Perak,AB,Same weekday last week,days 8-14,-8.0,8.0,2485,2025
+Perak,B,Gradient-boosted trees,days 1-7,-18.190179678021053,21.511464654533185,2534,2025
+Perak,B,Gradient-boosted trees,days 8-14,-18.13564362835603,20.41364687295558,2485,2025
+Perak,B,Recent weekday average,days 1-7,-17.66025641025641,22.352564102564102,2534,2025
+Perak,B,Recent weekday average,days 8-14,-17.55128205128205,22.12179487179487,2485,2025
+Perak,B,Same weekday last week,days 1-7,-29.0,30.0,2534,2025
+Perak,B,Same weekday last week,days 8-14,-27.0,28.0,2485,2025
+Perak,O,Gradient-boosted trees,days 1-7,-27.73613276546834,26.091714735900254,2534,2025
+Perak,O,Gradient-boosted trees,days 8-14,-27.90972061967075,26.27814785635462,2485,2025
+Perak,O,Recent weekday average,days 1-7,-25.17307692307692,29.397435897435898,2534,2025
+Perak,O,Recent weekday average,days 8-14,-25.320512820512818,29.243589743589745,2485,2025
+Perak,O,Same weekday last week,days 1-7,-40.0,43.0,2534,2025
+Perak,O,Same weekday last week,days 8-14,-38.0,34.0,2485,2025
+Pulau Pinang,A,Gradient-boosted trees,days 1-7,-13.258876018219816,15.035124907610992,2534,2025
+Pulau Pinang,A,Gradient-boosted trees,days 8-14,-12.865914966464064,14.385856313182277,2485,2025
+Pulau Pinang,A,Recent weekday average,days 1-7,-12.743589743589745,17.26923076923077,2534,2025
+Pulau Pinang,A,Recent weekday average,days 8-14,-12.743589743589745,17.153846153846153,2485,2025
+Pulau Pinang,A,Same weekday last week,days 1-7,-20.0,23.0,2534,2025
+Pulau Pinang,A,Same weekday last week,days 8-14,-22.0,22.0,2485,2025
+Pulau Pinang,AB,Gradient-boosted trees,days 1-7,-4.772191239063587,4.7681670340296325,2534,2025
+Pulau Pinang,AB,Gradient-boosted trees,days 8-14,-4.648914634689055,4.749229110470699,2485,2025
+Pulau Pinang,AB,Recent weekday average,days 1-7,-4.705128205128205,5.564102564102564,2534,2025
+Pulau Pinang,AB,Recent weekday average,days 8-14,-4.717948717948718,5.685897435897436,2485,2025
+Pulau Pinang,AB,Same weekday last week,days 1-7,-7.0,7.0,2534,2025
+Pulau Pinang,AB,Same weekday last week,days 8-14,-7.0,7.0,2485,2025
+Pulau Pinang,B,Gradient-boosted trees,days 1-7,-15.496197668883127,13.382383327397697,2534,2025
+Pulau Pinang,B,Gradient-boosted trees,days 8-14,-15.31804588868961,13.389144606769541,2485,2025
+Pulau Pinang,B,Recent weekday average,days 1-7,-14.083333333333336,17.923076923076923,2534,2025
+Pulau Pinang,B,Recent weekday average,days 8-14,-14.262820512820511,17.98076923076923,2485,2025
+Pulau Pinang,B,Same weekday last week,days 1-7,-21.0,21.0,2534,2025
+Pulau Pinang,B,Same weekday last week,days 8-14,-21.0,22.0,2485,2025
+Pulau Pinang,O,Gradient-boosted trees,days 1-7,-19.749543139043155,22.43680250240373,2534,2025
+Pulau Pinang,O,Gradient-boosted trees,days 8-14,-19.378671406582278,23.08999282105141,2485,2025
+Pulau Pinang,O,Recent weekday average,days 1-7,-20.141025641025642,27.519230769230766,2534,2025
+Pulau Pinang,O,Recent weekday average,days 8-14,-20.192307692307693,27.282051282051285,2485,2025
+Pulau Pinang,O,Same weekday last week,days 1-7,-31.0,31.0,2534,2025
+Pulau Pinang,O,Same weekday last week,days 8-14,-34.0,35.0,2485,2025
+Sabah,A,Gradient-boosted trees,days 1-7,-14.74788503149382,14.424254062872787,2534,2025
+Sabah,A,Gradient-boosted trees,days 8-14,-14.52864273628991,14.98221146757679,2485,2025
+Sabah,A,Recent weekday average,days 1-7,-13.576923076923077,16.365384615384617,2534,2025
+Sabah,A,Recent weekday average,days 8-14,-13.39102564102564,16.544871794871796,2485,2025
+Sabah,A,Same weekday last week,days 1-7,-22.0,21.0,2534,2025
+Sabah,A,Same weekday last week,days 8-14,-22.0,23.0,2485,2025
+Sabah,AB,Gradient-boosted trees,days 1-7,-4.2065576069278485,4.902565177997738,2534,2025
+Sabah,AB,Gradient-boosted trees,days 8-14,-4.259695602227259,4.938752881784882,2485,2025
+Sabah,AB,Recent weekday average,days 1-7,-4.0256410256410255,4.826923076923077,2534,2025
+Sabah,AB,Recent weekday average,days 8-14,-4.0256410256410255,4.92948717948718,2485,2025
+Sabah,AB,Same weekday last week,days 1-7,-6.0,6.0,2534,2025
+Sabah,AB,Same weekday last week,days 8-14,-6.0,6.0,2485,2025
+Sabah,B,Gradient-boosted trees,days 1-7,-15.538119971512636,14.932269234484053,2534,2025
+Sabah,B,Gradient-boosted trees,days 8-14,-15.355912085595932,15.439376464404372,2485,2025
+Sabah,B,Recent weekday average,days 1-7,-15.044871794871796,16.76282051282051,2534,2025
+Sabah,B,Recent weekday average,days 8-14,-14.903846153846153,17.08974358974359,2485,2025
+Sabah,B,Same weekday last week,days 1-7,-21.0,24.0,2534,2025
+Sabah,B,Same weekday last week,days 8-14,-23.0,23.0,2485,2025
+Sabah,O,Gradient-boosted trees,days 1-7,-26.558022287456346,24.040339229869126,2534,2025
+Sabah,O,Gradient-boosted trees,days 8-14,-27.356611216503083,25.370131664018565,2485,2025
+Sabah,O,Recent weekday average,days 1-7,-26.833333333333336,29.12179487179487,2534,2025
+Sabah,O,Recent weekday average,days 8-14,-25.365384615384613,29.66666666666667,2485,2025
+Sabah,O,Same weekday last week,days 1-7,-41.0,40.0,2534,2025
+Sabah,O,Same weekday last week,days 8-14,-42.0,44.0,2485,2025
+Sarawak,A,Gradient-boosted trees,days 1-7,-10.492665502875806,12.075285111317061,2534,2025
+Sarawak,A,Gradient-boosted trees,days 8-14,-10.181658128692899,12.183567264931131,2485,2025
+Sarawak,A,Recent weekday average,days 1-7,-11.743589743589745,14.602564102564102,2534,2025
+Sarawak,A,Recent weekday average,days 8-14,-11.90384615384616,14.57692307692308,2485,2025
+Sarawak,A,Same weekday last week,days 1-7,-18.0,16.0,2534,2025
+Sarawak,A,Same weekday last week,days 8-14,-21.0,21.0,2485,2025
+Sarawak,AB,Gradient-boosted trees,days 1-7,-3.687937347070184,4.876943558955613,2534,2025
+Sarawak,AB,Gradient-boosted trees,days 8-14,-3.635056572575335,4.884640883971709,2485,2025
+Sarawak,AB,Recent weekday average,days 1-7,-3.6730769230769234,5.2756410256410255,2534,2025
+Sarawak,AB,Recent weekday average,days 8-14,-3.8397435897435894,5.205128205128204,2485,2025
+Sarawak,AB,Same weekday last week,days 1-7,-7.0,7.0,2534,2025
+Sarawak,AB,Same weekday last week,days 8-14,-7.0,7.0,2485,2025
+Sarawak,B,Gradient-boosted trees,days 1-7,-13.201530858128287,11.796035478998611,2534,2025
+Sarawak,B,Gradient-boosted trees,days 8-14,-13.99356955944895,11.71560798317065,2485,2025
+Sarawak,B,Recent weekday average,days 1-7,-13.160256410256409,15.48076923076923,2534,2025
+Sarawak,B,Recent weekday average,days 8-14,-13.224358974358971,15.51923076923077,2485,2025
+Sarawak,B,Same weekday last week,days 1-7,-21.0,18.0,2534,2025
+Sarawak,B,Same weekday last week,days 8-14,-25.0,23.0,2485,2025
+Sarawak,O,Gradient-boosted trees,days 1-7,-19.57864979061342,17.581174008889803,2534,2025
+Sarawak,O,Gradient-boosted trees,days 8-14,-20.52499069830766,16.79443579098448,2485,2025
+Sarawak,O,Recent weekday average,days 1-7,-19.057692307692307,21.57051282051282,2534,2025
+Sarawak,O,Recent weekday average,days 8-14,-19.42948717948718,21.27564102564103,2485,2025
+Sarawak,O,Same weekday last week,days 1-7,-29.0,26.0,2534,2025
+Sarawak,O,Same weekday last week,days 8-14,-32.0,31.0,2485,2025
+Selangor,A,Gradient-boosted trees,days 1-7,-14.87803280431114,14.770905605228428,2534,2025
+Selangor,A,Gradient-boosted trees,days 8-14,-14.838757416562693,14.414073008623486,2485,2025
+Selangor,A,Recent weekday average,days 1-7,-14.48076923076923,15.647435897435898,2534,2025
+Selangor,A,Recent weekday average,days 8-14,-14.512820512820515,15.871794871794872,2485,2025
+Selangor,A,Same weekday last week,days 1-7,-23.0,23.0,2534,2025
+Selangor,A,Same weekday last week,days 8-14,-23.0,26.0,2485,2025
+Selangor,AB,Gradient-boosted trees,days 1-7,-4.879072832714382,4.87353296997793,2534,2025
+Selangor,AB,Gradient-boosted trees,days 8-14,-4.945732412344626,4.97749364366903,2485,2025
+Selangor,AB,Recent weekday average,days 1-7,-4.801282051282051,5.339743589743589,2534,2025
+Selangor,AB,Recent weekday average,days 8-14,-4.801282051282051,5.4423076923076925,2485,2025
+Selangor,AB,Same weekday last week,days 1-7,-7.0,7.0,2534,2025
+Selangor,AB,Same weekday last week,days 8-14,-7.0,7.0,2485,2025
+Selangor,B,Gradient-boosted trees,days 1-7,-18.347489553406938,16.062151454939343,2534,2025
+Selangor,B,Gradient-boosted trees,days 8-14,-18.80136118556409,16.607644131753876,2485,2025
+Selangor,B,Recent weekday average,days 1-7,-17.41025641025641,18.94871794871795,2534,2025
+Selangor,B,Recent weekday average,days 8-14,-17.423076923076923,19.01923076923077,2485,2025
+Selangor,B,Same weekday last week,days 1-7,-27.0,26.0,2534,2025
+Selangor,B,Same weekday last week,days 8-14,-27.0,29.0,2485,2025
+Selangor,O,Gradient-boosted trees,days 1-7,-21.771117595857554,24.108841064202217,2534,2025
+Selangor,O,Gradient-boosted trees,days 8-14,-23.211204948055375,23.832496826276603,2485,2025
+Selangor,O,Recent weekday average,days 1-7,-22.641025641025642,29.53846153846154,2534,2025
+Selangor,O,Recent weekday average,days 8-14,-22.83974358974359,29.634615384615387,2485,2025
+Selangor,O,Same weekday last week,days 1-7,-39.0,43.0,2534,2025
+Selangor,O,Same weekday last week,days 8-14,-39.0,44.0,2485,2025
+Terengganu,A,Gradient-boosted trees,days 1-7,-9.836168793299862,10.450869453536836,2534,2025
+Terengganu,A,Gradient-boosted trees,days 8-14,-10.012685647314253,10.646131881401761,2485,2025
+Terengganu,A,Recent weekday average,days 1-7,-9.76923076923077,12.378205128205128,2534,2025
+Terengganu,A,Recent weekday average,days 8-14,-9.756410256410257,12.429487179487179,2485,2025
+Terengganu,A,Same weekday last week,days 1-7,-14.0,15.0,2534,2025
+Terengganu,A,Same weekday last week,days 8-14,-14.0,14.0,2485,2025
+Terengganu,AB,Gradient-boosted trees,days 1-7,-3.710243679373111,4.09209696074544,2534,2025
+Terengganu,AB,Gradient-boosted trees,days 8-14,-3.6679976979388087,4.112886864713798,2485,2025
+Terengganu,AB,Recent weekday average,days 1-7,-3.3589743589743586,3.9935897435897436,2534,2025
+Terengganu,AB,Recent weekday average,days 8-14,-3.3717948717948714,4.012820512820513,2485,2025
+Terengganu,AB,Same weekday last week,days 1-7,-5.0,5.0,2534,2025
+Terengganu,AB,Same weekday last week,days 8-14,-5.0,5.0,2485,2025
+Terengganu,B,Gradient-boosted trees,days 1-7,-11.649877649758526,12.83445634824343,2534,2025
+Terengganu,B,Gradient-boosted trees,days 8-14,-11.761464858487791,12.519517764817504,2485,2025
+Terengganu,B,Recent weekday average,days 1-7,-11.384615384615385,13.205128205128204,2534,2025
+Terengganu,B,Recent weekday average,days 8-14,-11.378205128205128,13.237179487179487,2485,2025
+Terengganu,B,Same weekday last week,days 1-7,-16.0,17.0,2534,2025
+Terengganu,B,Same weekday last week,days 8-14,-17.0,16.0,2485,2025
+Terengganu,O,Gradient-boosted trees,days 1-7,-15.748728962318285,17.9027402646262,2534,2025
+Terengganu,O,Gradient-boosted trees,days 8-14,-14.926348078085852,17.957016332040105,2485,2025
+Terengganu,O,Recent weekday average,days 1-7,-14.865384615384617,18.48076923076923,2534,2025
+Terengganu,O,Recent weekday average,days 8-14,-14.929487179487179,18.487179487179485,2485,2025
+Terengganu,O,Same weekday last week,days 1-7,-24.0,22.0,2534,2025
+Terengganu,O,Same weekday last week,days 8-14,-22.0,23.0,2485,2025
+W.P. Kuala Lumpur,A,Gradient-boosted trees,days 1-7,-40.519452412589544,36.5593240545611,2534,2025
+W.P. Kuala Lumpur,A,Gradient-boosted trees,days 8-14,-40.128069782092524,37.79647648732754,2485,2025
+W.P. Kuala Lumpur,A,Recent weekday average,days 1-7,-44.61538461538461,46.87820512820514,2534,2025
+W.P. Kuala Lumpur,A,Recent weekday average,days 8-14,-44.43589743589743,47.19230769230768,2485,2025
+W.P. Kuala Lumpur,A,Same weekday last week,days 1-7,-65.0,58.0,2534,2025
+W.P. Kuala Lumpur,A,Same weekday last week,days 8-14,-69.0,67.0,2485,2025
+W.P. Kuala Lumpur,AB,Gradient-boosted trees,days 1-7,-18.24486747293895,14.430327897944743,2534,2025
+W.P. Kuala Lumpur,AB,Gradient-boosted trees,days 8-14,-19.014341324552937,15.16971847540222,2485,2025
+W.P. Kuala Lumpur,AB,Recent weekday average,days 1-7,-18.596153846153847,16.128205128205128,2534,2025
+W.P. Kuala Lumpur,AB,Recent weekday average,days 8-14,-18.717948717948715,16.064102564102566,2485,2025
+W.P. Kuala Lumpur,AB,Same weekday last week,days 1-7,-23.0,23.0,2534,2025
+W.P. Kuala Lumpur,AB,Same weekday last week,days 8-14,-27.0,28.0,2485,2025
+W.P. Kuala Lumpur,B,Gradient-boosted trees,days 1-7,-46.329249902955794,42.96553856849951,2534,2025
+W.P. Kuala Lumpur,B,Gradient-boosted trees,days 8-14,-42.78509587340625,43.329279945652104,2485,2025
+W.P. Kuala Lumpur,B,Recent weekday average,days 1-7,-53.93589743589743,50.83974358974359,2534,2025
+W.P. Kuala Lumpur,B,Recent weekday average,days 8-14,-54.30769230769231,51.28846153846155,2485,2025
+W.P. Kuala Lumpur,B,Same weekday last week,days 1-7,-64.0,63.0,2534,2025
+W.P. Kuala Lumpur,B,Same weekday last week,days 8-14,-76.0,70.0,2485,2025
+W.P. Kuala Lumpur,O,Gradient-boosted trees,days 1-7,-65.8059288155579,63.19029310541967,2534,2025
+W.P. Kuala Lumpur,O,Gradient-boosted trees,days 8-14,-63.592695834085106,67.9114540041044,2485,2025
+W.P. Kuala Lumpur,O,Recent weekday average,days 1-7,-75.94230769230768,75.28846153846155,2534,2025
+W.P. Kuala Lumpur,O,Recent weekday average,days 8-14,-76.0769230769231,75.67948717948718,2485,2025
+W.P. Kuala Lumpur,O,Same weekday last week,days 1-7,-101.0,108.0,2534,2025
+W.P. Kuala Lumpur,O,Same weekday last week,days 8-14,-120.0,93.0,2485,2025
