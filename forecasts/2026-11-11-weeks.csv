@@ -1,0 +1,313 @@
+state,blood_type,method,week,first,last,forecast,low,high,low_line,warning,issued
+Johor,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,224.0,183.0,263.8,191.0,,2026-11-11
+Johor,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,225.6,185.9,267.3,191.0,,2026-11-11
+Johor,A,Recent weekday average,1,2026-11-12,2026-11-18,216.6,169.3,272.4,191.0,,2026-11-11
+Johor,A,Recent weekday average,2,2026-11-19,2026-11-25,216.6,169.1,272.7,191.0,,2026-11-11
+Johor,A,Same weekday last week,1,2026-11-12,2026-11-18,253.0,180.0,312.0,191.0,,2026-11-11
+Johor,A,Same weekday last week,2,2026-11-19,2026-11-25,253.0,176.0,325.0,191.0,,2026-11-11
+Johor,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,52.0,38.2,67.5,38.0,,2026-11-11
+Johor,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,52.3,38.2,67.7,38.0,,2026-11-11
+Johor,AB,Recent weekday average,1,2026-11-12,2026-11-18,47.5,36.6,69.0,38.0,,2026-11-11
+Johor,AB,Recent weekday average,2,2026-11-19,2026-11-25,47.5,36.5,67.8,38.0,,2026-11-11
+Johor,AB,Same weekday last week,1,2026-11-12,2026-11-18,58.0,36.0,78.0,38.0,,2026-11-11
+Johor,AB,Same weekday last week,2,2026-11-19,2026-11-25,58.0,33.0,78.0,38.0,,2026-11-11
+Johor,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,248.2,196.1,305.1,211.0,,2026-11-11
+Johor,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,250.5,200.7,311.0,211.0,,2026-11-11
+Johor,B,Recent weekday average,1,2026-11-12,2026-11-18,240.6,187.3,321.7,211.0,,2026-11-11
+Johor,B,Recent weekday average,2,2026-11-19,2026-11-25,240.6,187.0,322.0,211.0,,2026-11-11
+Johor,B,Same weekday last week,1,2026-11-12,2026-11-18,227.0,144.0,300.0,211.0,,2026-11-11
+Johor,B,Same weekday last week,2,2026-11-19,2026-11-25,227.0,138.0,315.0,211.0,,2026-11-11
+Johor,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,400.2,327.8,464.8,351.0,,2026-11-11
+Johor,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,409.2,335.8,476.4,351.0,,2026-11-11
+Johor,O,Recent weekday average,1,2026-11-12,2026-11-18,391.9,314.9,483.0,351.0,,2026-11-11
+Johor,O,Recent weekday average,2,2026-11-19,2026-11-25,391.9,315.0,484.3,351.0,,2026-11-11
+Johor,O,Same weekday last week,1,2026-11-12,2026-11-18,443.0,325.0,542.0,351.0,,2026-11-11
+Johor,O,Same weekday last week,2,2026-11-19,2026-11-25,443.0,322.0,549.0,351.0,,2026-11-11
+Kedah,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,100.2,74.4,127.7,87.0,,2026-11-11
+Kedah,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,101.1,74.9,129.6,87.0,,2026-11-11
+Kedah,A,Recent weekday average,1,2026-11-12,2026-11-18,102.5,73.4,137.6,87.0,,2026-11-11
+Kedah,A,Recent weekday average,2,2026-11-19,2026-11-25,102.5,72.9,137.8,87.0,,2026-11-11
+Kedah,A,Same weekday last week,1,2026-11-12,2026-11-18,115.0,77.0,151.0,87.0,,2026-11-11
+Kedah,A,Same weekday last week,2,2026-11-19,2026-11-25,115.0,68.0,157.0,87.0,,2026-11-11
+Kedah,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,27.0,19.7,37.5,21.0,,2026-11-11
+Kedah,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,27.1,19.8,37.8,21.0,,2026-11-11
+Kedah,AB,Recent weekday average,1,2026-11-12,2026-11-18,26.3,18.6,38.1,21.0,,2026-11-11
+Kedah,AB,Recent weekday average,2,2026-11-19,2026-11-25,26.3,18.6,38.6,21.0,,2026-11-11
+Kedah,AB,Same weekday last week,1,2026-11-12,2026-11-18,39.0,26.0,50.0,21.0,,2026-11-11
+Kedah,AB,Same weekday last week,2,2026-11-19,2026-11-25,39.0,26.0,52.0,21.0,,2026-11-11
+Kedah,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,115.5,86.5,151.0,98.0,,2026-11-11
+Kedah,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,116.6,86.3,149.3,98.0,,2026-11-11
+Kedah,B,Recent weekday average,1,2026-11-12,2026-11-18,117.1,85.4,156.7,98.0,,2026-11-11
+Kedah,B,Recent weekday average,2,2026-11-19,2026-11-25,117.1,84.9,154.6,98.0,,2026-11-11
+Kedah,B,Same weekday last week,1,2026-11-12,2026-11-18,152.0,105.0,204.0,98.0,,2026-11-11
+Kedah,B,Same weekday last week,2,2026-11-19,2026-11-25,152.0,85.0,205.0,98.0,,2026-11-11
+Kedah,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,170.3,123.4,219.4,140.0,,2026-11-11
+Kedah,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,173.4,129.0,221.4,140.0,,2026-11-11
+Kedah,O,Recent weekday average,1,2026-11-12,2026-11-18,169.6,121.1,231.6,140.0,,2026-11-11
+Kedah,O,Recent weekday average,2,2026-11-19,2026-11-25,169.6,121.1,233.4,140.0,,2026-11-11
+Kedah,O,Same weekday last week,1,2026-11-12,2026-11-18,211.0,138.0,278.0,140.0,,2026-11-11
+Kedah,O,Same weekday last week,2,2026-11-19,2026-11-25,211.0,127.0,285.0,140.0,,2026-11-11
+Kelantan,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,98.0,69.0,143.0,76.0,,2026-11-11
+Kelantan,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,100.2,69.9,144.0,76.0,,2026-11-11
+Kelantan,A,Recent weekday average,1,2026-11-12,2026-11-18,98.9,71.3,147.8,76.0,,2026-11-11
+Kelantan,A,Recent weekday average,2,2026-11-19,2026-11-25,98.9,70.3,148.1,76.0,,2026-11-11
+Kelantan,A,Same weekday last week,1,2026-11-12,2026-11-18,164.0,108.0,224.0,76.0,,2026-11-11
+Kelantan,A,Same weekday last week,2,2026-11-19,2026-11-25,164.0,105.0,223.0,76.0,,2026-11-11
+Kelantan,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,27.7,18.1,38.4,19.0,,2026-11-11
+Kelantan,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,27.8,18.4,38.3,19.0,,2026-11-11
+Kelantan,AB,Recent weekday average,1,2026-11-12,2026-11-18,25.0,17.2,37.8,19.0,,2026-11-11
+Kelantan,AB,Recent weekday average,2,2026-11-19,2026-11-25,25.0,17.2,38.1,19.0,,2026-11-11
+Kelantan,AB,Same weekday last week,1,2026-11-12,2026-11-18,41.0,25.0,57.0,19.0,,2026-11-11
+Kelantan,AB,Same weekday last week,2,2026-11-19,2026-11-25,41.0,24.0,56.0,19.0,,2026-11-11
+Kelantan,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,95.7,66.4,134.9,75.0,,2026-11-11
+Kelantan,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,98.0,68.6,136.5,75.0,,2026-11-11
+Kelantan,B,Recent weekday average,1,2026-11-12,2026-11-18,96.2,69.8,142.8,75.0,,2026-11-11
+Kelantan,B,Recent weekday average,2,2026-11-19,2026-11-25,96.2,69.8,144.2,75.0,,2026-11-11
+Kelantan,B,Same weekday last week,1,2026-11-12,2026-11-18,180.0,127.0,236.0,75.0,,2026-11-11
+Kelantan,B,Same weekday last week,2,2026-11-19,2026-11-25,180.0,128.0,233.0,75.0,,2026-11-11
+Kelantan,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,146.4,102.0,203.7,118.0,,2026-11-11
+Kelantan,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,149.2,104.2,206.4,118.0,,2026-11-11
+Kelantan,O,Recent weekday average,1,2026-11-12,2026-11-18,149.0,112.5,213.8,118.0,,2026-11-11
+Kelantan,O,Recent weekday average,2,2026-11-19,2026-11-25,149.0,112.7,213.6,118.0,,2026-11-11
+Kelantan,O,Same weekday last week,1,2026-11-12,2026-11-18,278.0,190.0,358.0,118.0,,2026-11-11
+Kelantan,O,Same weekday last week,2,2026-11-19,2026-11-25,278.0,197.0,356.0,118.0,,2026-11-11
+Melaka,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,138.6,100.6,168.6,124.0,,2026-11-11
+Melaka,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,141.0,104.0,170.1,124.0,,2026-11-11
+Melaka,A,Recent weekday average,1,2026-11-12,2026-11-18,138.7,103.4,170.9,124.0,,2026-11-11
+Melaka,A,Recent weekday average,2,2026-11-19,2026-11-25,138.7,102.5,170.9,124.0,,2026-11-11
+Melaka,A,Same weekday last week,1,2026-11-12,2026-11-18,150.0,93.0,204.0,124.0,,2026-11-11
+Melaka,A,Same weekday last week,2,2026-11-19,2026-11-25,150.0,96.0,211.0,124.0,,2026-11-11
+Melaka,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,35.3,23.6,47.5,29.0,,2026-11-11
+Melaka,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,36.0,24.5,47.5,29.0,,2026-11-11
+Melaka,AB,Recent weekday average,1,2026-11-12,2026-11-18,34.5,23.0,47.1,29.0,,2026-11-11
+Melaka,AB,Recent weekday average,2,2026-11-19,2026-11-25,34.5,23.1,47.0,29.0,,2026-11-11
+Melaka,AB,Same weekday last week,1,2026-11-12,2026-11-18,40.0,21.0,59.0,29.0,,2026-11-11
+Melaka,AB,Same weekday last week,2,2026-11-19,2026-11-25,40.0,22.0,58.0,29.0,,2026-11-11
+Melaka,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,146.4,104.1,182.0,131.0,,2026-11-11
+Melaka,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,151.6,109.2,188.3,131.0,,2026-11-11
+Melaka,B,Recent weekday average,1,2026-11-12,2026-11-18,146.6,105.8,187.4,131.0,,2026-11-11
+Melaka,B,Recent weekday average,2,2026-11-19,2026-11-25,146.6,104.8,188.1,131.0,,2026-11-11
+Melaka,B,Same weekday last week,1,2026-11-12,2026-11-18,172.0,115.0,232.0,131.0,,2026-11-11
+Melaka,B,Same weekday last week,2,2026-11-19,2026-11-25,172.0,114.0,234.0,131.0,,2026-11-11
+Melaka,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,236.4,169.0,290.1,208.0,,2026-11-11
+Melaka,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,242.8,177.0,295.3,208.0,,2026-11-11
+Melaka,O,Recent weekday average,1,2026-11-12,2026-11-18,233.3,175.4,291.2,208.0,,2026-11-11
+Melaka,O,Recent weekday average,2,2026-11-19,2026-11-25,233.3,172.2,291.7,208.0,,2026-11-11
+Melaka,O,Same weekday last week,1,2026-11-12,2026-11-18,244.0,154.0,337.0,208.0,,2026-11-11
+Melaka,O,Same weekday last week,2,2026-11-19,2026-11-25,244.0,150.0,334.0,208.0,,2026-11-11
+Negeri Sembilan,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,81.5,56.6,115.6,67.0,,2026-11-11
+Negeri Sembilan,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,83.0,57.0,118.2,67.0,,2026-11-11
+Negeri Sembilan,A,Recent weekday average,1,2026-11-12,2026-11-18,81.5,54.9,122.3,67.0,,2026-11-11
+Negeri Sembilan,A,Recent weekday average,2,2026-11-19,2026-11-25,81.5,54.7,122.3,67.0,,2026-11-11
+Negeri Sembilan,A,Same weekday last week,1,2026-11-12,2026-11-18,73.0,26.0,116.0,67.0,,2026-11-11
+Negeri Sembilan,A,Same weekday last week,2,2026-11-19,2026-11-25,73.0,18.0,123.0,67.0,,2026-11-11
+Negeri Sembilan,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,16.7,4.9,28.1,11.0,,2026-11-11
+Negeri Sembilan,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,16.9,4.0,28.7,11.0,,2026-11-11
+Negeri Sembilan,AB,Recent weekday average,1,2026-11-12,2026-11-18,15.6,3.6,28.8,11.0,,2026-11-11
+Negeri Sembilan,AB,Recent weekday average,2,2026-11-19,2026-11-25,15.6,2.9,28.8,11.0,,2026-11-11
+Negeri Sembilan,AB,Same weekday last week,1,2026-11-12,2026-11-18,15.0,0.0,30.0,11.0,,2026-11-11
+Negeri Sembilan,AB,Same weekday last week,2,2026-11-19,2026-11-25,15.0,0.0,32.0,11.0,,2026-11-11
+Negeri Sembilan,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,95.4,66.9,128.8,71.0,,2026-11-11
+Negeri Sembilan,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,97.1,66.7,131.2,71.0,,2026-11-11
+Negeri Sembilan,B,Recent weekday average,1,2026-11-12,2026-11-18,89.6,61.4,127.5,71.0,,2026-11-11
+Negeri Sembilan,B,Recent weekday average,2,2026-11-19,2026-11-25,89.6,61.2,127.9,71.0,,2026-11-11
+Negeri Sembilan,B,Same weekday last week,1,2026-11-12,2026-11-18,87.0,39.0,134.0,71.0,,2026-11-11
+Negeri Sembilan,B,Same weekday last week,2,2026-11-19,2026-11-25,87.0,37.0,142.0,71.0,,2026-11-11
+Negeri Sembilan,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,148.7,102.0,207.3,120.0,,2026-11-11
+Negeri Sembilan,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,151.9,103.7,210.9,120.0,,2026-11-11
+Negeri Sembilan,O,Recent weekday average,1,2026-11-12,2026-11-18,144.9,103.6,215.5,120.0,,2026-11-11
+Negeri Sembilan,O,Recent weekday average,2,2026-11-19,2026-11-25,144.9,103.8,217.3,120.0,,2026-11-11
+Negeri Sembilan,O,Same weekday last week,1,2026-11-12,2026-11-18,118.0,40.0,189.0,120.0,Watch,2026-11-11
+Negeri Sembilan,O,Same weekday last week,2,2026-11-19,2026-11-25,118.0,35.0,207.0,120.0,Watch,2026-11-11
+Pahang,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,119.6,77.7,155.6,100.0,,2026-11-11
+Pahang,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,122.8,78.5,159.8,100.0,,2026-11-11
+Pahang,A,Recent weekday average,1,2026-11-12,2026-11-18,117.0,76.2,161.4,100.0,,2026-11-11
+Pahang,A,Recent weekday average,2,2026-11-19,2026-11-25,117.0,74.8,162.1,100.0,,2026-11-11
+Pahang,A,Same weekday last week,1,2026-11-12,2026-11-18,94.0,49.0,148.0,100.0,Watch,2026-11-11
+Pahang,A,Same weekday last week,2,2026-11-19,2026-11-25,94.0,34.0,153.0,100.0,Watch,2026-11-11
+Pahang,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,29.2,18.2,40.5,22.0,,2026-11-11
+Pahang,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,29.8,19.0,41.1,22.0,,2026-11-11
+Pahang,AB,Recent weekday average,1,2026-11-12,2026-11-18,27.9,17.3,42.0,22.0,,2026-11-11
+Pahang,AB,Recent weekday average,2,2026-11-19,2026-11-25,27.9,17.1,42.0,22.0,,2026-11-11
+Pahang,AB,Same weekday last week,1,2026-11-12,2026-11-18,14.0,0.0,28.0,22.0,Watch,2026-11-11
+Pahang,AB,Same weekday last week,2,2026-11-19,2026-11-25,14.0,0.0,31.0,22.0,Watch,2026-11-11
+Pahang,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,130.2,89.9,165.8,111.7,,2026-11-11
+Pahang,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,134.5,93.0,171.7,111.7,,2026-11-11
+Pahang,B,Recent weekday average,1,2026-11-12,2026-11-18,129.4,96.2,174.5,111.7,,2026-11-11
+Pahang,B,Recent weekday average,2,2026-11-19,2026-11-25,129.4,95.2,174.4,111.7,,2026-11-11
+Pahang,B,Same weekday last week,1,2026-11-12,2026-11-18,96.0,42.0,147.0,111.7,Watch,2026-11-11
+Pahang,B,Same weekday last week,2,2026-11-19,2026-11-25,96.0,40.0,163.0,111.7,Watch,2026-11-11
+Pahang,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,192.9,133.2,240.8,162.0,,2026-11-11
+Pahang,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,198.8,137.9,245.8,162.0,,2026-11-11
+Pahang,O,Recent weekday average,1,2026-11-12,2026-11-18,189.2,134.0,255.3,162.0,,2026-11-11
+Pahang,O,Recent weekday average,2,2026-11-19,2026-11-25,189.2,133.5,256.2,162.0,,2026-11-11
+Pahang,O,Same weekday last week,1,2026-11-12,2026-11-18,158.0,83.0,237.0,162.0,Watch,2026-11-11
+Pahang,O,Same weekday last week,2,2026-11-19,2026-11-25,158.0,78.0,249.0,162.0,Watch,2026-11-11
+Perak,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,214.1,150.5,270.5,195.7,,2026-11-11
+Perak,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,221.0,159.5,275.7,195.7,,2026-11-11
+Perak,A,Recent weekday average,1,2026-11-12,2026-11-18,219.2,164.0,278.4,195.7,,2026-11-11
+Perak,A,Recent weekday average,2,2026-11-19,2026-11-25,219.2,164.0,279.9,195.7,,2026-11-11
+Perak,A,Same weekday last week,1,2026-11-12,2026-11-18,205.0,118.0,297.0,195.7,,2026-11-11
+Perak,A,Same weekday last week,2,2026-11-19,2026-11-25,205.0,124.0,290.0,195.7,,2026-11-11
+Perak,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,53.6,35.4,71.0,45.0,,2026-11-11
+Perak,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,54.1,34.6,72.7,45.0,,2026-11-11
+Perak,AB,Recent weekday average,1,2026-11-12,2026-11-18,53.3,34.6,72.1,45.0,,2026-11-11
+Perak,AB,Recent weekday average,2,2026-11-19,2026-11-25,53.3,34.5,72.3,45.0,,2026-11-11
+Perak,AB,Same weekday last week,1,2026-11-12,2026-11-18,49.0,25.0,79.0,45.0,,2026-11-11
+Perak,AB,Same weekday last week,2,2026-11-19,2026-11-25,49.0,25.0,77.0,45.0,,2026-11-11
+Perak,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,239.5,171.8,302.9,216.0,,2026-11-11
+Perak,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,247.3,179.6,309.3,216.0,,2026-11-11
+Perak,B,Recent weekday average,1,2026-11-12,2026-11-18,242.9,182.7,312.9,216.0,,2026-11-11
+Perak,B,Recent weekday average,2,2026-11-19,2026-11-25,242.9,182.2,313.2,216.0,,2026-11-11
+Perak,B,Same weekday last week,1,2026-11-12,2026-11-18,217.0,117.0,319.0,216.0,,2026-11-11
+Perak,B,Same weekday last week,2,2026-11-19,2026-11-25,217.0,132.0,309.0,216.0,,2026-11-11
+Perak,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,369.1,265.7,459.5,336.0,,2026-11-11
+Perak,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,386.4,279.8,473.0,336.0,,2026-11-11
+Perak,O,Recent weekday average,1,2026-11-12,2026-11-18,377.0,290.0,467.8,336.0,,2026-11-11
+Perak,O,Recent weekday average,2,2026-11-19,2026-11-25,377.0,286.2,469.4,336.0,,2026-11-11
+Perak,O,Same weekday last week,1,2026-11-12,2026-11-18,355.0,218.0,493.0,336.0,,2026-11-11
+Perak,O,Same weekday last week,2,2026-11-19,2026-11-25,355.0,224.0,503.0,336.0,,2026-11-11
+Pulau Pinang,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,213.7,175.2,257.8,181.0,,2026-11-11
+Pulau Pinang,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,220.3,181.5,263.6,181.0,,2026-11-11
+Pulau Pinang,A,Recent weekday average,1,2026-11-12,2026-11-18,204.9,165.8,256.6,181.0,,2026-11-11
+Pulau Pinang,A,Recent weekday average,2,2026-11-19,2026-11-25,204.9,166.4,256.5,181.0,,2026-11-11
+Pulau Pinang,A,Same weekday last week,1,2026-11-12,2026-11-18,172.0,113.0,242.0,181.0,Watch,2026-11-11
+Pulau Pinang,A,Same weekday last week,2,2026-11-19,2026-11-25,172.0,101.0,248.0,181.0,Watch,2026-11-11
+Pulau Pinang,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,56.5,40.9,69.3,45.0,,2026-11-11
+Pulau Pinang,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,57.4,42.3,70.3,45.0,,2026-11-11
+Pulau Pinang,AB,Recent weekday average,1,2026-11-12,2026-11-18,52.4,36.3,68.6,45.0,,2026-11-11
+Pulau Pinang,AB,Recent weekday average,2,2026-11-19,2026-11-25,52.4,36.8,68.9,45.0,,2026-11-11
+Pulau Pinang,AB,Same weekday last week,1,2026-11-12,2026-11-18,48.0,29.0,68.0,45.0,,2026-11-11
+Pulau Pinang,AB,Same weekday last week,2,2026-11-19,2026-11-25,48.0,27.0,72.0,45.0,,2026-11-11
+Pulau Pinang,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,233.8,181.9,267.7,196.0,,2026-11-11
+Pulau Pinang,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,239.9,187.9,276.7,196.0,,2026-11-11
+Pulau Pinang,B,Recent weekday average,1,2026-11-12,2026-11-18,222.5,173.8,276.6,196.0,,2026-11-11
+Pulau Pinang,B,Recent weekday average,2,2026-11-19,2026-11-25,222.5,173.1,277.0,196.0,,2026-11-11
+Pulau Pinang,B,Same weekday last week,1,2026-11-12,2026-11-18,192.0,121.0,258.0,196.0,Watch,2026-11-11
+Pulau Pinang,B,Same weekday last week,2,2026-11-19,2026-11-25,192.0,115.0,277.0,196.0,Watch,2026-11-11
+Pulau Pinang,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,368.6,287.3,442.8,305.7,,2026-11-11
+Pulau Pinang,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,373.2,291.2,449.4,305.7,,2026-11-11
+Pulau Pinang,O,Recent weekday average,1,2026-11-12,2026-11-18,347.1,274.2,431.9,305.7,,2026-11-11
+Pulau Pinang,O,Recent weekday average,2,2026-11-19,2026-11-25,347.1,274.1,433.8,305.7,,2026-11-11
+Pulau Pinang,O,Same weekday last week,1,2026-11-12,2026-11-18,315.0,217.0,426.0,305.7,,2026-11-11
+Pulau Pinang,O,Same weekday last week,2,2026-11-19,2026-11-25,315.0,204.0,439.0,305.7,,2026-11-11
+Sabah,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,189.5,134.4,240.0,143.0,,2026-11-11
+Sabah,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,174.9,119.7,224.3,143.0,,2026-11-11
+Sabah,A,Recent weekday average,1,2026-11-12,2026-11-18,172.6,115.4,229.5,143.0,,2026-11-11
+Sabah,A,Recent weekday average,2,2026-11-19,2026-11-25,172.6,115.3,230.3,143.0,,2026-11-11
+Sabah,A,Same weekday last week,1,2026-11-12,2026-11-18,364.0,296.0,444.0,143.0,,2026-11-11
+Sabah,A,Same weekday last week,2,2026-11-19,2026-11-25,364.0,288.0,448.0,143.0,,2026-11-11
+Sabah,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,42.0,22.7,62.5,30.0,,2026-11-11
+Sabah,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,39.3,19.4,60.9,30.0,,2026-11-11
+Sabah,AB,Recent weekday average,1,2026-11-12,2026-11-18,37.0,18.8,59.5,30.0,,2026-11-11
+Sabah,AB,Recent weekday average,2,2026-11-19,2026-11-25,37.0,18.7,60.5,30.0,,2026-11-11
+Sabah,AB,Same weekday last week,1,2026-11-12,2026-11-18,69.0,47.0,96.0,30.0,,2026-11-11
+Sabah,AB,Same weekday last week,2,2026-11-19,2026-11-25,69.0,44.0,94.0,30.0,,2026-11-11
+Sabah,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,200.3,135.6,253.7,153.0,,2026-11-11
+Sabah,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,188.5,121.7,244.0,153.0,,2026-11-11
+Sabah,B,Recent weekday average,1,2026-11-12,2026-11-18,184.8,118.8,251.5,153.0,,2026-11-11
+Sabah,B,Recent weekday average,2,2026-11-19,2026-11-25,184.8,119.7,251.5,153.0,,2026-11-11
+Sabah,B,Same weekday last week,1,2026-11-12,2026-11-18,378.0,306.0,458.0,153.0,,2026-11-11
+Sabah,B,Same weekday last week,2,2026-11-19,2026-11-25,378.0,292.0,479.0,153.0,,2026-11-11
+Sabah,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,473.6,354.7,567.6,309.0,,2026-11-11
+Sabah,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,373.3,255.5,466.0,309.0,,2026-11-11
+Sabah,O,Recent weekday average,1,2026-11-12,2026-11-18,372.1,250.3,496.8,309.0,,2026-11-11
+Sabah,O,Recent weekday average,2,2026-11-19,2026-11-25,372.1,256.2,500.1,309.0,,2026-11-11
+Sabah,O,Same weekday last week,1,2026-11-12,2026-11-18,760.0,627.0,920.0,309.0,,2026-11-11
+Sabah,O,Same weekday last week,2,2026-11-19,2026-11-25,760.0,593.0,964.0,309.0,,2026-11-11
+Sarawak,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,196.1,153.3,235.3,176.0,,2026-11-11
+Sarawak,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,195.9,153.7,234.5,176.0,,2026-11-11
+Sarawak,A,Recent weekday average,1,2026-11-12,2026-11-18,193.0,144.9,244.7,176.0,,2026-11-11
+Sarawak,A,Recent weekday average,2,2026-11-19,2026-11-25,193.0,144.0,245.8,176.0,,2026-11-11
+Sarawak,A,Same weekday last week,1,2026-11-12,2026-11-18,177.0,113.0,237.0,176.0,,2026-11-11
+Sarawak,A,Same weekday last week,2,2026-11-19,2026-11-25,177.0,95.0,261.0,176.0,,2026-11-11
+Sarawak,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,54.3,41.9,72.8,43.0,,2026-11-11
+Sarawak,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,53.8,41.2,72.6,43.0,,2026-11-11
+Sarawak,AB,Recent weekday average,1,2026-11-12,2026-11-18,50.4,34.5,71.1,43.0,,2026-11-11
+Sarawak,AB,Recent weekday average,2,2026-11-19,2026-11-25,50.4,34.4,71.1,43.0,,2026-11-11
+Sarawak,AB,Same weekday last week,1,2026-11-12,2026-11-18,50.0,27.0,74.0,43.0,,2026-11-11
+Sarawak,AB,Same weekday last week,2,2026-11-19,2026-11-25,50.0,22.0,77.0,43.0,,2026-11-11
+Sarawak,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,235.6,183.2,285.8,208.0,,2026-11-11
+Sarawak,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,234.4,180.7,284.3,208.0,,2026-11-11
+Sarawak,B,Recent weekday average,1,2026-11-12,2026-11-18,228.7,170.1,299.4,208.0,,2026-11-11
+Sarawak,B,Recent weekday average,2,2026-11-19,2026-11-25,228.7,168.7,298.7,208.0,,2026-11-11
+Sarawak,B,Same weekday last week,1,2026-11-12,2026-11-18,232.0,152.0,303.0,208.0,,2026-11-11
+Sarawak,B,Same weekday last week,2,2026-11-19,2026-11-25,232.0,128.0,332.0,208.0,,2026-11-11
+Sarawak,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,344.3,268.9,410.0,306.0,,2026-11-11
+Sarawak,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,335.4,260.4,402.4,306.0,,2026-11-11
+Sarawak,O,Recent weekday average,1,2026-11-12,2026-11-18,334.8,258.3,426.8,306.0,,2026-11-11
+Sarawak,O,Recent weekday average,2,2026-11-19,2026-11-25,334.8,258.0,425.0,306.0,,2026-11-11
+Sarawak,O,Same weekday last week,1,2026-11-12,2026-11-18,355.0,246.0,467.0,306.0,,2026-11-11
+Sarawak,O,Same weekday last week,2,2026-11-19,2026-11-25,355.0,221.0,515.0,306.0,,2026-11-11
+Selangor,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,147.4,103.8,186.7,129.0,,2026-11-11
+Selangor,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,150.5,105.3,189.0,129.0,,2026-11-11
+Selangor,A,Recent weekday average,1,2026-11-12,2026-11-18,149.4,111.9,198.2,129.0,,2026-11-11
+Selangor,A,Recent weekday average,2,2026-11-19,2026-11-25,149.4,112.9,198.5,129.0,,2026-11-11
+Selangor,A,Same weekday last week,1,2026-11-12,2026-11-18,149.0,81.0,222.0,129.0,,2026-11-11
+Selangor,A,Same weekday last week,2,2026-11-19,2026-11-25,149.0,98.0,207.0,129.0,,2026-11-11
+Selangor,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,33.8,16.9,48.8,26.0,,2026-11-11
+Selangor,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,34.3,16.7,49.2,26.0,,2026-11-11
+Selangor,AB,Recent weekday average,1,2026-11-12,2026-11-18,33.1,16.0,50.9,26.0,,2026-11-11
+Selangor,AB,Recent weekday average,2,2026-11-19,2026-11-25,33.1,15.8,50.9,26.0,,2026-11-11
+Selangor,AB,Same weekday last week,1,2026-11-12,2026-11-18,38.0,16.0,58.0,26.0,,2026-11-11
+Selangor,AB,Same weekday last week,2,2026-11-19,2026-11-25,38.0,11.0,63.0,26.0,,2026-11-11
+Selangor,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,166.8,121.6,205.3,146.7,,2026-11-11
+Selangor,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,169.6,123.3,209.3,146.7,,2026-11-11
+Selangor,B,Recent weekday average,1,2026-11-12,2026-11-18,168.1,133.6,218.5,146.7,,2026-11-11
+Selangor,B,Recent weekday average,2,2026-11-19,2026-11-25,168.1,135.5,218.9,146.7,,2026-11-11
+Selangor,B,Same weekday last week,1,2026-11-12,2026-11-18,175.0,106.0,246.0,146.7,,2026-11-11
+Selangor,B,Same weekday last week,2,2026-11-19,2026-11-25,175.0,120.0,236.0,146.7,,2026-11-11
+Selangor,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,257.8,191.5,324.5,230.0,,2026-11-11
+Selangor,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,262.3,190.6,329.0,230.0,,2026-11-11
+Selangor,O,Recent weekday average,1,2026-11-12,2026-11-18,262.0,208.5,348.9,230.0,,2026-11-11
+Selangor,O,Recent weekday average,2,2026-11-19,2026-11-25,262.0,209.3,349.9,230.0,,2026-11-11
+Selangor,O,Same weekday last week,1,2026-11-12,2026-11-18,241.0,127.0,372.0,230.0,,2026-11-11
+Selangor,O,Same weekday last week,2,2026-11-19,2026-11-25,241.0,150.0,335.0,230.0,,2026-11-11
+Terengganu,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,103.8,79.9,139.2,83.0,,2026-11-11
+Terengganu,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,105.0,81.1,142.3,83.0,,2026-11-11
+Terengganu,A,Recent weekday average,1,2026-11-12,2026-11-18,101.4,79.4,146.3,83.0,,2026-11-11
+Terengganu,A,Recent weekday average,2,2026-11-19,2026-11-25,101.4,79.3,147.2,83.0,,2026-11-11
+Terengganu,A,Same weekday last week,1,2026-11-12,2026-11-18,102.0,58.0,144.0,83.0,,2026-11-11
+Terengganu,A,Same weekday last week,2,2026-11-19,2026-11-25,102.0,45.0,161.0,83.0,,2026-11-11
+Terengganu,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,29.9,21.5,40.7,23.0,,2026-11-11
+Terengganu,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,30.2,21.3,40.5,23.0,,2026-11-11
+Terengganu,AB,Recent weekday average,1,2026-11-12,2026-11-18,29.3,20.4,42.4,23.0,,2026-11-11
+Terengganu,AB,Recent weekday average,2,2026-11-19,2026-11-25,29.3,20.3,42.2,23.0,,2026-11-11
+Terengganu,AB,Same weekday last week,1,2026-11-12,2026-11-18,25.0,10.0,39.0,23.0,,2026-11-11
+Terengganu,AB,Same weekday last week,2,2026-11-19,2026-11-25,25.0,8.0,41.0,23.0,,2026-11-11
+Terengganu,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,118.2,89.3,152.9,94.0,,2026-11-11
+Terengganu,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,119.8,90.6,155.7,94.0,,2026-11-11
+Terengganu,B,Recent weekday average,1,2026-11-12,2026-11-18,114.3,90.0,161.0,94.0,,2026-11-11
+Terengganu,B,Recent weekday average,2,2026-11-19,2026-11-25,114.3,89.5,161.3,94.0,,2026-11-11
+Terengganu,B,Same weekday last week,1,2026-11-12,2026-11-18,115.0,72.0,157.0,94.0,,2026-11-11
+Terengganu,B,Same weekday last week,2,2026-11-19,2026-11-25,115.0,55.0,171.0,94.0,,2026-11-11
+Terengganu,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,173.4,134.0,228.4,141.0,,2026-11-11
+Terengganu,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,175.9,138.1,233.6,141.0,,2026-11-11
+Terengganu,O,Recent weekday average,1,2026-11-12,2026-11-18,167.9,132.0,235.8,141.0,,2026-11-11
+Terengganu,O,Recent weekday average,2,2026-11-19,2026-11-25,167.9,130.7,236.2,141.0,,2026-11-11
+Terengganu,O,Same weekday last week,1,2026-11-12,2026-11-18,161.0,104.0,230.0,141.0,,2026-11-11
+Terengganu,O,Same weekday last week,2,2026-11-19,2026-11-25,161.0,85.0,245.0,141.0,,2026-11-11
+W.P. Kuala Lumpur,A,Gradient-boosted trees,1,2026-11-12,2026-11-18,997.7,832.8,1146.7,929.0,,2026-11-11
+W.P. Kuala Lumpur,A,Gradient-boosted trees,2,2026-11-19,2026-11-25,1014.4,850.7,1158.1,929.0,,2026-11-11
+W.P. Kuala Lumpur,A,Recent weekday average,1,2026-11-12,2026-11-18,1001.3,836.4,1226.9,929.0,,2026-11-11
+W.P. Kuala Lumpur,A,Recent weekday average,2,2026-11-19,2026-11-25,1001.3,833.0,1232.4,929.0,,2026-11-11
+W.P. Kuala Lumpur,A,Same weekday last week,1,2026-11-12,2026-11-18,990.0,771.0,1204.0,929.0,,2026-11-11
+W.P. Kuala Lumpur,A,Same weekday last week,2,2026-11-19,2026-11-25,990.0,739.0,1230.0,929.0,,2026-11-11
+W.P. Kuala Lumpur,AB,Gradient-boosted trees,1,2026-11-12,2026-11-18,214.4,118.5,270.6,188.7,,2026-11-11
+W.P. Kuala Lumpur,AB,Gradient-boosted trees,2,2026-11-19,2026-11-25,214.9,107.6,276.0,188.7,,2026-11-11
+W.P. Kuala Lumpur,AB,Recent weekday average,1,2026-11-12,2026-11-18,203.9,86.4,268.8,188.7,,2026-11-11
+W.P. Kuala Lumpur,AB,Recent weekday average,2,2026-11-19,2026-11-25,203.9,85.9,268.7,188.7,,2026-11-11
+W.P. Kuala Lumpur,AB,Same weekday last week,1,2026-11-12,2026-11-18,202.0,106.0,312.0,188.7,,2026-11-11
+W.P. Kuala Lumpur,AB,Same weekday last week,2,2026-11-19,2026-11-25,202.0,54.0,351.0,188.7,,2026-11-11
+W.P. Kuala Lumpur,B,Gradient-boosted trees,1,2026-11-12,2026-11-18,1100.4,940.7,1273.5,998.0,,2026-11-11
+W.P. Kuala Lumpur,B,Gradient-boosted trees,2,2026-11-19,2026-11-25,1110.0,952.6,1281.0,998.0,,2026-11-11
+W.P. Kuala Lumpur,B,Recent weekday average,1,2026-11-12,2026-11-18,1074.7,890.9,1303.3,998.0,,2026-11-11
+W.P. Kuala Lumpur,B,Recent weekday average,2,2026-11-19,2026-11-25,1074.7,888.3,1314.2,998.0,,2026-11-11
+W.P. Kuala Lumpur,B,Same weekday last week,1,2026-11-12,2026-11-18,987.0,773.0,1228.0,998.0,Watch,2026-11-11
+W.P. Kuala Lumpur,B,Same weekday last week,2,2026-11-19,2026-11-25,987.0,722.0,1278.0,998.0,Watch,2026-11-11
+W.P. Kuala Lumpur,O,Gradient-boosted trees,1,2026-11-12,2026-11-18,1687.9,1455.2,1930.1,1577.7,,2026-11-11
+W.P. Kuala Lumpur,O,Gradient-boosted trees,2,2026-11-19,2026-11-25,1690.3,1473.9,1949.4,1577.7,,2026-11-11
+W.P. Kuala Lumpur,O,Recent weekday average,1,2026-11-12,2026-11-18,1701.2,1425.5,2045.6,1577.7,,2026-11-11
+W.P. Kuala Lumpur,O,Recent weekday average,2,2026-11-19,2026-11-25,1701.2,1420.3,2051.6,1577.7,,2026-11-11
+W.P. Kuala Lumpur,O,Same weekday last week,1,2026-11-12,2026-11-18,1637.0,1303.0,2011.0,1577.7,,2026-11-11
+W.P. Kuala Lumpur,O,Same weekday last week,2,2026-11-19,2026-11-25,1637.0,1253.0,2016.0,1577.7,,2026-11-11
