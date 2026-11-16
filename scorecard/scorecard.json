@@ -1,40 +1,40 @@
 {
- "forecast_files": 8,
- "scored_days": 1456,
+ "forecast_files": 9,
+ "scored_days": 1872,
  "methods": [
   {
    "method": "Same weekday last week",
-   "scored": 1456,
-   "MAE": 17.603021978021978,
-   "coverage": 0.8736263736263736,
+   "scored": 1872,
+   "MAE": 17.903846153846153,
+   "coverage": 0.8274572649572649,
    "from": "2026-11-08",
-   "to": "2026-11-14"
+   "to": "2026-11-15"
   },
   {
    "method": "Recent weekday average",
-   "scored": 1456,
-   "MAE": 8.15989697802198,
-   "coverage": 0.8214285714285714,
+   "scored": 1872,
+   "MAE": 9.071709401709402,
+   "coverage": 0.7889957264957265,
    "from": "2026-11-08",
-   "to": "2026-11-14"
+   "to": "2026-11-15"
   },
   {
    "method": "Gradient-boosted trees",
-   "scored": 1456,
-   "MAE": 8.0679739010989,
-   "coverage": 0.8186813186813187,
+   "scored": 1872,
+   "MAE": 8.744994658119658,
+   "coverage": 0.7884615384615384,
    "from": "2026-11-08",
-   "to": "2026-11-14"
+   "to": "2026-11-15"
   }
  ],
  "first_issue": "2026-11-07",
- "last_issue": "2026-11-14",
+ "last_issue": "2026-11-15",
  "weeks": {
-  "scored": 52,
-  "really_low": 19,
+  "scored": 104,
+  "really_low": 34,
   "warnings": 2,
   "warning_hit_rate": 0.0,
   "warning_catch_rate": 0.0,
-  "coverage": 0.75
+  "coverage": 0.7596153846153846
  }
 }
