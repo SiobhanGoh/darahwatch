@@ -1,37 +1,28 @@
 {
- "issued": "2026-11-15",
+ "issued": "2026-11-16",
  "method": "Gradient-boosted trees",
  "range_level": 0.8,
  "calibration_year": 2025,
  "bulletin": {
-  "en": "Data to Sun 15 Nov 2026. For Mon 16 Nov 2026 to Sun 22 Nov 2026, 12 states and Kuala Lumpur are expected to collect about 11,603 donations in total. No state or blood group is expected to have a low week. These are forecasts of donations collected, not of blood stock or hospital demand.",
-  "ms": "Data sehingga Ahad 15 November 2026. Bagi tempoh Isnin 16 November 2026 hingga Ahad 22 November 2026, 12 negeri dan Kuala Lumpur dijangka mengumpul kira-kira 11,603 derma darah secara keseluruhan. Tiada negeri atau kumpulan darah yang dijangka mengalami minggu yang rendah. Ini ialah ramalan jumlah derma yang dikumpul, bukan ramalan stok darah atau permintaan hospital."
+  "en": "Data to Mon 16 Nov 2026. For Tue 17 Nov 2026 to Mon 23 Nov 2026, 12 states and Kuala Lumpur are expected to collect about 11,561 donations in total. No state or blood group is expected to have a low week. These are forecasts of donations collected, not of blood stock or hospital demand.",
+  "ms": "Data sehingga Isnin 16 November 2026. Bagi tempoh Selasa 17 November 2026 hingga Isnin 23 November 2026, 12 negeri dan Kuala Lumpur dijangka mengumpul kira-kira 11,561 derma darah secara keseluruhan. Tiada negeri atau kumpulan darah yang dijangka mengalami minggu yang rendah. Ini ialah ramalan jumlah derma yang dikumpul, bukan ramalan stok darah atau permintaan hospital."
  },
  "holidays": [],
  "days": [
   {
    "state": "Johor",
    "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 25.0,
-   "low": 10.9,
-   "high": 38.8
-  },
-  {
-   "state": "Johor",
-   "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 30.0,
-   "low": 15.9,
-   "high": 43.8
+   "h": 1,
+   "forecast": 29.9,
+   "low": 15.8,
+   "high": 43.7
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 26.7,
    "low": 12.6,
    "high": 40.5
@@ -40,115 +31,115 @@
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 29.5,
-   "low": 15.4,
-   "high": 43.3
+   "h": 3,
+   "forecast": 29.4,
+   "low": 15.3,
+   "high": 43.2
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 14.0,
+   "h": 4,
+   "forecast": 13.8,
    "low": 0.0,
-   "high": 27.8
+   "high": 27.6
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 40.5,
-   "low": 26.4,
-   "high": 54.3
+   "h": 5,
+   "forecast": 40.8,
+   "low": 26.7,
+   "high": 54.6
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 58.4,
-   "low": 44.4,
-   "high": 72.3
+   "h": 6,
+   "forecast": 58.6,
+   "low": 44.5,
+   "high": 72.4
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 25.1,
-   "low": 11.1,
-   "high": 38.6
+   "h": 7,
+   "forecast": 24.7,
+   "low": 10.6,
+   "high": 38.5
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 30.1,
-   "low": 16.1,
-   "high": 43.7
+   "h": 8,
+   "forecast": 30.0,
+   "low": 16.0,
+   "high": 43.5
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 27.0,
-   "low": 13.0,
+   "h": 9,
+   "forecast": 26.9,
+   "low": 12.9,
    "high": 40.5
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 29.8,
-   "low": 15.8,
-   "high": 43.4
+   "h": 10,
+   "forecast": 29.7,
+   "low": 15.7,
+   "high": 43.3
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 14.1,
-   "low": 0.1,
+   "h": 11,
+   "forecast": 14.0,
+   "low": 0.0,
    "high": 27.6
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 41.5,
-   "low": 27.5,
-   "high": 55.1
+   "h": 12,
+   "forecast": 41.6,
+   "low": 27.6,
+   "high": 55.2
   },
   {
    "state": "Johor",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 59.2,
-   "low": 45.2,
+   "h": 13,
+   "forecast": 59.3,
+   "low": 45.3,
    "high": 72.8
   },
   {
    "state": "Johor",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 6.4,
-   "low": 1.8,
-   "high": 11.0
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 25.0,
+   "low": 11.0,
+   "high": 38.5
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 8.0,
    "low": 3.4,
    "high": 12.6
@@ -157,17 +148,17 @@
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 6.3,
-   "low": 1.7,
+   "h": 2,
+   "forecast": 6.2,
+   "low": 1.6,
    "high": 10.9
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 7.4,
+   "h": 3,
+   "forecast": 7.3,
    "low": 2.8,
    "high": 12.0
   },
@@ -175,70 +166,70 @@
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 3.1,
    "low": 0.0,
-   "high": 7.8
+   "high": 7.7
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 8.9,
-   "low": 4.3,
+   "h": 5,
+   "forecast": 9.0,
+   "low": 4.4,
    "high": 13.6
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 12.2,
    "low": 7.6,
-   "high": 16.9
+   "high": 16.8
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 6.4,
-   "low": 1.9,
+   "h": 7,
+   "forecast": 6.1,
+   "low": 1.5,
    "high": 10.8
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 8.1,
+   "h": 8,
+   "forecast": 8.0,
    "low": 3.6,
-   "high": 12.5
+   "high": 12.4
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 6.3,
-   "low": 1.9,
+   "low": 1.8,
    "high": 10.7
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 7.5,
-   "low": 3.1,
+   "low": 3.0,
    "high": 11.9
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 3.2,
    "low": 0.0,
    "high": 7.6
@@ -247,34 +238,34 @@
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 9.2,
-   "low": 4.7,
-   "high": 13.6
+   "low": 4.8,
+   "high": 13.7
   },
   {
    "state": "Johor",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 12.4,
    "low": 7.9,
    "high": 16.8
   },
   {
    "state": "Johor",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 28.7,
-   "low": 12.4,
-   "high": 43.9
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 6.2,
+   "low": 1.7,
+   "high": 10.6
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 34.0,
    "low": 17.7,
    "high": 49.2
@@ -283,8 +274,8 @@
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 30.1,
+   "h": 2,
+   "forecast": 30.2,
    "low": 13.8,
    "high": 45.3
   },
@@ -292,16 +283,16 @@
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 34.2,
-   "low": 17.9,
-   "high": 49.4
+   "low": 17.8,
+   "high": 49.3
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 16.7,
    "low": 0.3,
    "high": 31.8
@@ -310,43 +301,43 @@
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 42.5,
-   "low": 26.2,
-   "high": 57.7
+   "h": 5,
+   "forecast": 42.6,
+   "low": 26.3,
+   "high": 57.8
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 63.1,
-   "low": 46.7,
-   "high": 78.2
+   "h": 6,
+   "forecast": 63.2,
+   "low": 46.9,
+   "high": 78.4
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 28.8,
-   "low": 12.5,
-   "high": 43.7
+   "h": 7,
+   "forecast": 27.6,
+   "low": 11.3,
+   "high": 42.8
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 34.1,
-   "low": 17.8,
-   "high": 49.0
+   "h": 8,
+   "forecast": 34.0,
+   "low": 17.7,
+   "high": 48.9
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 30.2,
    "low": 13.9,
    "high": 45.1
@@ -355,25 +346,25 @@
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 34.5,
-   "low": 18.2,
-   "high": 49.4
+   "h": 10,
+   "forecast": 34.4,
+   "low": 18.1,
+   "high": 49.3
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 16.8,
-   "low": 0.5,
-   "high": 31.7
+   "h": 11,
+   "forecast": 16.9,
+   "low": 0.6,
+   "high": 31.8
   },
   {
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 43.8,
    "low": 27.5,
    "high": 58.7
@@ -382,161 +373,161 @@
    "state": "Johor",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 64.2,
-   "low": 47.9,
-   "high": 79.2
+   "h": 13,
+   "forecast": 64.1,
+   "low": 47.8,
+   "high": 79.0
   },
   {
    "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 46.6,
-   "low": 24.8,
-   "high": 68.7
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 28.2,
+   "low": 11.9,
+   "high": 43.1
   },
   {
    "state": "Johor",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 55.2,
-   "low": 33.4,
-   "high": 77.4
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-18",
-   "h": 3,
-   "forecast": 44.3,
-   "low": 22.4,
-   "high": 66.4
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-19",
-   "h": 4,
-   "forecast": 54.2,
-   "low": 32.4,
-   "high": 76.4
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-20",
-   "h": 5,
-   "forecast": 28.1,
-   "low": 6.2,
-   "high": 50.2
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-21",
-   "h": 6,
-   "forecast": 76.6,
-   "low": 54.8,
-   "high": 98.8
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-22",
-   "h": 7,
-   "forecast": 104.0,
-   "low": 82.2,
-   "high": 126.2
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-23",
-   "h": 8,
-   "forecast": 46.5,
-   "low": 24.2,
-   "high": 68.3
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 56.1,
-   "low": 33.8,
-   "high": 77.9
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 44.0,
-   "low": 21.7,
-   "high": 65.8
-  },
-  {
-   "state": "Johor",
-   "blood_type": "O",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 55.9,
+   "h": 1,
+   "forecast": 55.5,
    "low": 33.7,
    "high": 77.7
   },
   {
    "state": "Johor",
    "blood_type": "O",
+   "date": "2026-11-18",
+   "h": 2,
+   "forecast": 44.4,
+   "low": 22.6,
+   "high": 66.6
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-19",
+   "h": 3,
+   "forecast": 54.5,
+   "low": 32.7,
+   "high": 76.7
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-20",
+   "h": 4,
+   "forecast": 27.8,
+   "low": 5.9,
+   "high": 49.9
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-21",
+   "h": 5,
+   "forecast": 77.0,
+   "low": 55.2,
+   "high": 99.2
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-22",
+   "h": 6,
+   "forecast": 104.7,
+   "low": 82.9,
+   "high": 126.9
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-23",
+   "h": 7,
+   "forecast": 46.1,
+   "low": 24.3,
+   "high": 68.3
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 56.3,
+   "low": 34.0,
+   "high": 78.1
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 44.2,
+   "low": 21.9,
+   "high": 66.0
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-26",
+   "h": 10,
+   "forecast": 56.2,
+   "low": 33.9,
+   "high": 77.9
+  },
+  {
+   "state": "Johor",
+   "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 28.5,
-   "low": 6.2,
-   "high": 50.3
+   "h": 11,
+   "forecast": 28.3,
+   "low": 6.1,
+   "high": 50.1
   },
   {
    "state": "Johor",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 79.0,
-   "low": 56.7,
-   "high": 100.7
+   "h": 12,
+   "forecast": 79.9,
+   "low": 57.6,
+   "high": 101.7
   },
   {
    "state": "Johor",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 106.0,
-   "low": 83.8,
-   "high": 127.8
+   "h": 13,
+   "forecast": 106.6,
+   "low": 84.3,
+   "high": 128.3
   },
   {
-   "state": "Kedah",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 11.4,
-   "low": 3.2,
-   "high": 20.3
+   "state": "Johor",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 47.3,
+   "low": 25.1,
+   "high": 69.1
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 12.6,
-   "low": 4.4,
-   "high": 21.5
+   "low": 4.5,
+   "high": 21.6
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 14.7,
+   "h": 2,
+   "forecast": 14.8,
    "low": 6.6,
    "high": 23.7
   },
@@ -544,61 +535,61 @@
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 11.4,
    "low": 3.2,
-   "high": 20.3
+   "high": 20.4
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 18.6,
-   "low": 10.4,
-   "high": 27.5
+   "h": 4,
+   "forecast": 18.4,
+   "low": 10.3,
+   "high": 27.4
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 13.3,
-   "low": 5.2,
-   "high": 22.3
+   "h": 5,
+   "forecast": 13.5,
+   "low": 5.3,
+   "high": 22.4
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 19.0,
-   "low": 10.8,
-   "high": 27.9
+   "h": 6,
+   "forecast": 19.2,
+   "low": 11.0,
+   "high": 28.2
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 11.5,
-   "low": 3.4,
-   "high": 20.6
+   "h": 7,
+   "forecast": 11.8,
+   "low": 3.6,
+   "high": 20.8
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 12.7,
-   "low": 4.5,
+   "low": 4.6,
    "high": 21.8
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 14.9,
    "low": 6.8,
    "high": 24.0
@@ -607,196 +598,196 @@
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 11.5,
-   "low": 3.3,
+   "low": 3.4,
    "high": 20.6
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 18.7,
-   "low": 10.6,
-   "high": 27.8
+   "h": 11,
+   "forecast": 18.6,
+   "low": 10.5,
+   "high": 27.7
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 13.4,
-   "low": 5.3,
-   "high": 22.5
+   "h": 12,
+   "forecast": 13.5,
+   "low": 5.4,
+   "high": 22.6
   },
   {
    "state": "Kedah",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 18.9,
-   "low": 10.8,
-   "high": 28.0
+   "h": 13,
+   "forecast": 19.1,
+   "low": 11.0,
+   "high": 28.2
   },
   {
    "state": "Kedah",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 3.0,
-   "low": 0.3,
-   "high": 6.6
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 11.8,
+   "low": 3.7,
+   "high": 20.9
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 3.4,
    "low": 0.7,
-   "high": 6.9
+   "high": 7.0
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 3.9,
-   "low": 1.2,
-   "high": 7.5
+   "h": 2,
+   "forecast": 4.0,
+   "low": 1.3,
+   "high": 7.6
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 3.1,
-   "low": 0.4,
-   "high": 6.7
+   "h": 3,
+   "forecast": 3.2,
+   "low": 0.5,
+   "high": 6.8
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 4.6,
    "low": 1.9,
-   "high": 8.1
+   "high": 8.2
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 3.6,
-   "low": 0.9,
+   "h": 5,
+   "forecast": 3.7,
+   "low": 1.0,
    "high": 7.2
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 4.3,
-   "low": 1.6,
-   "high": 7.9
+   "h": 6,
+   "forecast": 4.4,
+   "low": 1.7,
+   "high": 8.0
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 3.0,
-   "low": 0.3,
-   "high": 6.5
-  },
-  {
-   "state": "Kedah",
-   "blood_type": "AB",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 3.4,
-   "low": 0.6,
-   "high": 6.9
-  },
-  {
-   "state": "Kedah",
-   "blood_type": "AB",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 3.9,
-   "low": 1.2,
-   "high": 7.4
-  },
-  {
-   "state": "Kedah",
-   "blood_type": "AB",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 3.1,
-   "low": 0.4,
+   "h": 7,
+   "forecast": 3.2,
+   "low": 0.5,
    "high": 6.7
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 3.5,
+   "low": 0.7,
+   "high": 7.0
+  },
+  {
+   "state": "Kedah",
+   "blood_type": "AB",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 4.0,
+   "low": 1.3,
+   "high": 7.5
+  },
+  {
+   "state": "Kedah",
+   "blood_type": "AB",
+   "date": "2026-11-26",
+   "h": 10,
+   "forecast": 3.2,
+   "low": 0.5,
+   "high": 6.8
+  },
+  {
+   "state": "Kedah",
+   "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 4.6,
+   "h": 11,
+   "forecast": 4.7,
    "low": 1.9,
-   "high": 8.1
+   "high": 8.2
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 3.6,
-   "low": 0.9,
-   "high": 7.1
+   "h": 12,
+   "forecast": 3.7,
+   "low": 1.0,
+   "high": 7.2
   },
   {
    "state": "Kedah",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 4.3,
-   "low": 1.6,
-   "high": 7.8
+   "h": 13,
+   "forecast": 4.4,
+   "low": 1.7,
+   "high": 7.9
   },
   {
    "state": "Kedah",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 11.9,
-   "low": 2.4,
-   "high": 25.1
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 3.2,
+   "low": 0.4,
+   "high": 6.7
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 15.5,
-   "low": 5.9,
-   "high": 28.7
+   "h": 1,
+   "forecast": 15.4,
+   "low": 5.8,
+   "high": 28.6
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 16.8,
-   "low": 7.2,
+   "low": 7.3,
    "high": 30.0
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 12.1,
    "low": 2.6,
    "high": 25.3
@@ -805,7 +796,7 @@
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 20.7,
    "low": 11.2,
    "high": 33.9
@@ -814,7 +805,7 @@
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 15.6,
    "low": 6.0,
    "high": 28.8
@@ -823,52 +814,52 @@
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 21.2,
-   "low": 11.7,
-   "high": 34.4
+   "h": 6,
+   "forecast": 21.5,
+   "low": 12.0,
+   "high": 34.7
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 12.0,
-   "low": 2.8,
-   "high": 24.8
+   "h": 7,
+   "forecast": 12.8,
+   "low": 3.3,
+   "high": 26.0
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 15.5,
-   "low": 6.3,
-   "high": 28.3
+   "h": 8,
+   "forecast": 15.4,
+   "low": 6.2,
+   "high": 28.2
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 16.8,
-   "low": 7.6,
-   "high": 29.6
+   "low": 7.7,
+   "high": 29.7
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 12.2,
+   "h": 10,
+   "forecast": 12.1,
    "low": 3.0,
-   "high": 25.0
+   "high": 24.9
   },
   {
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 20.8,
    "low": 11.6,
    "high": 33.6
@@ -877,7 +868,7 @@
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 15.6,
    "low": 6.4,
    "high": 28.4
@@ -886,43 +877,43 @@
    "state": "Kedah",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 21.2,
-   "low": 12.0,
-   "high": 34.0
+   "h": 13,
+   "forecast": 21.5,
+   "low": 12.3,
+   "high": 34.3
   },
   {
    "state": "Kedah",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 17.0,
-   "low": 3.5,
-   "high": 33.8
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 12.8,
+   "low": 3.6,
+   "high": 25.6
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 23.1,
-   "low": 9.6,
-   "high": 39.9
+   "h": 1,
+   "forecast": 23.2,
+   "low": 9.7,
+   "high": 40.0
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 24.3,
-   "low": 10.8,
-   "high": 41.1
+   "h": 2,
+   "forecast": 24.4,
+   "low": 10.9,
+   "high": 41.2
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 18.5,
    "low": 4.9,
    "high": 35.2
@@ -931,25 +922,25 @@
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 31.6,
-   "low": 18.1,
-   "high": 48.4
+   "h": 4,
+   "forecast": 32.4,
+   "low": 18.9,
+   "high": 49.2
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 22.0,
-   "low": 8.4,
+   "h": 5,
+   "forecast": 22.1,
+   "low": 8.5,
    "high": 38.8
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 33.6,
    "low": 20.1,
    "high": 50.4
@@ -958,16 +949,16 @@
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 17.4,
-   "low": 3.8,
-   "high": 34.3
+   "h": 7,
+   "forecast": 19.1,
+   "low": 5.5,
+   "high": 35.9
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 23.5,
    "low": 9.9,
    "high": 40.3
@@ -976,8 +967,8 @@
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 24.4,
+   "h": 9,
+   "forecast": 24.5,
    "low": 10.8,
    "high": 41.3
   },
@@ -985,196 +976,196 @@
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 18.8,
-   "low": 5.2,
-   "high": 35.7
+   "low": 5.1,
+   "high": 35.6
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 31.7,
-   "low": 18.1,
-   "high": 48.6
+   "h": 11,
+   "forecast": 32.1,
+   "low": 18.4,
+   "high": 48.9
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 22.1,
-   "low": 8.4,
-   "high": 38.9
+   "h": 12,
+   "forecast": 22.2,
+   "low": 8.6,
+   "high": 39.0
   },
   {
    "state": "Kedah",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 33.5,
-   "low": 19.9,
-   "high": 50.4
+   "low": 19.8,
+   "high": 50.3
   },
   {
-   "state": "Kelantan",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 14.3,
-   "low": 4.3,
-   "high": 26.6
+   "state": "Kedah",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 18.7,
+   "low": 5.0,
+   "high": 35.5
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 14.6,
+   "h": 1,
+   "forecast": 14.5,
    "low": 4.6,
-   "high": 26.9
+   "high": 26.8
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 15.7,
-   "low": 5.8,
-   "high": 28.0
+   "h": 2,
+   "forecast": 15.8,
+   "low": 5.9,
+   "high": 28.1
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 11.4,
-   "low": 1.5,
-   "high": 23.7
+   "h": 3,
+   "forecast": 11.3,
+   "low": 1.4,
+   "high": 23.6
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 12.6,
-   "low": 2.7,
-   "high": 24.9
+   "h": 4,
+   "forecast": 12.7,
+   "low": 2.8,
+   "high": 25.0
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 16.8,
-   "low": 6.9,
-   "high": 29.1
+   "h": 5,
+   "forecast": 16.6,
+   "low": 6.7,
+   "high": 28.9
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 11.2,
-   "low": 1.3,
-   "high": 23.5
+   "h": 6,
+   "forecast": 11.1,
+   "low": 1.1,
+   "high": 23.4
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 14.6,
-   "low": 4.7,
-   "high": 26.7
+   "h": 7,
+   "forecast": 14.0,
+   "low": 4.1,
+   "high": 26.3
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 15.1,
+   "h": 8,
+   "forecast": 15.0,
    "low": 5.1,
-   "high": 27.2
+   "high": 27.1
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 16.4,
+   "h": 9,
+   "forecast": 16.5,
    "low": 6.5,
-   "high": 28.5
+   "high": 28.6
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 11.7,
-   "low": 1.7,
+   "low": 1.8,
    "high": 23.8
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 13.1,
-   "low": 3.2,
-   "high": 25.2
+   "h": 11,
+   "forecast": 13.2,
+   "low": 3.3,
+   "high": 25.3
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 16.6,
-   "low": 6.7,
-   "high": 28.7
+   "low": 6.6,
+   "high": 28.6
   },
   {
    "state": "Kelantan",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 11.2,
-   "low": 1.2,
+   "h": 13,
+   "forecast": 11.1,
+   "low": 1.1,
    "high": 23.2
   },
   {
    "state": "Kelantan",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 4.2,
-   "low": 1.0,
-   "high": 8.0
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 14.0,
+   "low": 4.1,
+   "high": 26.1
   },
   {
    "state": "Kelantan",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 3.9,
-   "low": 0.7,
-   "high": 7.7
+   "low": 0.6,
+   "high": 7.6
   },
   {
    "state": "Kelantan",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 4.1,
-   "low": 0.9,
-   "high": 7.9
+   "low": 0.8,
+   "high": 7.8
   },
   {
    "state": "Kelantan",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 3.2,
    "low": 0.0,
    "high": 6.9
@@ -1183,16 +1174,16 @@
    "state": "Kelantan",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 3.5,
-   "low": 0.3,
-   "high": 7.3
+   "low": 0.2,
+   "high": 7.2
   },
   {
    "state": "Kelantan",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 3.9,
    "low": 0.6,
    "high": 7.6
@@ -1201,8 +1192,8 @@
    "state": "Kelantan",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 3.2,
+   "h": 6,
+   "forecast": 3.3,
    "low": 0.0,
    "high": 7.0
   },
@@ -1210,52 +1201,16 @@
    "state": "Kelantan",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 4.3,
-   "low": 1.0,
-   "high": 8.1
-  },
-  {
-   "state": "Kelantan",
-   "blood_type": "AB",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 4.0,
-   "low": 0.7,
+   "h": 7,
+   "forecast": 4.1,
+   "low": 0.8,
    "high": 7.8
   },
   {
    "state": "Kelantan",
    "blood_type": "AB",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 4.2,
-   "low": 0.9,
-   "high": 8.0
-  },
-  {
-   "state": "Kelantan",
-   "blood_type": "AB",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 3.2,
-   "low": 0.0,
-   "high": 7.0
-  },
-  {
-   "state": "Kelantan",
-   "blood_type": "AB",
-   "date": "2026-11-27",
-   "h": 12,
-   "forecast": 3.6,
-   "low": 0.3,
-   "high": 7.4
-  },
-  {
-   "state": "Kelantan",
-   "blood_type": "AB",
-   "date": "2026-11-28",
-   "h": 13,
+   "date": "2026-11-24",
+   "h": 8,
    "forecast": 3.9,
    "low": 0.6,
    "high": 7.7
@@ -1263,36 +1218,72 @@
   {
    "state": "Kelantan",
    "blood_type": "AB",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 4.1,
+   "low": 0.9,
+   "high": 8.0
+  },
+  {
+   "state": "Kelantan",
+   "blood_type": "AB",
+   "date": "2026-11-26",
+   "h": 10,
+   "forecast": 3.2,
+   "low": 0.0,
+   "high": 7.0
+  },
+  {
+   "state": "Kelantan",
+   "blood_type": "AB",
+   "date": "2026-11-27",
+   "h": 11,
+   "forecast": 3.5,
+   "low": 0.2,
+   "high": 7.4
+  },
+  {
+   "state": "Kelantan",
+   "blood_type": "AB",
+   "date": "2026-11-28",
+   "h": 12,
+   "forecast": 3.9,
+   "low": 0.6,
+   "high": 7.8
+  },
+  {
+   "state": "Kelantan",
+   "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 3.3,
    "low": 0.0,
    "high": 7.1
   },
   {
    "state": "Kelantan",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 13.8,
-   "low": 3.6,
-   "high": 26.2
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 4.1,
+   "low": 0.8,
+   "high": 7.9
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 14.3,
-   "low": 4.1,
-   "high": 26.7
+   "h": 1,
+   "forecast": 14.2,
+   "low": 4.0,
+   "high": 26.6
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 16.4,
+   "h": 2,
+   "forecast": 16.5,
    "low": 6.2,
    "high": 28.8
   },
@@ -1300,250 +1291,250 @@
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 11.6,
-   "low": 1.4,
-   "high": 24.0
+   "h": 3,
+   "forecast": 11.5,
+   "low": 1.3,
+   "high": 23.9
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 12.9,
-   "low": 2.7,
-   "high": 25.2
+   "h": 4,
+   "forecast": 12.8,
+   "low": 2.5,
+   "high": 25.1
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 14.3,
-   "low": 4.0,
-   "high": 26.6
+   "h": 5,
+   "forecast": 14.2,
+   "low": 3.9,
+   "high": 26.5
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 11.9,
-   "low": 1.7,
-   "high": 24.3
+   "h": 6,
+   "forecast": 11.7,
+   "low": 1.5,
+   "high": 24.1
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 14.1,
-   "low": 3.9,
-   "high": 26.6
+   "h": 7,
+   "forecast": 13.8,
+   "low": 3.5,
+   "high": 26.1
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 14.6,
-   "low": 4.4,
-   "high": 27.2
+   "h": 8,
+   "forecast": 14.5,
+   "low": 4.3,
+   "high": 27.1
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 16.8,
    "low": 6.6,
-   "high": 29.4
+   "high": 29.3
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 11.7,
-   "low": 1.5,
-   "high": 24.3
+   "h": 10,
+   "forecast": 11.6,
+   "low": 1.4,
+   "high": 24.2
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 13.1,
-   "low": 2.9,
+   "h": 11,
+   "forecast": 13.0,
+   "low": 2.8,
    "high": 25.6
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 14.0,
-   "low": 3.8,
-   "high": 26.5
+   "h": 12,
+   "forecast": 14.4,
+   "low": 4.2,
+   "high": 27.0
   },
   {
    "state": "Kelantan",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 11.6,
-   "low": 1.5,
+   "low": 1.4,
    "high": 24.2
   },
   {
    "state": "Kelantan",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 21.0,
-   "low": 7.3,
-   "high": 38.1
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 13.6,
+   "low": 3.5,
+   "high": 26.2
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 22.1,
-   "low": 8.4,
-   "high": 39.2
+   "low": 8.5,
+   "high": 39.3
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 24.0,
-   "low": 10.3,
-   "high": 41.1
+   "h": 2,
+   "forecast": 23.9,
+   "low": 10.2,
+   "high": 41.0
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 17.7,
-   "low": 4.0,
-   "high": 34.8
+   "h": 3,
+   "forecast": 17.9,
+   "low": 4.2,
+   "high": 35.0
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 18.9,
-   "low": 5.2,
-   "high": 36.0
+   "h": 4,
+   "forecast": 19.2,
+   "low": 5.5,
+   "high": 36.3
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 22.6,
-   "low": 8.9,
-   "high": 39.7
+   "h": 5,
+   "forecast": 22.2,
+   "low": 8.6,
+   "high": 39.4
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 20.2,
-   "low": 6.6,
-   "high": 37.3
+   "h": 6,
+   "forecast": 20.4,
+   "low": 6.8,
+   "high": 37.5
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 21.7,
-   "low": 7.7,
-   "high": 39.2
+   "h": 7,
+   "forecast": 20.7,
+   "low": 7.0,
+   "high": 37.8
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 22.8,
-   "low": 8.8,
-   "high": 40.3
+   "h": 8,
+   "forecast": 22.6,
+   "low": 8.7,
+   "high": 40.2
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 24.7,
-   "low": 10.8,
-   "high": 42.3
+   "h": 9,
+   "forecast": 24.3,
+   "low": 10.3,
+   "high": 41.8
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 18.6,
-   "low": 4.7,
-   "high": 36.1
+   "h": 10,
+   "forecast": 18.3,
+   "low": 4.3,
+   "high": 35.8
   },
   {
    "state": "Kelantan",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 19.6,
-   "low": 5.6,
-   "high": 37.1
-  },
-  {
-   "state": "Kelantan",
-   "blood_type": "O",
-   "date": "2026-11-28",
-   "h": 13,
-   "forecast": 21.7,
-   "low": 7.7,
-   "high": 39.2
-  },
-  {
-   "state": "Kelantan",
-   "blood_type": "O",
-   "date": "2026-11-29",
-   "h": 14,
+   "h": 11,
    "forecast": 20.0,
    "low": 6.1,
    "high": 37.5
   },
   {
-   "state": "Melaka",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 10.9,
-   "low": 0.0,
-   "high": 26.8
+   "state": "Kelantan",
+   "blood_type": "O",
+   "date": "2026-11-28",
+   "h": 12,
+   "forecast": 22.1,
+   "low": 8.1,
+   "high": 39.6
+  },
+  {
+   "state": "Kelantan",
+   "blood_type": "O",
+   "date": "2026-11-29",
+   "h": 13,
+   "forecast": 20.1,
+   "low": 6.1,
+   "high": 37.6
+  },
+  {
+   "state": "Kelantan",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 20.7,
+   "low": 6.8,
+   "high": 38.2
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 18.4,
-   "low": 3.9,
-   "high": 34.3
+   "low": 4.0,
+   "high": 34.4
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 19.8,
    "low": 5.3,
    "high": 35.7
@@ -1552,7 +1543,7 @@
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 19.9,
    "low": 5.5,
    "high": 35.9
@@ -1561,70 +1552,70 @@
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 8.3,
+   "h": 4,
+   "forecast": 8.0,
    "low": 0.0,
-   "high": 24.2
+   "high": 24.0
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 19.2,
-   "low": 4.7,
-   "high": 35.1
+   "h": 5,
+   "forecast": 19.0,
+   "low": 4.5,
+   "high": 34.9
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 42.0,
-   "low": 27.5,
-   "high": 57.9
+   "h": 6,
+   "forecast": 41.8,
+   "low": 27.3,
+   "high": 57.7
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 11.1,
+   "h": 7,
+   "forecast": 10.8,
    "low": 0.0,
-   "high": 27.6
+   "high": 26.7
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 18.5,
-   "low": 4.2,
-   "high": 35.0
+   "h": 8,
+   "forecast": 18.6,
+   "low": 4.3,
+   "high": 35.1
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 20.0,
-   "low": 5.6,
-   "high": 36.4
+   "h": 9,
+   "forecast": 19.8,
+   "low": 5.5,
+   "high": 36.3
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 20.3,
-   "low": 6.0,
-   "high": 36.8
+   "h": 10,
+   "forecast": 20.2,
+   "low": 5.8,
+   "high": 36.6
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 8.0,
    "low": 0.0,
    "high": 24.4
@@ -1633,34 +1624,34 @@
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 18.9,
-   "low": 4.6,
-   "high": 35.4
+   "h": 12,
+   "forecast": 18.8,
+   "low": 4.4,
+   "high": 35.2
   },
   {
    "state": "Melaka",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 42.3,
-   "low": 27.9,
-   "high": 58.7
+   "h": 13,
+   "forecast": 41.3,
+   "low": 27.0,
+   "high": 57.8
   },
   {
    "state": "Melaka",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 3.4,
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 10.6,
    "low": 0.0,
-   "high": 8.4
+   "high": 27.1
   },
   {
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 4.7,
    "low": 0.7,
    "high": 9.7
@@ -1669,7 +1660,7 @@
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 5.6,
    "low": 1.6,
    "high": 10.6
@@ -1678,16 +1669,16 @@
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 5.1,
-   "low": 1.2,
-   "high": 10.2
+   "low": 1.1,
+   "high": 10.1
   },
   {
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 2.1,
    "low": 0.0,
    "high": 7.2
@@ -1696,26 +1687,26 @@
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 4.8,
-   "low": 0.8,
-   "high": 9.8
+   "low": 0.9,
+   "high": 9.9
   },
   {
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 8.8,
-   "low": 4.8,
-   "high": 13.8
+   "h": 6,
+   "forecast": 8.7,
+   "low": 4.7,
+   "high": 13.7
   },
   {
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 3.4,
+   "h": 7,
+   "forecast": 3.5,
    "low": 0.0,
    "high": 8.5
   },
@@ -1723,7 +1714,7 @@
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 4.8,
    "low": 0.6,
    "high": 9.9
@@ -1732,25 +1723,25 @@
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 5.6,
-   "low": 1.5,
+   "low": 1.4,
    "high": 10.7
   },
   {
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 5.2,
-   "low": 1.1,
+   "low": 1.0,
    "high": 10.3
   },
   {
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 2.1,
    "low": 0.0,
    "high": 7.2
@@ -1759,7 +1750,7 @@
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 4.8,
    "low": 0.6,
    "high": 9.9
@@ -1768,25 +1759,25 @@
    "state": "Melaka",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 8.7,
-   "low": 4.6,
-   "high": 13.8
+   "h": 13,
+   "forecast": 8.6,
+   "low": 4.4,
+   "high": 13.7
   },
   {
    "state": "Melaka",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 11.3,
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 3.4,
    "low": 0.0,
-   "high": 29.6
+   "high": 8.5
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 20.4,
    "low": 4.8,
    "high": 38.7
@@ -1795,61 +1786,61 @@
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 21.7,
    "low": 6.1,
-   "high": 40.0
+   "high": 40.1
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 21.3,
    "low": 5.7,
-   "high": 39.6
+   "high": 39.7
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 8.1,
+   "h": 4,
+   "forecast": 8.0,
    "low": 0.0,
-   "high": 26.5
+   "high": 26.3
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 21.5,
-   "low": 5.9,
-   "high": 39.8
+   "h": 5,
+   "forecast": 21.4,
+   "low": 5.8,
+   "high": 39.7
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 41.8,
    "low": 26.2,
-   "high": 60.1
+   "high": 60.2
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 11.5,
+   "h": 7,
+   "forecast": 11.0,
    "low": 0.0,
-   "high": 29.9
+   "high": 29.4
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 21.1,
    "low": 5.1,
    "high": 39.4
@@ -1858,151 +1849,151 @@
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 22.6,
-   "low": 6.6,
-   "high": 40.9
+   "h": 9,
+   "forecast": 22.4,
+   "low": 6.4,
+   "high": 40.8
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 22.0,
-   "low": 6.0,
-   "high": 40.3
+   "h": 10,
+   "forecast": 21.9,
+   "low": 5.9,
+   "high": 40.2
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 7.8,
    "low": 0.0,
-   "high": 26.2
+   "high": 26.1
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 21.1,
-   "low": 5.2,
-   "high": 39.5
+   "h": 12,
+   "forecast": 21.0,
+   "low": 5.1,
+   "high": 39.4
   },
   {
    "state": "Melaka",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 41.2,
-   "low": 25.2,
-   "high": 59.6
+   "h": 13,
+   "forecast": 40.5,
+   "low": 24.5,
+   "high": 58.9
   },
   {
    "state": "Melaka",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 18.9,
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 10.9,
    "low": 0.0,
-   "high": 44.6
+   "high": 29.3
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 31.5,
-   "low": 7.6,
-   "high": 57.3
+   "low": 7.5,
+   "high": 57.2
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 32.4,
-   "low": 8.5,
-   "high": 58.2
+   "h": 2,
+   "forecast": 32.7,
+   "low": 8.7,
+   "high": 58.4
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 34.8,
-   "low": 10.8,
-   "high": 60.5
+   "h": 3,
+   "forecast": 34.7,
+   "low": 10.7,
+   "high": 60.4
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 12.5,
+   "h": 4,
+   "forecast": 12.8,
    "low": 0.0,
-   "high": 38.3
+   "high": 38.5
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 36.8,
-   "low": 12.9,
-   "high": 62.6
+   "h": 5,
+   "forecast": 36.2,
+   "low": 12.2,
+   "high": 61.9
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 72.6,
-   "low": 48.6,
-   "high": 98.3
+   "h": 6,
+   "forecast": 71.7,
+   "low": 47.7,
+   "high": 97.4
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 19.7,
+   "h": 7,
+   "forecast": 18.4,
    "low": 0.0,
-   "high": 45.5
+   "high": 44.1
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 32.4,
-   "low": 8.6,
-   "high": 58.2
+   "h": 8,
+   "forecast": 32.7,
+   "low": 8.8,
+   "high": 58.4
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 33.2,
-   "low": 9.4,
-   "high": 59.0
+   "h": 9,
+   "forecast": 33.6,
+   "low": 9.8,
+   "high": 59.3
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 35.4,
-   "low": 11.5,
-   "high": 61.1
+   "low": 11.6,
+   "high": 61.2
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 12.3,
    "low": 0.0,
    "high": 38.0
@@ -2011,35 +2002,35 @@
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 36.0,
-   "low": 12.1,
-   "high": 61.7
+   "h": 12,
+   "forecast": 36.2,
+   "low": 12.4,
+   "high": 62.0
   },
   {
    "state": "Melaka",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 71.3,
-   "low": 47.5,
-   "high": 97.1
+   "h": 13,
+   "forecast": 71.7,
+   "low": 47.8,
+   "high": 97.4
   },
   {
-   "state": "Negeri Sembilan",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 8.2,
+   "state": "Melaka",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 17.9,
    "low": 0.0,
-   "high": 22.1
+   "high": 43.6
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 7.5,
+   "h": 1,
+   "forecast": 7.4,
    "low": 0.0,
    "high": 21.4
   },
@@ -2047,152 +2038,152 @@
    "state": "Negeri Sembilan",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 14.5,
-   "low": 4.6,
-   "high": 28.4
+   "h": 2,
+   "forecast": 14.4,
+   "low": 4.5,
+   "high": 28.3
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "A",
    "date": "2026-11-19",
+   "h": 3,
+   "forecast": 13.7,
+   "low": 3.8,
+   "high": 27.6
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "A",
+   "date": "2026-11-20",
    "h": 4,
+   "forecast": 6.4,
+   "low": 0.0,
+   "high": 20.4
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "A",
+   "date": "2026-11-21",
+   "h": 5,
+   "forecast": 11.2,
+   "low": 1.4,
+   "high": 25.2
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "A",
+   "date": "2026-11-22",
+   "h": 6,
+   "forecast": 19.9,
+   "low": 10.0,
+   "high": 33.8
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "A",
+   "date": "2026-11-23",
+   "h": 7,
+   "forecast": 7.9,
+   "low": 0.0,
+   "high": 21.8
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "A",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 7.4,
+   "low": 0.0,
+   "high": 21.4
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "A",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 14.5,
+   "low": 4.5,
+   "high": 28.5
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "A",
+   "date": "2026-11-26",
+   "h": 10,
    "forecast": 13.9,
-   "low": 4.1,
+   "low": 3.9,
    "high": 27.9
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "A",
-   "date": "2026-11-20",
-   "h": 5,
-   "forecast": 6.5,
+   "date": "2026-11-27",
+   "h": 11,
+   "forecast": 6.4,
    "low": 0.0,
-   "high": 20.4
+   "high": 20.3
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "A",
-   "date": "2026-11-21",
-   "h": 6,
+   "date": "2026-11-28",
+   "h": 12,
    "forecast": 11.5,
-   "low": 1.6,
+   "low": 1.4,
    "high": 25.4
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "A",
-   "date": "2026-11-22",
-   "h": 7,
-   "forecast": 20.3,
-   "low": 10.4,
+   "date": "2026-11-29",
+   "h": 13,
+   "forecast": 20.2,
+   "low": 10.1,
    "high": 34.2
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "A",
-   "date": "2026-11-23",
-   "h": 8,
-   "forecast": 8.2,
-   "low": 0.0,
-   "high": 22.2
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "A",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 7.5,
-   "low": 0.0,
-   "high": 21.5
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "A",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 14.6,
-   "low": 4.6,
-   "high": 28.6
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "A",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 14.1,
-   "low": 4.0,
-   "high": 28.0
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "A",
-   "date": "2026-11-27",
-   "h": 12,
-   "forecast": 6.5,
-   "low": 0.0,
-   "high": 20.4
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "A",
-   "date": "2026-11-28",
-   "h": 13,
-   "forecast": 11.7,
-   "low": 1.6,
-   "high": 25.7
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "A",
-   "date": "2026-11-29",
+   "date": "2026-11-30",
    "h": 14,
-   "forecast": 20.6,
-   "low": 10.5,
-   "high": 34.5
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 1.7,
+   "forecast": 8.0,
    "low": 0.0,
-   "high": 5.8
+   "high": 21.9
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 1.5,
+   "h": 1,
+   "forecast": 1.3,
    "low": 0.0,
-   "high": 5.6
+   "high": 5.4
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 3.1,
-   "low": 0.1,
-   "high": 7.2
+   "h": 2,
+   "forecast": 2.7,
+   "low": 0.0,
+   "high": 6.8
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 2.9,
+   "h": 3,
+   "forecast": 2.5,
    "low": 0.0,
-   "high": 7.0
+   "high": 6.6
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 1.1,
+   "h": 4,
+   "forecast": 1.0,
    "low": 0.0,
    "high": 5.2
   },
@@ -2200,34 +2191,25 @@
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 2.2,
+   "h": 5,
+   "forecast": 2.0,
    "low": 0.0,
-   "high": 6.3
+   "high": 6.1
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 3.4,
-   "low": 0.4,
-   "high": 7.5
+   "h": 6,
+   "forecast": 3.0,
+   "low": 0.0,
+   "high": 7.1
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 1.7,
-   "low": 0.0,
-   "high": 5.8
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "AB",
-   "date": "2026-11-24",
-   "h": 9,
+   "h": 7,
    "forecast": 1.5,
    "low": 0.0,
    "high": 5.6
@@ -2235,26 +2217,35 @@
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 1.4,
+   "low": 0.0,
+   "high": 5.5
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 3.1,
-   "low": 0.1,
-   "high": 7.2
+   "h": 9,
+   "forecast": 2.8,
+   "low": 0.0,
+   "high": 6.9
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 2.9,
+   "h": 10,
+   "forecast": 2.6,
    "low": 0.0,
-   "high": 7.0
+   "high": 6.7
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 1.1,
    "low": 0.0,
    "high": 5.2
@@ -2263,25 +2254,88 @@
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 2.2,
+   "h": 12,
+   "forecast": 2.0,
    "low": 0.0,
-   "high": 6.3
+   "high": 6.2
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "date": "2026-11-29",
+   "h": 13,
+   "forecast": 3.0,
+   "low": 0.0,
+   "high": 7.1
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "AB",
+   "date": "2026-11-30",
    "h": 14,
-   "forecast": 3.4,
-   "low": 0.4,
-   "high": 7.5
+   "forecast": 1.5,
+   "low": 0.0,
+   "high": 5.6
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "B",
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "h": 1,
+   "forecast": 9.0,
+   "low": 0.0,
+   "high": 21.9
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-18",
+   "h": 2,
+   "forecast": 18.1,
+   "low": 8.5,
+   "high": 31.0
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-19",
+   "h": 3,
+   "forecast": 15.3,
+   "low": 5.7,
+   "high": 28.2
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-20",
+   "h": 4,
+   "forecast": 7.5,
+   "low": 0.0,
+   "high": 20.4
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-21",
+   "h": 5,
+   "forecast": 13.2,
+   "low": 3.7,
+   "high": 26.1
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-22",
+   "h": 6,
+   "forecast": 21.1,
+   "low": 11.5,
+   "high": 34.0
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-23",
+   "h": 7,
    "forecast": 9.2,
    "low": 0.0,
    "high": 22.1
@@ -2289,260 +2343,197 @@
   {
    "state": "Negeri Sembilan",
    "blood_type": "B",
-   "date": "2026-11-17",
-   "h": 2,
-   "forecast": 9.0,
-   "low": 0.0,
-   "high": 21.9
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-18",
-   "h": 3,
-   "forecast": 18.2,
-   "low": 8.7,
-   "high": 31.1
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-19",
-   "h": 4,
-   "forecast": 15.4,
-   "low": 5.9,
-   "high": 28.3
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-20",
-   "h": 5,
-   "forecast": 7.9,
-   "low": 0.0,
-   "high": 20.8
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-21",
-   "h": 6,
-   "forecast": 13.4,
-   "low": 3.8,
-   "high": 26.3
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-22",
-   "h": 7,
-   "forecast": 21.3,
-   "low": 11.7,
-   "high": 34.2
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "h": 8,
+   "forecast": 8.9,
+   "low": 0.0,
+   "high": 21.8
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 17.7,
+   "low": 7.9,
+   "high": 30.6
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-26",
+   "h": 10,
+   "forecast": 14.8,
+   "low": 5.1,
+   "high": 27.7
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-27",
+   "h": 11,
+   "forecast": 7.5,
+   "low": 0.0,
+   "high": 20.4
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-28",
+   "h": 12,
+   "forecast": 12.9,
+   "low": 3.2,
+   "high": 25.9
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-29",
+   "h": 13,
+   "forecast": 20.7,
+   "low": 11.0,
+   "high": 33.7
+  },
+  {
+   "state": "Negeri Sembilan",
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
    "forecast": 9.3,
    "low": 0.0,
    "high": 22.2
   },
   {
    "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 9.0,
-   "low": 0.0,
-   "high": 21.9
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 17.8,
-   "low": 8.1,
-   "high": 30.7
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 14.9,
-   "low": 5.2,
-   "high": 27.8
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-27",
-   "h": 12,
-   "forecast": 7.6,
-   "low": 0.0,
-   "high": 20.5
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-28",
-   "h": 13,
-   "forecast": 13.1,
-   "low": 3.3,
-   "high": 26.0
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "B",
-   "date": "2026-11-29",
-   "h": 14,
-   "forecast": 20.9,
-   "low": 11.1,
-   "high": 33.8
-  },
-  {
-   "state": "Negeri Sembilan",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 14.0,
-   "low": 0.0,
-   "high": 35.5
-  },
-  {
-   "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 13.9,
+   "h": 1,
+   "forecast": 13.8,
    "low": 0.0,
-   "high": 35.5
+   "high": 35.3
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 26.2,
-   "low": 11.0,
-   "high": 47.8
+   "h": 2,
+   "forecast": 26.1,
+   "low": 10.9,
+   "high": 47.7
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 25.2,
-   "low": 10.0,
-   "high": 46.7
+   "h": 3,
+   "forecast": 25.0,
+   "low": 9.8,
+   "high": 46.6
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 11.5,
+   "h": 4,
+   "forecast": 11.4,
    "low": 0.0,
-   "high": 33.0
+   "high": 32.9
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 20.1,
-   "low": 4.9,
-   "high": 41.7
+   "h": 5,
+   "forecast": 19.8,
+   "low": 4.6,
+   "high": 41.3
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 38.4,
-   "low": 23.2,
-   "high": 59.9
+   "h": 6,
+   "forecast": 37.8,
+   "low": 22.6,
+   "high": 59.4
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 13.9,
+   "h": 7,
+   "forecast": 13.1,
    "low": 0.0,
-   "high": 35.9
+   "high": 34.7
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 13.9,
+   "h": 8,
+   "forecast": 13.7,
    "low": 0.0,
-   "high": 35.9
+   "high": 35.7
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 26.5,
-   "low": 11.0,
-   "high": 48.5
+   "h": 9,
+   "forecast": 26.2,
+   "low": 10.8,
+   "high": 48.2
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 25.4,
-   "low": 10.0,
-   "high": 47.4
+   "h": 10,
+   "forecast": 25.1,
+   "low": 9.7,
+   "high": 47.1
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 11.5,
+   "h": 11,
+   "forecast": 11.4,
    "low": 0.0,
-   "high": 33.5
+   "high": 33.4
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 20.3,
-   "low": 4.8,
-   "high": 42.3
+   "h": 12,
+   "forecast": 20.0,
+   "low": 4.5,
+   "high": 41.9
   },
   {
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 38.7,
-   "low": 23.3,
-   "high": 60.7
+   "h": 13,
+   "forecast": 38.4,
+   "low": 22.9,
+   "high": 60.4
   },
   {
-   "state": "Pahang",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 5.5,
+   "state": "Negeri Sembilan",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 13.3,
    "low": 0.0,
-   "high": 18.0
+   "high": 35.2
   },
   {
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 16.8,
    "low": 3.9,
    "high": 29.3
@@ -2551,16 +2542,16 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 18.1,
-   "low": 5.2,
-   "high": 30.6
+   "h": 2,
+   "forecast": 18.0,
+   "low": 5.0,
+   "high": 30.5
   },
   {
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 21.3,
    "low": 8.4,
    "high": 33.8
@@ -2569,7 +2560,7 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 6.4,
    "low": 0.0,
    "high": 18.9
@@ -2578,16 +2569,16 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 18.7,
+   "h": 5,
+   "forecast": 18.6,
    "low": 5.7,
-   "high": 31.2
+   "high": 31.1
   },
   {
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 33.6,
    "low": 20.7,
    "high": 46.1
@@ -2596,8 +2587,8 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 5.6,
+   "h": 7,
+   "forecast": 5.8,
    "low": 0.0,
    "high": 18.3
   },
@@ -2605,17 +2596,17 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 17.0,
-   "low": 3.9,
-   "high": 29.6
+   "low": 4.0,
+   "high": 29.7
   },
   {
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 18.1,
+   "h": 9,
+   "forecast": 18.0,
    "low": 5.0,
    "high": 30.7
   },
@@ -2623,8 +2614,8 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 21.5,
+   "h": 10,
+   "forecast": 21.4,
    "low": 8.4,
    "high": 34.1
   },
@@ -2632,7 +2623,7 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 6.4,
    "low": 0.0,
    "high": 19.1
@@ -2641,34 +2632,34 @@
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 18.8,
+   "h": 12,
+   "forecast": 18.9,
    "low": 5.8,
-   "high": 31.5
+   "high": 31.6
   },
   {
    "state": "Pahang",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 33.9,
    "low": 20.8,
    "high": 46.5
   },
   {
    "state": "Pahang",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 1.4,
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 6.0,
    "low": 0.0,
-   "high": 5.4
+   "high": 18.7
   },
   {
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 4.8,
    "low": 1.3,
    "high": 8.8
@@ -2677,26 +2668,26 @@
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 4.7,
-   "low": 1.3,
+   "low": 1.2,
    "high": 8.7
   },
   {
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 5.1,
-   "low": 1.6,
+   "low": 1.7,
    "high": 9.1
   },
   {
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 1.4,
+   "h": 4,
+   "forecast": 1.5,
    "low": 0.0,
    "high": 5.5
   },
@@ -2704,43 +2695,7 @@
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 4.7,
-   "low": 1.3,
-   "high": 8.7
-  },
-  {
-   "state": "Pahang",
-   "blood_type": "AB",
-   "date": "2026-11-22",
-   "h": 7,
-   "forecast": 7.7,
-   "low": 4.3,
-   "high": 11.7
-  },
-  {
-   "state": "Pahang",
-   "blood_type": "AB",
-   "date": "2026-11-23",
-   "h": 8,
-   "forecast": 1.4,
-   "low": 0.0,
-   "high": 5.6
-  },
-  {
-   "state": "Pahang",
-   "blood_type": "AB",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 4.8,
-   "low": 1.4,
-   "high": 9.0
-  },
-  {
-   "state": "Pahang",
-   "blood_type": "AB",
-   "date": "2026-11-25",
-   "h": 10,
+   "h": 5,
    "forecast": 4.7,
    "low": 1.3,
    "high": 8.8
@@ -2748,18 +2703,54 @@
   {
    "state": "Pahang",
    "blood_type": "AB",
+   "date": "2026-11-22",
+   "h": 6,
+   "forecast": 7.7,
+   "low": 4.3,
+   "high": 11.8
+  },
+  {
+   "state": "Pahang",
+   "blood_type": "AB",
+   "date": "2026-11-23",
+   "h": 7,
+   "forecast": 1.5,
+   "low": 0.0,
+   "high": 5.6
+  },
+  {
+   "state": "Pahang",
+   "blood_type": "AB",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 4.8,
+   "low": 1.5,
+   "high": 9.0
+  },
+  {
+   "state": "Pahang",
+   "blood_type": "AB",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 4.7,
+   "low": 1.3,
+   "high": 8.9
+  },
+  {
+   "state": "Pahang",
+   "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 5.1,
    "low": 1.7,
-   "high": 9.2
+   "high": 9.3
   },
   {
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 1.4,
+   "h": 11,
+   "forecast": 1.5,
    "low": 0.0,
    "high": 5.6
   },
@@ -2767,8 +2758,8 @@
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 4.7,
+   "h": 12,
+   "forecast": 4.8,
    "low": 1.4,
    "high": 8.9
   },
@@ -2776,25 +2767,25 @@
    "state": "Pahang",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 7.8,
    "low": 4.4,
    "high": 11.9
   },
   {
    "state": "Pahang",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 6.5,
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 1.5,
    "low": 0.0,
-   "high": 20.7
+   "high": 5.7
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 19.8,
    "low": 6.3,
    "high": 34.0
@@ -2803,79 +2794,79 @@
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 19.7,
-   "low": 6.2,
-   "high": 33.9
+   "h": 2,
+   "forecast": 19.6,
+   "low": 6.1,
+   "high": 33.8
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 25.3,
-   "low": 11.7,
+   "h": 3,
+   "forecast": 25.2,
+   "low": 11.6,
    "high": 39.4
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 6.3,
    "low": 0.0,
-   "high": 20.4
+   "high": 20.5
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 19.1,
-   "low": 5.5,
-   "high": 33.2
+   "low": 5.6,
+   "high": 33.3
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 34.9,
-   "low": 21.3,
-   "high": 49.0
+   "h": 6,
+   "forecast": 35.0,
+   "low": 21.4,
+   "high": 49.2
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 6.6,
+   "h": 7,
+   "forecast": 6.8,
    "low": 0.0,
-   "high": 20.8
+   "high": 20.9
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 20.1,
-   "low": 6.3,
-   "high": 34.3
+   "h": 8,
+   "forecast": 20.0,
+   "low": 6.2,
+   "high": 34.2
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 19.8,
-   "low": 6.1,
+   "low": 6.0,
    "high": 34.0
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 25.3,
    "low": 11.5,
    "high": 39.5
@@ -2884,7 +2875,7 @@
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 6.3,
    "low": 0.0,
    "high": 20.5
@@ -2893,62 +2884,62 @@
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 19.3,
-   "low": 5.5,
+   "low": 5.6,
    "high": 33.5
   },
   {
    "state": "Pahang",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 35.2,
-   "low": 21.4,
+   "h": 13,
+   "forecast": 35.3,
+   "low": 21.5,
    "high": 49.4
   },
   {
    "state": "Pahang",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 9.2,
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 6.7,
    "low": 0.0,
-   "high": 31.0
+   "high": 20.9
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 28.7,
-   "low": 8.2,
-   "high": 50.5
+   "h": 1,
+   "forecast": 28.5,
+   "low": 8.0,
+   "high": 50.3
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 29.0,
-   "low": 8.5,
-   "high": 50.8
+   "h": 2,
+   "forecast": 28.9,
+   "low": 8.4,
+   "high": 50.7
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 34.6,
-   "low": 14.2,
-   "high": 56.5
+   "h": 3,
+   "forecast": 34.3,
+   "low": 13.8,
+   "high": 56.1
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 9.2,
+   "h": 4,
+   "forecast": 9.3,
    "low": 0.0,
    "high": 31.1
   },
@@ -2956,7 +2947,7 @@
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 30.2,
    "low": 9.7,
    "high": 52.1
@@ -2965,133 +2956,133 @@
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 54.5,
-   "low": 34.0,
-   "high": 76.3
+   "h": 6,
+   "forecast": 54.8,
+   "low": 34.3,
+   "high": 76.6
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 9.4,
+   "h": 7,
+   "forecast": 10.3,
    "low": 0.0,
-   "high": 30.5
+   "high": 32.1
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 29.1,
-   "low": 9.1,
-   "high": 50.1
+   "h": 8,
+   "forecast": 28.8,
+   "low": 8.8,
+   "high": 49.9
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 29.0,
-   "low": 9.0,
-   "high": 50.0
+   "h": 9,
+   "forecast": 28.9,
+   "low": 8.9,
+   "high": 49.9
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 34.7,
-   "low": 14.8,
-   "high": 55.8
+   "h": 10,
+   "forecast": 34.5,
+   "low": 14.5,
+   "high": 55.5
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 9.2,
+   "h": 11,
+   "forecast": 9.3,
    "low": 0.0,
-   "high": 30.2
+   "high": 30.3
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 31.0,
-   "low": 11.0,
+   "h": 12,
+   "forecast": 31.1,
+   "low": 11.1,
    "high": 52.1
   },
   {
    "state": "Pahang",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 55.2,
+   "h": 13,
+   "forecast": 55.3,
    "low": 35.3,
    "high": 76.3
   },
   {
-   "state": "Perak",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 18.5,
-   "low": 1.7,
-   "high": 34.0
+   "state": "Pahang",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 10.3,
+   "low": 0.0,
+   "high": 31.3
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 29.1,
-   "low": 12.3,
-   "high": 44.6
+   "h": 1,
+   "forecast": 29.3,
+   "low": 12.6,
+   "high": 44.8
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 31.0,
-   "low": 14.2,
-   "high": 46.5
+   "h": 2,
+   "forecast": 31.3,
+   "low": 14.5,
+   "high": 46.7
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 28.4,
-   "low": 11.6,
+   "h": 3,
+   "forecast": 28.5,
+   "low": 11.7,
    "high": 43.9
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 18.5,
-   "low": 1.7,
-   "high": 34.0
+   "h": 4,
+   "forecast": 18.6,
+   "low": 1.8,
+   "high": 34.1
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 34.1,
-   "low": 17.3,
+   "h": 5,
+   "forecast": 34.2,
+   "low": 17.4,
    "high": 49.6
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 59.6,
    "low": 42.8,
    "high": 75.1
@@ -3100,79 +3091,79 @@
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
+   "h": 7,
    "forecast": 18.6,
-   "low": 1.7,
-   "high": 34.1
+   "low": 1.8,
+   "high": 34.0
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 30.0,
-   "low": 13.1,
-   "high": 45.5
+   "h": 8,
+   "forecast": 29.9,
+   "low": 13.0,
+   "high": 45.4
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 32.4,
-   "low": 15.5,
-   "high": 47.9
+   "h": 9,
+   "forecast": 32.6,
+   "low": 15.7,
+   "high": 48.1
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 29.5,
-   "low": 12.6,
-   "high": 45.0
+   "h": 10,
+   "forecast": 29.4,
+   "low": 12.5,
+   "high": 44.9
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 18.9,
-   "low": 2.0,
-   "high": 34.4
+   "h": 11,
+   "forecast": 18.7,
+   "low": 1.9,
+   "high": 34.2
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 34.3,
-   "low": 17.4,
-   "high": 49.8
+   "h": 12,
+   "forecast": 34.4,
+   "low": 17.5,
+   "high": 49.9
   },
   {
    "state": "Perak",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 59.6,
-   "low": 42.7,
-   "high": 75.1
+   "h": 13,
+   "forecast": 59.8,
+   "low": 42.9,
+   "high": 75.3
   },
   {
    "state": "Perak",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 4.9,
-   "low": 0.0,
-   "high": 10.9
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 18.5,
+   "low": 1.6,
+   "high": 34.0
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 7.5,
    "low": 2.0,
    "high": 13.5
@@ -3181,7 +3172,7 @@
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 7.3,
    "low": 1.8,
    "high": 13.3
@@ -3190,16 +3181,16 @@
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 7.0,
+   "h": 3,
+   "forecast": 7.1,
    "low": 1.6,
-   "high": 13.0
+   "high": 13.1
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 4.6,
    "low": 0.0,
    "high": 10.6
@@ -3208,34 +3199,34 @@
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 8.5,
+   "h": 5,
+   "forecast": 8.6,
    "low": 3.1,
-   "high": 14.5
+   "high": 14.6
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 12.8,
-   "low": 7.3,
-   "high": 18.8
+   "h": 6,
+   "forecast": 12.9,
+   "low": 7.4,
+   "high": 18.9
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 4.8,
+   "h": 7,
+   "forecast": 4.9,
    "low": 0.0,
-   "high": 10.8
+   "high": 10.9
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 7.5,
    "low": 1.9,
    "high": 13.5
@@ -3244,26 +3235,26 @@
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 7.3,
-   "low": 1.7,
+   "h": 9,
+   "forecast": 7.4,
+   "low": 1.8,
    "high": 13.4
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 7.2,
-   "low": 1.5,
+   "low": 1.6,
    "high": 13.2
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 4.7,
+   "h": 11,
+   "forecast": 4.6,
    "low": 0.0,
    "high": 10.7
   },
@@ -3271,188 +3262,188 @@
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 8.5,
-   "low": 2.9,
+   "h": 12,
+   "forecast": 8.6,
+   "low": 3.0,
    "high": 14.6
   },
   {
    "state": "Perak",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 12.9,
+   "h": 13,
+   "forecast": 13.0,
    "low": 7.3,
-   "high": 18.9
+   "high": 19.0
   },
   {
    "state": "Perak",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 20.2,
-   "low": 1.5,
-   "high": 41.6
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 4.9,
+   "low": 0.0,
+   "high": 10.9
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 33.8,
-   "low": 15.1,
-   "high": 55.2
+   "low": 15.0,
+   "high": 55.1
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 36.0,
-   "low": 17.3,
-   "high": 57.4
+   "h": 2,
+   "forecast": 36.3,
+   "low": 17.6,
+   "high": 57.7
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 31.7,
-   "low": 12.9,
-   "high": 53.0
+   "low": 13.0,
+   "high": 53.1
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 19.6,
-   "low": 0.9,
-   "high": 41.0
+   "h": 4,
+   "forecast": 19.7,
+   "low": 1.0,
+   "high": 41.1
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 39.2,
-   "low": 20.5,
-   "high": 60.6
+   "h": 5,
+   "forecast": 39.4,
+   "low": 20.7,
+   "high": 60.8
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 61.9,
-   "low": 43.2,
-   "high": 83.3
+   "h": 6,
+   "forecast": 61.7,
+   "low": 43.0,
+   "high": 83.1
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 20.3,
-   "low": 1.8,
-   "high": 41.2
-  },
-  {
-   "state": "Perak",
-   "blood_type": "B",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 34.8,
-   "low": 16.3,
-   "high": 55.7
-  },
-  {
-   "state": "Perak",
-   "blood_type": "B",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 37.0,
-   "low": 18.5,
-   "high": 57.9
-  },
-  {
-   "state": "Perak",
-   "blood_type": "B",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 32.8,
-   "low": 14.3,
-   "high": 53.7
-  },
-  {
-   "state": "Perak",
-   "blood_type": "B",
-   "date": "2026-11-27",
-   "h": 12,
-   "forecast": 19.9,
-   "low": 1.4,
+   "h": 7,
+   "forecast": 19.4,
+   "low": 0.7,
    "high": 40.8
   },
   {
    "state": "Perak",
    "blood_type": "B",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 34.7,
+   "low": 16.2,
+   "high": 55.6
+  },
+  {
+   "state": "Perak",
+   "blood_type": "B",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 37.2,
+   "low": 18.7,
+   "high": 58.1
+  },
+  {
+   "state": "Perak",
+   "blood_type": "B",
+   "date": "2026-11-26",
+   "h": 10,
+   "forecast": 32.6,
+   "low": 14.1,
+   "high": 53.5
+  },
+  {
+   "state": "Perak",
+   "blood_type": "B",
+   "date": "2026-11-27",
+   "h": 11,
+   "forecast": 19.7,
+   "low": 1.2,
+   "high": 40.7
+  },
+  {
+   "state": "Perak",
+   "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 39.7,
-   "low": 21.2,
-   "high": 60.6
+   "h": 12,
+   "forecast": 39.9,
+   "low": 21.4,
+   "high": 60.8
   },
   {
    "state": "Perak",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 62.2,
-   "low": 43.7,
-   "high": 83.1
+   "h": 13,
+   "forecast": 62.0,
+   "low": 43.5,
+   "high": 82.9
   },
   {
    "state": "Perak",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 31.0,
-   "low": 4.0,
-   "high": 58.0
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 19.4,
+   "low": 0.9,
+   "high": 40.3
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 50.3,
-   "low": 23.3,
-   "high": 77.4
+   "h": 1,
+   "forecast": 50.7,
+   "low": 23.6,
+   "high": 77.7
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 52.3,
-   "low": 25.3,
-   "high": 79.3
+   "h": 2,
+   "forecast": 52.9,
+   "low": 25.9,
+   "high": 79.9
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 49.7,
-   "low": 22.6,
-   "high": 76.7
+   "h": 3,
+   "forecast": 50.1,
+   "low": 23.0,
+   "high": 77.1
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 32.1,
+   "h": 4,
+   "forecast": 32.0,
    "low": 5.0,
    "high": 59.1
   },
@@ -3460,97 +3451,97 @@
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 62.2,
-   "low": 35.2,
-   "high": 89.2
+   "h": 5,
+   "forecast": 61.9,
+   "low": 34.9,
+   "high": 88.9
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 103.3,
-   "low": 76.3,
-   "high": 130.3
+   "h": 6,
+   "forecast": 103.6,
+   "low": 76.6,
+   "high": 130.6
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 31.7,
-   "low": 3.5,
-   "high": 58.3
+   "h": 7,
+   "forecast": 32.4,
+   "low": 5.4,
+   "high": 59.5
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 52.9,
-   "low": 24.8,
-   "high": 79.5
+   "h": 8,
+   "forecast": 53.4,
+   "low": 25.2,
+   "high": 80.0
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 55.1,
-   "low": 26.9,
-   "high": 81.7
+   "h": 9,
+   "forecast": 55.6,
+   "low": 27.4,
+   "high": 82.1
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 52.2,
-   "low": 24.0,
-   "high": 78.8
+   "h": 10,
+   "forecast": 52.3,
+   "low": 24.1,
+   "high": 78.9
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 33.2,
-   "low": 5.0,
-   "high": 59.7
+   "h": 11,
+   "forecast": 32.8,
+   "low": 4.6,
+   "high": 59.3
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 60.3,
-   "low": 32.1,
-   "high": 86.9
+   "h": 12,
+   "forecast": 60.2,
+   "low": 32.0,
+   "high": 86.8
   },
   {
    "state": "Perak",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 102.0,
-   "low": 73.8,
-   "high": 128.6
+   "h": 13,
+   "forecast": 102.6,
+   "low": 74.4,
+   "high": 129.1
   },
   {
-   "state": "Pulau Pinang",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 17.6,
-   "low": 4.4,
-   "high": 33.2
+   "state": "Perak",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 31.9,
+   "low": 3.7,
+   "high": 58.5
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 28.5,
    "low": 15.3,
    "high": 44.1
@@ -3559,17 +3550,17 @@
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 32.4,
+   "h": 2,
+   "forecast": 32.5,
    "low": 19.2,
-   "high": 48.0
+   "high": 48.1
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 34.7,
+   "h": 3,
+   "forecast": 34.6,
    "low": 21.4,
    "high": 50.2
   },
@@ -3577,43 +3568,43 @@
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 12.7,
+   "h": 4,
+   "forecast": 12.6,
    "low": 0.0,
-   "high": 28.3
+   "high": 28.2
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 30.9,
-   "low": 17.6,
-   "high": 46.4
+   "h": 5,
+   "forecast": 31.0,
+   "low": 17.7,
+   "high": 46.6
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 58.2,
-   "low": 45.0,
-   "high": 73.8
+   "low": 44.9,
+   "high": 73.7
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 17.9,
-   "low": 4.9,
-   "high": 33.0
+   "h": 7,
+   "forecast": 17.3,
+   "low": 4.1,
+   "high": 32.9
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 28.7,
    "low": 15.8,
    "high": 43.8
@@ -3622,7 +3613,7 @@
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 32.3,
    "low": 19.3,
    "high": 47.4
@@ -3631,16 +3622,16 @@
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 34.7,
-   "low": 21.7,
+   "low": 21.8,
    "high": 49.8
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 12.7,
    "low": 0.0,
    "high": 27.8
@@ -3649,70 +3640,70 @@
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 31.1,
-   "low": 18.1,
-   "high": 46.2
+   "h": 12,
+   "forecast": 31.2,
+   "low": 18.3,
+   "high": 46.4
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 58.6,
    "low": 45.6,
    "high": 73.7
   },
   {
    "state": "Pulau Pinang",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 5.1,
-   "low": 0.4,
-   "high": 9.9
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 17.4,
+   "low": 4.4,
+   "high": 32.5
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 8.1,
    "low": 3.4,
-   "high": 12.9
+   "high": 12.8
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 9.2,
-   "low": 4.5,
+   "h": 2,
+   "forecast": 9.3,
+   "low": 4.6,
    "high": 14.0
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 9.2,
-   "low": 4.5,
+   "h": 3,
+   "forecast": 9.3,
+   "low": 4.6,
    "high": 14.0
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 3.3,
    "low": 0.0,
-   "high": 8.1
+   "high": 8.0
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 7.4,
    "low": 2.7,
    "high": 12.2
@@ -3721,34 +3712,34 @@
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 12.7,
-   "low": 8.0,
-   "high": 17.4
+   "h": 6,
+   "forecast": 12.5,
+   "low": 7.8,
+   "high": 17.3
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 5.2,
-   "low": 0.7,
-   "high": 9.9
+   "h": 7,
+   "forecast": 4.8,
+   "low": 0.1,
+   "high": 9.5
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 8.2,
-   "low": 3.7,
+   "low": 3.6,
    "high": 12.9
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 9.3,
    "low": 4.8,
    "high": 14.0
@@ -3757,8 +3748,8 @@
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 9.4,
+   "h": 10,
+   "forecast": 9.5,
    "low": 4.9,
    "high": 14.2
   },
@@ -3766,52 +3757,52 @@
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 3.4,
+   "h": 11,
+   "forecast": 3.3,
    "low": 0.0,
-   "high": 8.1
+   "high": 8.0
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 7.6,
-   "low": 3.1,
+   "low": 3.0,
    "high": 12.3
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 12.8,
    "low": 8.2,
    "high": 17.5
   },
   {
    "state": "Pulau Pinang",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 19.0,
-   "low": 3.8,
-   "high": 32.2
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 4.8,
+   "low": 0.3,
+   "high": 9.5
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 30.3,
+   "h": 1,
+   "forecast": 30.4,
    "low": 15.2,
-   "high": 43.5
+   "high": 43.6
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 36.9,
    "low": 21.8,
    "high": 50.1
@@ -3820,61 +3811,61 @@
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 39.1,
    "low": 24.0,
-   "high": 52.3
+   "high": 52.4
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 13.0,
+   "h": 4,
+   "forecast": 12.9,
    "low": 0.0,
-   "high": 26.2
+   "high": 26.1
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 31.1,
-   "low": 16.0,
-   "high": 44.4
+   "h": 5,
+   "forecast": 31.3,
+   "low": 16.2,
+   "high": 44.5
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 62.7,
-   "low": 47.6,
+   "low": 47.5,
    "high": 75.9
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 19.1,
-   "low": 3.3,
-   "high": 32.8
+   "h": 7,
+   "forecast": 18.1,
+   "low": 3.0,
+   "high": 31.3
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 30.2,
-   "low": 14.4,
-   "high": 43.8
+   "h": 8,
+   "forecast": 30.3,
+   "low": 14.5,
+   "high": 43.9
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 36.8,
    "low": 21.0,
    "high": 50.4
@@ -3883,250 +3874,250 @@
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 39.3,
-   "low": 23.6,
-   "high": 53.0
+   "h": 10,
+   "forecast": 39.4,
+   "low": 23.7,
+   "high": 53.1
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 13.1,
+   "h": 11,
+   "forecast": 12.9,
    "low": 0.0,
-   "high": 26.7
+   "high": 26.6
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 31.4,
-   "low": 15.6,
-   "high": 45.0
+   "h": 12,
+   "forecast": 31.6,
+   "low": 15.8,
+   "high": 45.2
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 63.4,
-   "low": 47.6,
-   "high": 77.0
+   "h": 13,
+   "forecast": 63.5,
+   "low": 47.7,
+   "high": 77.1
   },
   {
    "state": "Pulau Pinang",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 31.2,
-   "low": 10.9,
-   "high": 53.3
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 18.2,
+   "low": 2.4,
+   "high": 31.8
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 49.6,
-   "low": 29.4,
-   "high": 71.8
+   "low": 29.3,
+   "high": 71.7
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 55.7,
-   "low": 35.4,
-   "high": 77.8
+   "h": 2,
+   "forecast": 56.0,
+   "low": 35.7,
+   "high": 78.1
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 57.9,
-   "low": 37.6,
+   "h": 3,
+   "forecast": 58.0,
+   "low": 37.7,
    "high": 80.1
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 20.8,
-   "low": 0.5,
-   "high": 43.0
+   "h": 4,
+   "forecast": 20.7,
+   "low": 0.4,
+   "high": 42.8
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 52.9,
-   "low": 32.6,
-   "high": 75.0
+   "low": 32.7,
+   "high": 75.1
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 97.4,
-   "low": 77.1,
-   "high": 119.6
+   "h": 6,
+   "forecast": 97.1,
+   "low": 76.9,
+   "high": 119.3
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 31.3,
-   "low": 11.9,
-   "high": 53.4
+   "h": 7,
+   "forecast": 31.0,
+   "low": 10.8,
+   "high": 53.2
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 48.6,
-   "low": 29.1,
-   "high": 70.6
+   "h": 8,
+   "forecast": 48.7,
+   "low": 29.3,
+   "high": 70.8
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 54.5,
-   "low": 35.0,
-   "high": 76.5
+   "h": 9,
+   "forecast": 54.6,
+   "low": 35.1,
+   "high": 76.6
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 58.4,
-   "low": 38.9,
-   "high": 80.4
+   "low": 39.0,
+   "high": 80.5
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 20.9,
-   "low": 1.5,
-   "high": 43.0
+   "h": 11,
+   "forecast": 20.8,
+   "low": 1.4,
+   "high": 42.9
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 53.6,
-   "low": 34.1,
-   "high": 75.6
+   "h": 12,
+   "forecast": 53.3,
+   "low": 33.9,
+   "high": 75.4
   },
   {
    "state": "Pulau Pinang",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 98.4,
-   "low": 79.0,
-   "high": 120.5
+   "h": 13,
+   "forecast": 98.2,
+   "low": 78.7,
+   "high": 120.2
   },
   {
-   "state": "Sabah",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 11.9,
-   "low": 0.0,
-   "high": 26.4
+   "state": "Pulau Pinang",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 31.2,
+   "low": 11.7,
+   "high": 53.2
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 15.4,
-   "low": 0.9,
-   "high": 29.9
+   "h": 1,
+   "forecast": 15.6,
+   "low": 1.0,
+   "high": 30.1
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 19.4,
-   "low": 4.8,
-   "high": 33.9
+   "h": 2,
+   "forecast": 19.2,
+   "low": 4.6,
+   "high": 33.7
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 18.0,
-   "low": 3.5,
+   "low": 3.4,
    "high": 32.5
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 14.0,
+   "h": 4,
+   "forecast": 13.8,
    "low": 0.0,
-   "high": 28.5
+   "high": 28.3
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 38.6,
-   "low": 24.0,
-   "high": 53.1
+   "h": 5,
+   "forecast": 39.4,
+   "low": 24.8,
+   "high": 53.9
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 55.3,
-   "low": 40.7,
-   "high": 69.8
+   "h": 6,
+   "forecast": 55.6,
+   "low": 41.0,
+   "high": 70.1
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 11.8,
+   "h": 7,
+   "forecast": 11.2,
    "low": 0.0,
-   "high": 26.7
+   "high": 25.7
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 15.4,
-   "low": 0.8,
-   "high": 30.3
+   "h": 8,
+   "forecast": 15.5,
+   "low": 0.9,
+   "high": 30.4
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 18.9,
    "low": 4.4,
    "high": 33.8
@@ -4135,7 +4126,7 @@
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 17.7,
    "low": 3.2,
    "high": 32.6
@@ -4144,7 +4135,7 @@
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 14.0,
    "low": 0.0,
    "high": 28.9
@@ -4153,34 +4144,34 @@
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 39.6,
-   "low": 25.0,
-   "high": 54.5
+   "h": 12,
+   "forecast": 39.4,
+   "low": 24.8,
+   "high": 54.3
   },
   {
    "state": "Sabah",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 56.1,
-   "low": 41.5,
-   "high": 71.0
+   "h": 13,
+   "forecast": 56.3,
+   "low": 41.7,
+   "high": 71.2
   },
   {
    "state": "Sabah",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 2.7,
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 11.3,
    "low": 0.0,
-   "high": 7.5
+   "high": 26.2
   },
   {
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 3.5,
    "low": 0.0,
    "high": 8.4
@@ -4189,7 +4180,7 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 3.7,
    "low": 0.0,
    "high": 8.5
@@ -4198,7 +4189,7 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 3.7,
    "low": 0.0,
    "high": 8.5
@@ -4207,7 +4198,7 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 3.5,
    "low": 0.0,
    "high": 8.3
@@ -4216,34 +4207,34 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 8.3,
-   "low": 4.1,
-   "high": 13.1
+   "h": 5,
+   "forecast": 8.0,
+   "low": 3.8,
+   "high": 12.9
   },
   {
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 11.1,
-   "low": 6.9,
-   "high": 15.9
+   "h": 6,
+   "forecast": 11.2,
+   "low": 7.0,
+   "high": 16.0
   },
   {
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 2.6,
+   "h": 7,
+   "forecast": 2.5,
    "low": 0.0,
-   "high": 7.5
+   "high": 7.4
   },
   {
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 3.5,
    "low": 0.0,
    "high": 8.4
@@ -4252,7 +4243,7 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 3.7,
    "low": 0.0,
    "high": 8.6
@@ -4261,7 +4252,7 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 3.7,
    "low": 0.0,
    "high": 8.6
@@ -4270,7 +4261,7 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 3.5,
    "low": 0.0,
    "high": 8.4
@@ -4279,43 +4270,43 @@
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 8.4,
-   "low": 4.1,
-   "high": 13.3
+   "h": 12,
+   "forecast": 8.1,
+   "low": 3.8,
+   "high": 13.0
   },
   {
    "state": "Sabah",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 11.2,
-   "low": 6.9,
-   "high": 16.1
+   "h": 13,
+   "forecast": 11.4,
+   "low": 7.0,
+   "high": 16.3
   },
   {
    "state": "Sabah",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 13.5,
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 2.5,
    "low": 0.0,
-   "high": 28.5
+   "high": 7.4
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 17.4,
-   "low": 1.8,
-   "high": 32.4
+   "h": 1,
+   "forecast": 17.7,
+   "low": 2.0,
+   "high": 32.6
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 20.7,
    "low": 5.1,
    "high": 35.7
@@ -4324,16 +4315,16 @@
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 19.7,
-   "low": 4.1,
-   "high": 34.7
+   "h": 3,
+   "forecast": 19.8,
+   "low": 4.2,
+   "high": 34.8
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 16.6,
    "low": 1.0,
    "high": 31.6
@@ -4342,241 +4333,241 @@
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 39.5,
-   "low": 23.8,
-   "high": 54.4
+   "h": 5,
+   "forecast": 40.2,
+   "low": 24.6,
+   "high": 55.2
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 55.5,
-   "low": 39.8,
-   "high": 70.5
+   "h": 6,
+   "forecast": 55.6,
+   "low": 40.0,
+   "high": 70.6
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 13.6,
+   "h": 7,
+   "forecast": 13.1,
    "low": 0.0,
-   "high": 28.6
+   "high": 28.1
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 17.6,
-   "low": 2.3,
-   "high": 32.6
+   "h": 8,
+   "forecast": 17.7,
+   "low": 2.4,
+   "high": 32.7
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 20.6,
-   "low": 5.3,
-   "high": 35.6
+   "h": 9,
+   "forecast": 20.7,
+   "low": 5.4,
+   "high": 35.7
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 19.5,
-   "low": 4.2,
-   "high": 34.5
+   "h": 10,
+   "forecast": 19.6,
+   "low": 4.3,
+   "high": 34.6
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 16.5,
-   "low": 1.1,
-   "high": 31.5
+   "h": 11,
+   "forecast": 16.6,
+   "low": 1.2,
+   "high": 31.6
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 41.2,
-   "low": 25.9,
-   "high": 56.2
+   "h": 12,
+   "forecast": 40.6,
+   "low": 25.3,
+   "high": 55.6
   },
   {
    "state": "Sabah",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 56.4,
    "low": 41.1,
    "high": 71.4
   },
   {
    "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 34.5,
-   "low": 8.1,
-   "high": 59.0
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 13.1,
+   "low": 0.0,
+   "high": 28.1
   },
   {
    "state": "Sabah",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 60.0,
-   "low": 33.6,
-   "high": 84.4
+   "h": 1,
+   "forecast": 58.5,
+   "low": 32.2,
+   "high": 83.0
   },
   {
    "state": "Sabah",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 45.3,
-   "low": 18.9,
-   "high": 69.7
+   "h": 2,
+   "forecast": 46.0,
+   "low": 19.7,
+   "high": 70.5
   },
   {
    "state": "Sabah",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 39.7,
-   "low": 13.4,
-   "high": 64.2
-  },
-  {
-   "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-20",
-   "h": 5,
-   "forecast": 34.5,
-   "low": 8.1,
-   "high": 58.9
-  },
-  {
-   "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-21",
-   "h": 6,
-   "forecast": 86.9,
-   "low": 60.5,
-   "high": 111.3
-  },
-  {
-   "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-22",
-   "h": 7,
-   "forecast": 105.3,
-   "low": 79.0,
-   "high": 129.8
-  },
-  {
-   "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-23",
-   "h": 8,
-   "forecast": 29.3,
-   "low": 2.8,
-   "high": 55.2
-  },
-  {
-   "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 36.4,
-   "low": 9.9,
-   "high": 62.2
-  },
-  {
-   "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 44.5,
-   "low": 18.0,
-   "high": 70.4
-  },
-  {
-   "state": "Sabah",
-   "blood_type": "O",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 38.8,
-   "low": 12.3,
+   "h": 3,
+   "forecast": 40.2,
+   "low": 13.8,
    "high": 64.7
   },
   {
    "state": "Sabah",
    "blood_type": "O",
+   "date": "2026-11-20",
+   "h": 4,
+   "forecast": 34.2,
+   "low": 7.8,
+   "high": 58.6
+  },
+  {
+   "state": "Sabah",
+   "blood_type": "O",
+   "date": "2026-11-21",
+   "h": 5,
+   "forecast": 88.1,
+   "low": 61.8,
+   "high": 112.6
+  },
+  {
+   "state": "Sabah",
+   "blood_type": "O",
+   "date": "2026-11-22",
+   "h": 6,
+   "forecast": 106.6,
+   "low": 80.3,
+   "high": 131.1
+  },
+  {
+   "state": "Sabah",
+   "blood_type": "O",
+   "date": "2026-11-23",
+   "h": 7,
+   "forecast": 28.4,
+   "low": 2.0,
+   "high": 52.8
+  },
+  {
+   "state": "Sabah",
+   "blood_type": "O",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 36.4,
+   "low": 9.9,
+   "high": 62.3
+  },
+  {
+   "state": "Sabah",
+   "blood_type": "O",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 45.2,
+   "low": 18.7,
+   "high": 71.1
+  },
+  {
+   "state": "Sabah",
+   "blood_type": "O",
+   "date": "2026-11-26",
+   "h": 10,
+   "forecast": 39.2,
+   "low": 12.7,
+   "high": 65.1
+  },
+  {
+   "state": "Sabah",
+   "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 34.0,
+   "h": 11,
+   "forecast": 33.9,
    "low": 7.5,
-   "high": 59.9
+   "high": 59.8
   },
   {
    "state": "Sabah",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 88.3,
-   "low": 61.8,
-   "high": 114.2
+   "h": 12,
+   "forecast": 87.8,
+   "low": 61.3,
+   "high": 113.7
   },
   {
    "state": "Sabah",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 105.9,
-   "low": 79.4,
-   "high": 131.8
+   "h": 13,
+   "forecast": 107.1,
+   "low": 80.6,
+   "high": 133.0
   },
   {
-   "state": "Sarawak",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 11.3,
-   "low": 1.0,
-   "high": 23.6
+   "state": "Sabah",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 28.2,
+   "low": 1.7,
+   "high": 54.1
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 18.2,
-   "low": 7.9,
-   "high": 30.5
+   "h": 1,
+   "forecast": 18.3,
+   "low": 8.0,
+   "high": 30.6
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 22.5,
-   "low": 12.3,
+   "low": 12.2,
    "high": 34.8
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 21.0,
    "low": 10.7,
    "high": 33.3
@@ -4585,16 +4576,16 @@
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 12.7,
+   "h": 4,
+   "forecast": 12.6,
    "low": 2.4,
-   "high": 25.0
+   "high": 24.9
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 43.9,
    "low": 33.6,
    "high": 56.2
@@ -4603,61 +4594,61 @@
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 65.5,
-   "low": 55.2,
-   "high": 77.8
+   "h": 6,
+   "forecast": 65.4,
+   "low": 55.1,
+   "high": 77.6
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 11.3,
-   "low": 1.1,
-   "high": 23.5
+   "h": 7,
+   "forecast": 11.6,
+   "low": 1.3,
+   "high": 23.9
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 18.2,
+   "h": 8,
+   "forecast": 18.3,
    "low": 8.1,
-   "high": 30.4
+   "high": 30.5
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 22.4,
-   "low": 12.2,
-   "high": 34.6
+   "low": 12.3,
+   "high": 34.7
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 20.9,
    "low": 10.8,
-   "high": 33.1
+   "high": 33.2
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 12.7,
-   "low": 2.5,
+   "low": 2.6,
    "high": 24.9
   },
   {
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 43.8,
    "low": 33.7,
    "high": 56.1
@@ -4666,34 +4657,34 @@
    "state": "Sarawak",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 65.5,
-   "low": 55.3,
-   "high": 77.7
+   "h": 13,
+   "forecast": 65.3,
+   "low": 55.2,
+   "high": 77.6
   },
   {
    "state": "Sarawak",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 3.4,
-   "low": 0.0,
-   "high": 8.3
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 11.6,
+   "low": 1.4,
+   "high": 23.8
   },
   {
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 5.3,
-   "low": 1.5,
+   "h": 1,
+   "forecast": 5.2,
+   "low": 1.4,
    "high": 10.1
   },
   {
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 7.6,
    "low": 3.8,
    "high": 12.5
@@ -4702,16 +4693,16 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 5.9,
+   "h": 3,
+   "forecast": 5.8,
    "low": 2.1,
-   "high": 10.8
+   "high": 10.7
   },
   {
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 3.7,
    "low": 0.0,
    "high": 8.6
@@ -4720,34 +4711,34 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 11.7,
-   "low": 7.9,
-   "high": 16.6
+   "h": 5,
+   "forecast": 11.9,
+   "low": 8.1,
+   "high": 16.7
   },
   {
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 15.3,
-   "low": 11.5,
-   "high": 20.2
+   "h": 6,
+   "forecast": 15.1,
+   "low": 11.3,
+   "high": 20.0
   },
   {
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 3.3,
+   "h": 7,
+   "forecast": 3.4,
    "low": 0.0,
-   "high": 8.1
+   "high": 8.3
   },
   {
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 5.1,
    "low": 1.4,
    "high": 9.9
@@ -4756,7 +4747,7 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 7.5,
    "low": 3.8,
    "high": 12.3
@@ -4765,7 +4756,7 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 5.7,
    "low": 2.0,
    "high": 10.5
@@ -4774,7 +4765,7 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 3.6,
    "low": 0.0,
    "high": 8.4
@@ -4783,52 +4774,52 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 11.4,
-   "low": 7.7,
-   "high": 16.2
+   "h": 12,
+   "forecast": 11.6,
+   "low": 7.9,
+   "high": 16.3
   },
   {
    "state": "Sarawak",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 15.1,
-   "low": 11.4,
-   "high": 19.9
+   "h": 13,
+   "forecast": 15.0,
+   "low": 11.3,
+   "high": 19.8
   },
   {
    "state": "Sarawak",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 14.4,
-   "low": 1.4,
-   "high": 26.1
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 3.4,
+   "low": 0.0,
+   "high": 8.2
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 24.7,
-   "low": 11.7,
+   "h": 1,
+   "forecast": 24.6,
+   "low": 11.6,
    "high": 36.3
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 29.9,
-   "low": 16.9,
-   "high": 41.5
+   "h": 2,
+   "forecast": 29.7,
+   "low": 16.7,
+   "high": 41.4
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 24.4,
    "low": 11.4,
    "high": 36.1
@@ -4837,25 +4828,25 @@
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 15.9,
-   "low": 2.9,
+   "h": 4,
+   "forecast": 15.8,
+   "low": 2.8,
    "high": 27.5
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 55.3,
-   "low": 42.3,
-   "high": 67.0
+   "h": 5,
+   "forecast": 55.4,
+   "low": 42.4,
+   "high": 67.1
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 71.8,
    "low": 58.8,
    "high": 83.5
@@ -4864,16 +4855,16 @@
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 14.2,
-   "low": 0.6,
-   "high": 26.1
+   "h": 7,
+   "forecast": 14.5,
+   "low": 1.5,
+   "high": 26.2
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 24.6,
    "low": 10.9,
    "high": 36.4
@@ -4882,16 +4873,16 @@
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 29.4,
-   "low": 15.8,
-   "high": 41.3
+   "low": 15.7,
+   "high": 41.2
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 24.3,
    "low": 10.6,
    "high": 36.1
@@ -4900,8 +4891,8 @@
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 15.8,
+   "h": 11,
+   "forecast": 15.7,
    "low": 2.1,
    "high": 27.6
   },
@@ -4909,52 +4900,52 @@
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 55.3,
-   "low": 41.6,
+   "h": 12,
+   "forecast": 55.2,
+   "low": 41.5,
    "high": 67.1
   },
   {
    "state": "Sarawak",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 71.8,
    "low": 58.1,
    "high": 83.7
   },
   {
    "state": "Sarawak",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 20.3,
-   "low": 0.2,
-   "high": 38.6
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 14.5,
+   "low": 0.9,
+   "high": 26.4
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 34.8,
-   "low": 14.8,
-   "high": 53.1
+   "h": 1,
+   "forecast": 34.7,
+   "low": 14.7,
+   "high": 53.0
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 40.0,
-   "low": 19.9,
+   "low": 20.0,
    "high": 58.3
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 34.8,
    "low": 14.7,
    "high": 53.1
@@ -4963,52 +4954,52 @@
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 23.9,
-   "low": 3.8,
+   "low": 3.9,
    "high": 42.2
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 78.5,
+   "h": 5,
+   "forecast": 78.6,
    "low": 58.5,
-   "high": 96.8
+   "high": 96.9
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 106.8,
-   "low": 86.7,
-   "high": 125.1
+   "h": 6,
+   "forecast": 106.7,
+   "low": 86.6,
+   "high": 125.0
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
+   "h": 7,
    "forecast": 20.4,
-   "low": 0.2,
-   "high": 38.5
+   "low": 0.4,
+   "high": 38.7
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 34.2,
-   "low": 14.0,
-   "high": 52.3
+   "h": 8,
+   "forecast": 34.4,
+   "low": 14.1,
+   "high": 52.4
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 40.0,
    "low": 19.7,
    "high": 58.0
@@ -5017,7 +5008,7 @@
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 34.8,
    "low": 14.5,
    "high": 52.8
@@ -5026,168 +5017,177 @@
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 23.6,
-   "low": 3.4,
-   "high": 41.7
+   "low": 3.3,
+   "high": 41.6
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 78.4,
-   "low": 58.1,
-   "high": 96.4
+   "low": 58.2,
+   "high": 96.5
   },
   {
    "state": "Sarawak",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 106.8,
-   "low": 86.6,
-   "high": 124.8
+   "h": 13,
+   "forecast": 106.7,
+   "low": 86.4,
+   "high": 124.7
   },
   {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 4.2,
-   "low": 0.0,
-   "high": 19.4
+   "state": "Sarawak",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 20.4,
+   "low": 0.1,
+   "high": 38.4
   },
   {
    "state": "Selangor",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 18.7,
-   "low": 4.0,
-   "high": 33.9
+   "h": 1,
+   "forecast": 18.6,
+   "low": 3.9,
+   "high": 33.8
   },
   {
    "state": "Selangor",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 20.4,
-   "low": 5.7,
-   "high": 35.6
+   "low": 5.6,
+   "high": 35.5
   },
   {
    "state": "Selangor",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 21.8,
-   "low": 7.1,
-   "high": 37.0
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-20",
-   "h": 5,
-   "forecast": 11.3,
-   "low": 0.0,
-   "high": 26.4
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-21",
-   "h": 6,
-   "forecast": 19.7,
-   "low": 5.0,
-   "high": 34.9
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-22",
-   "h": 7,
-   "forecast": 52.3,
-   "low": 37.5,
-   "high": 67.4
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-23",
-   "h": 8,
-   "forecast": 4.3,
-   "low": 0.0,
-   "high": 18.9
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-24",
-   "h": 9,
-   "forecast": 19.0,
-   "low": 3.9,
-   "high": 33.6
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-25",
-   "h": 10,
-   "forecast": 20.8,
-   "low": 5.7,
-   "high": 35.4
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "A",
-   "date": "2026-11-26",
-   "h": 11,
-   "forecast": 22.3,
-   "low": 7.1,
+   "low": 7.0,
    "high": 36.9
   },
   {
    "state": "Selangor",
    "blood_type": "A",
-   "date": "2026-11-27",
-   "h": 12,
+   "date": "2026-11-20",
+   "h": 4,
    "forecast": 11.3,
    "low": 0.0,
-   "high": 25.9
+   "high": 26.5
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "A",
+   "date": "2026-11-21",
+   "h": 5,
+   "forecast": 20.2,
+   "low": 5.5,
+   "high": 35.4
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "A",
+   "date": "2026-11-22",
+   "h": 6,
+   "forecast": 52.3,
+   "low": 37.6,
+   "high": 67.5
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "A",
+   "date": "2026-11-23",
+   "h": 7,
+   "forecast": 3.9,
+   "low": 0.0,
+   "high": 19.1
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "A",
+   "date": "2026-11-24",
+   "h": 8,
+   "forecast": 18.9,
+   "low": 3.8,
+   "high": 33.5
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "A",
+   "date": "2026-11-25",
+   "h": 9,
+   "forecast": 20.6,
+   "low": 5.5,
+   "high": 35.2
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "A",
+   "date": "2026-11-26",
+   "h": 10,
+   "forecast": 22.1,
+   "low": 7.0,
+   "high": 36.7
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "A",
+   "date": "2026-11-27",
+   "h": 11,
+   "forecast": 11.4,
+   "low": 0.0,
+   "high": 26.0
   },
   {
    "state": "Selangor",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 19.9,
-   "low": 4.8,
-   "high": 34.5
+   "h": 12,
+   "forecast": 20.4,
+   "low": 5.3,
+   "high": 35.0
   },
   {
    "state": "Selangor",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 52.5,
-   "low": 37.4,
-   "high": 67.1
+   "h": 13,
+   "forecast": 52.3,
+   "low": 37.2,
+   "high": 66.9
   },
   {
    "state": "Selangor",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 1.5,
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 4.0,
    "low": 0.0,
-   "high": 6.4
+   "high": 18.6
   },
   {
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-17",
+   "h": 1,
+   "forecast": 4.8,
+   "low": 0.0,
+   "high": 9.7
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "AB",
+   "date": "2026-11-18",
    "h": 2,
    "forecast": 4.9,
    "low": 0.0,
@@ -5196,26 +5196,17 @@
   {
    "state": "Selangor",
    "blood_type": "AB",
-   "date": "2026-11-18",
-   "h": 3,
-   "forecast": 5.0,
-   "low": 0.0,
-   "high": 9.8
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 5.6,
-   "low": 0.5,
-   "high": 10.5
+   "h": 3,
+   "forecast": 5.5,
+   "low": 0.4,
+   "high": 10.4
   },
   {
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 2.9,
    "low": 0.0,
    "high": 7.8
@@ -5224,7 +5215,7 @@
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 4.3,
    "low": 0.0,
    "high": 9.1
@@ -5233,52 +5224,52 @@
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 9.2,
-   "low": 4.1,
-   "high": 14.1
+   "h": 6,
+   "forecast": 9.1,
+   "low": 4.0,
+   "high": 14.0
   },
   {
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 1.6,
+   "h": 7,
+   "forecast": 1.5,
    "low": 0.0,
-   "high": 6.6
+   "high": 6.3
   },
   {
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 5.0,
+   "h": 8,
+   "forecast": 4.9,
    "low": 0.1,
-   "high": 10.0
+   "high": 9.9
   },
   {
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 5.0,
-   "low": 0.2,
-   "high": 10.0
+   "h": 9,
+   "forecast": 4.9,
+   "low": 0.1,
+   "high": 9.9
   },
   {
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 5.7,
-   "low": 0.8,
-   "high": 10.7
+   "h": 10,
+   "forecast": 5.6,
+   "low": 0.7,
+   "high": 10.6
   },
   {
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 3.0,
    "low": 0.0,
    "high": 8.0
@@ -5287,8 +5278,8 @@
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 4.3,
+   "h": 12,
+   "forecast": 4.4,
    "low": 0.0,
    "high": 9.3
   },
@@ -5296,35 +5287,35 @@
    "state": "Selangor",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 9.4,
-   "low": 4.5,
-   "high": 14.4
+   "h": 13,
+   "forecast": 9.3,
+   "low": 4.4,
+   "high": 14.3
   },
   {
    "state": "Selangor",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 5.6,
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 1.5,
    "low": 0.0,
-   "high": 21.9
+   "high": 6.5
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 23.5,
-   "low": 5.3,
-   "high": 39.7
+   "h": 1,
+   "forecast": 23.6,
+   "low": 5.4,
+   "high": 39.8
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 23.7,
+   "h": 2,
+   "forecast": 23.6,
    "low": 5.5,
    "high": 39.9
   },
@@ -5332,7 +5323,7 @@
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 25.6,
    "low": 7.4,
    "high": 41.8
@@ -5341,7 +5332,7 @@
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 13.6,
    "low": 0.0,
    "high": 29.8
@@ -5350,52 +5341,52 @@
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 21.5,
-   "low": 3.4,
-   "high": 37.8
+   "h": 5,
+   "forecast": 22.0,
+   "low": 3.8,
+   "high": 38.2
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 52.7,
-   "low": 34.6,
-   "high": 69.0
+   "h": 6,
+   "forecast": 52.9,
+   "low": 34.7,
+   "high": 69.1
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 5.8,
+   "h": 7,
+   "forecast": 5.2,
    "low": 0.0,
-   "high": 22.4
+   "high": 21.4
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 24.0,
-   "low": 5.1,
-   "high": 40.6
+   "h": 8,
+   "forecast": 23.8,
+   "low": 5.0,
+   "high": 40.4
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 23.9,
-   "low": 5.1,
+   "low": 5.0,
    "high": 40.5
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 25.8,
    "low": 7.0,
    "high": 42.4
@@ -5404,107 +5395,107 @@
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 13.7,
+   "h": 11,
+   "forecast": 13.8,
    "low": 0.0,
-   "high": 30.3
+   "high": 30.5
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 21.8,
-   "low": 2.9,
-   "high": 38.4
+   "h": 12,
+   "forecast": 22.2,
+   "low": 3.4,
+   "high": 38.9
   },
   {
    "state": "Selangor",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 52.9,
    "low": 34.1,
    "high": 69.5
   },
   {
    "state": "Selangor",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 8.7,
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 5.2,
    "low": 0.0,
-   "high": 33.1
+   "high": 21.8
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 33.1,
-   "low": 10.5,
-   "high": 57.6
+   "low": 10.4,
+   "high": 57.5
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 34.0,
-   "low": 11.4,
-   "high": 58.5
+   "h": 2,
+   "forecast": 34.1,
+   "low": 11.5,
+   "high": 58.6
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 39.6,
-   "low": 16.9,
-   "high": 64.0
+   "h": 3,
+   "forecast": 39.7,
+   "low": 17.1,
+   "high": 64.1
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 21.0,
+   "h": 4,
+   "forecast": 20.8,
    "low": 0.0,
-   "high": 45.4
+   "high": 45.2
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 33.9,
-   "low": 11.2,
-   "high": 58.3
+   "h": 5,
+   "forecast": 33.3,
+   "low": 10.7,
+   "high": 57.8
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 80.6,
-   "low": 58.0,
-   "high": 105.1
+   "h": 6,
+   "forecast": 81.0,
+   "low": 58.3,
+   "high": 105.4
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 8.8,
+   "h": 7,
+   "forecast": 7.9,
    "low": 0.0,
-   "high": 32.7
+   "high": 32.3
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 33.9,
+   "h": 8,
+   "forecast": 33.8,
    "low": 10.9,
    "high": 57.7
   },
@@ -5512,62 +5503,62 @@
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 34.3,
-   "low": 11.4,
-   "high": 58.2
+   "h": 9,
+   "forecast": 34.4,
+   "low": 11.5,
+   "high": 58.3
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 39.6,
-   "low": 16.7,
-   "high": 63.5
+   "h": 10,
+   "forecast": 39.8,
+   "low": 16.9,
+   "high": 63.7
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 21.1,
+   "h": 11,
+   "forecast": 20.9,
    "low": 0.0,
-   "high": 44.9
+   "high": 44.8
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 34.0,
-   "low": 11.0,
-   "high": 57.8
+   "h": 12,
+   "forecast": 33.5,
+   "low": 10.6,
+   "high": 57.4
   },
   {
    "state": "Selangor",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 81.0,
-   "low": 58.1,
-   "high": 104.9
+   "h": 13,
+   "forecast": 81.4,
+   "low": 58.5,
+   "high": 105.3
   },
   {
-   "state": "Terengganu",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 14.6,
-   "low": 4.8,
-   "high": 25.0
+   "state": "Selangor",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 7.9,
+   "low": 0.0,
+   "high": 31.8
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 15.9,
+   "h": 1,
+   "forecast": 16.0,
    "low": 6.2,
    "high": 26.4
   },
@@ -5575,25 +5566,25 @@
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 16.0,
-   "low": 6.3,
-   "high": 26.5
+   "h": 2,
+   "forecast": 15.9,
+   "low": 6.1,
+   "high": 26.4
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 15.7,
    "low": 5.9,
-   "high": 26.1
+   "high": 26.2
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 13.6,
    "low": 3.8,
    "high": 24.0
@@ -5602,7 +5593,7 @@
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 17.4,
    "low": 7.6,
    "high": 27.8
@@ -5611,7 +5602,7 @@
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 12.9,
    "low": 3.1,
    "high": 23.3
@@ -5620,25 +5611,25 @@
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 14.8,
-   "low": 4.8,
-   "high": 25.5
+   "h": 7,
+   "forecast": 14.1,
+   "low": 4.3,
+   "high": 24.5
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 16.0,
    "low": 6.0,
-   "high": 26.7
+   "high": 26.6
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 15.9,
    "low": 5.9,
    "high": 26.5
@@ -5647,52 +5638,52 @@
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 15.4,
-   "low": 5.4,
+   "h": 10,
+   "forecast": 15.5,
+   "low": 5.5,
    "high": 26.1
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 13.3,
-   "low": 3.3,
+   "low": 3.2,
    "high": 23.9
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 17.1,
-   "low": 7.0,
-   "high": 27.7
+   "low": 7.1,
+   "high": 27.8
   },
   {
    "state": "Terengganu",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 12.6,
    "low": 2.6,
    "high": 23.3
   },
   {
    "state": "Terengganu",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 4.5,
-   "low": 0.7,
-   "high": 8.6
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 13.7,
+   "low": 3.7,
+   "high": 24.4
   },
   {
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 5.2,
    "low": 1.5,
    "high": 9.3
@@ -5701,7 +5692,7 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 4.5,
    "low": 0.8,
    "high": 8.6
@@ -5710,7 +5701,7 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 4.6,
    "low": 0.8,
    "high": 8.7
@@ -5719,7 +5710,7 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 3.8,
    "low": 0.0,
    "high": 7.9
@@ -5728,16 +5719,16 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 4.7,
    "low": 1.0,
-   "high": 8.8
+   "high": 8.9
   },
   {
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 3.7,
    "low": 0.0,
    "high": 7.8
@@ -5746,16 +5737,16 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 4.5,
-   "low": 0.8,
-   "high": 8.6
+   "h": 7,
+   "forecast": 4.6,
+   "low": 0.9,
+   "high": 8.7
   },
   {
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 5.3,
    "low": 1.6,
    "high": 9.4
@@ -5764,7 +5755,7 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 4.5,
    "low": 0.9,
    "high": 8.7
@@ -5773,7 +5764,7 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 4.6,
    "low": 0.9,
    "high": 8.7
@@ -5782,7 +5773,7 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
+   "h": 11,
    "forecast": 3.7,
    "low": 0.1,
    "high": 7.8
@@ -5791,52 +5782,52 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 4.7,
-   "low": 1.0,
+   "low": 1.1,
    "high": 8.8
   },
   {
    "state": "Terengganu",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 3.7,
-   "low": 0.0,
+   "low": 0.1,
    "high": 7.8
   },
   {
    "state": "Terengganu",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 16.9,
-   "low": 5.2,
-   "high": 29.5
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 4.6,
+   "low": 0.9,
+   "high": 8.7
   },
   {
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 18.7,
+   "h": 1,
+   "forecast": 18.6,
    "low": 6.9,
-   "high": 31.3
+   "high": 31.2
   },
   {
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 18.2,
-   "low": 6.4,
-   "high": 30.8
+   "h": 2,
+   "forecast": 18.1,
+   "low": 6.3,
+   "high": 30.7
   },
   {
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 18.0,
    "low": 6.2,
    "high": 30.6
@@ -5845,7 +5836,7 @@
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
+   "h": 4,
    "forecast": 15.4,
    "low": 3.6,
    "high": 28.0
@@ -5854,7 +5845,7 @@
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 18.9,
    "low": 7.1,
    "high": 31.5
@@ -5863,7 +5854,7 @@
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-22",
-   "h": 7,
+   "h": 6,
    "forecast": 14.2,
    "low": 2.5,
    "high": 26.8
@@ -5872,16 +5863,16 @@
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 17.2,
-   "low": 5.4,
-   "high": 29.7
+   "h": 7,
+   "forecast": 16.5,
+   "low": 4.8,
+   "high": 29.1
   },
   {
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 18.9,
    "low": 7.0,
    "high": 31.4
@@ -5890,8 +5881,8 @@
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 18.3,
+   "h": 9,
+   "forecast": 18.2,
    "low": 6.4,
    "high": 30.8
   },
@@ -5899,25 +5890,25 @@
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 18.0,
+   "h": 10,
+   "forecast": 18.1,
    "low": 6.2,
-   "high": 30.5
+   "high": 30.6
   },
   {
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 15.4,
-   "low": 3.6,
+   "h": 11,
+   "forecast": 15.3,
+   "low": 3.5,
    "high": 27.9
   },
   {
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
+   "h": 12,
    "forecast": 19.0,
    "low": 7.2,
    "high": 31.5
@@ -5926,26 +5917,26 @@
    "state": "Terengganu",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
+   "h": 13,
    "forecast": 14.2,
    "low": 2.4,
    "high": 26.7
   },
   {
    "state": "Terengganu",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 25.0,
-   "low": 9.4,
-   "high": 42.9
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 16.4,
+   "low": 4.6,
+   "high": 28.9
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 26.3,
+   "h": 1,
+   "forecast": 26.4,
    "low": 10.7,
    "high": 44.2
   },
@@ -5953,17 +5944,17 @@
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
+   "h": 2,
    "forecast": 26.6,
    "low": 11.0,
-   "high": 44.5
+   "high": 44.4
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 26.0,
+   "h": 3,
+   "forecast": 26.1,
    "low": 10.4,
    "high": 43.9
   },
@@ -5971,52 +5962,52 @@
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 22.2,
-   "low": 6.6,
-   "high": 40.1
+   "h": 4,
+   "forecast": 22.0,
+   "low": 6.4,
+   "high": 39.9
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 30.1,
-   "low": 14.5,
-   "high": 47.9
+   "h": 5,
+   "forecast": 28.9,
+   "low": 13.2,
+   "high": 46.7
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 21.7,
-   "low": 6.0,
-   "high": 39.5
+   "h": 6,
+   "forecast": 21.9,
+   "low": 6.3,
+   "high": 39.8
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 25.6,
-   "low": 10.4,
-   "high": 43.4
+   "h": 7,
+   "forecast": 24.8,
+   "low": 9.2,
+   "high": 42.6
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 26.7,
-   "low": 11.5,
-   "high": 44.5
+   "low": 11.6,
+   "high": 44.6
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 27.2,
    "low": 12.1,
    "high": 45.1
@@ -6025,177 +6016,186 @@
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 26.2,
-   "low": 11.0,
+   "low": 11.1,
    "high": 44.0
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 22.1,
-   "low": 6.9,
-   "high": 39.9
+   "h": 11,
+   "forecast": 21.9,
+   "low": 6.7,
+   "high": 39.7
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 28.9,
-   "low": 13.7,
-   "high": 46.7
+   "h": 12,
+   "forecast": 28.8,
+   "low": 13.6,
+   "high": 46.6
   },
   {
    "state": "Terengganu",
    "blood_type": "O",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 21.6,
-   "low": 6.4,
-   "high": 39.4
+   "h": 13,
+   "forecast": 21.7,
+   "low": 6.6,
+   "high": 39.5
   },
   {
-   "state": "W.P. Kuala Lumpur",
-   "blood_type": "A",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 99.9,
-   "low": 59.2,
-   "high": 134.8
+   "state": "Terengganu",
+   "blood_type": "O",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 24.6,
+   "low": 9.4,
+   "high": 42.4
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 138.5,
-   "low": 97.8,
-   "high": 173.4
+   "h": 1,
+   "forecast": 137.4,
+   "low": 96.7,
+   "high": 172.3
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 150.4,
-   "low": 109.7,
-   "high": 185.3
+   "h": 2,
+   "forecast": 149.0,
+   "low": 108.3,
+   "high": 183.9
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 151.5,
-   "low": 110.8,
-   "high": 186.4
+   "h": 3,
+   "forecast": 149.1,
+   "low": 108.4,
+   "high": 184.0
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 103.7,
-   "low": 63.0,
-   "high": 138.6
+   "h": 4,
+   "forecast": 102.6,
+   "low": 61.9,
+   "high": 137.5
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 188.3,
-   "low": 147.6,
-   "high": 223.2
+   "h": 5,
+   "forecast": 188.1,
+   "low": 147.4,
+   "high": 223.0
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 221.3,
-   "low": 180.6,
-   "high": 256.2
+   "h": 6,
+   "forecast": 219.3,
+   "low": 178.6,
+   "high": 254.3
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 101.6,
-   "low": 61.0,
-   "high": 140.2
+   "h": 7,
+   "forecast": 100.2,
+   "low": 59.5,
+   "high": 135.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 139.4,
-   "low": 98.8,
-   "high": 178.0
+   "h": 8,
+   "forecast": 138.4,
+   "low": 97.8,
+   "high": 177.0
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 148.4,
-   "low": 107.8,
-   "high": 187.0
+   "h": 9,
+   "forecast": 147.2,
+   "low": 106.6,
+   "high": 185.8
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 149.5,
-   "low": 108.9,
-   "high": 188.1
+   "h": 10,
+   "forecast": 148.3,
+   "low": 107.7,
+   "high": 186.9
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 102.9,
-   "low": 62.3,
-   "high": 141.5
+   "h": 11,
+   "forecast": 102.0,
+   "low": 61.4,
+   "high": 140.6
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 187.5,
-   "low": 146.9,
-   "high": 226.1
+   "h": 12,
+   "forecast": 187.7,
+   "low": 147.1,
+   "high": 226.3
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 218.2,
-   "low": 177.6,
-   "high": 256.8
+   "h": 13,
+   "forecast": 216.5,
+   "low": 175.9,
+   "high": 255.1
   },
   {
    "state": "W.P. Kuala Lumpur",
-   "blood_type": "AB",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 20.0,
-   "low": 1.8,
-   "high": 34.9
+   "blood_type": "A",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 100.6,
+   "low": 60.0,
+   "high": 139.2
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-17",
+   "h": 1,
+   "forecast": 28.7,
+   "low": 10.5,
+   "high": 43.7
+  },
+  {
+   "state": "W.P. Kuala Lumpur",
+   "blood_type": "AB",
+   "date": "2026-11-18",
    "h": 2,
    "forecast": 28.7,
    "low": 10.5,
@@ -6204,62 +6204,53 @@
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
-   "date": "2026-11-18",
-   "h": 3,
-   "forecast": 28.7,
-   "low": 10.5,
-   "high": 43.7
-  },
-  {
-   "state": "W.P. Kuala Lumpur",
-   "blood_type": "AB",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 30.0,
-   "low": 11.8,
-   "high": 44.9
+   "h": 3,
+   "forecast": 29.9,
+   "low": 11.6,
+   "high": 44.8
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 23.1,
-   "low": 4.9,
-   "high": 38.0
+   "h": 4,
+   "forecast": 23.0,
+   "low": 4.8,
+   "high": 37.9
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-21",
-   "h": 6,
+   "h": 5,
    "forecast": 38.2,
-   "low": 20.0,
+   "low": 19.9,
    "high": 53.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 45.2,
-   "low": 27.0,
-   "high": 60.1
+   "h": 6,
+   "forecast": 45.0,
+   "low": 26.8,
+   "high": 60.0
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 20.4,
-   "low": 1.7,
-   "high": 35.5
+   "h": 7,
+   "forecast": 20.5,
+   "low": 2.3,
+   "high": 35.4
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-24",
-   "h": 9,
+   "h": 8,
    "forecast": 28.8,
    "low": 10.0,
    "high": 43.9
@@ -6268,7 +6259,7 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-25",
-   "h": 10,
+   "h": 9,
    "forecast": 28.7,
    "low": 9.9,
    "high": 43.8
@@ -6277,7 +6268,7 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-26",
-   "h": 11,
+   "h": 10,
    "forecast": 30.0,
    "low": 11.2,
    "high": 45.1
@@ -6286,280 +6277,289 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 23.1,
+   "h": 11,
+   "forecast": 23.0,
    "low": 4.3,
-   "high": 38.2
+   "high": 38.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 38.2,
+   "h": 12,
+   "forecast": 38.3,
    "low": 19.5,
-   "high": 53.3
+   "high": 53.4
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 45.2,
-   "low": 26.4,
-   "high": 60.3
+   "h": 13,
+   "forecast": 45.1,
+   "low": 26.3,
+   "high": 60.2
   },
   {
    "state": "W.P. Kuala Lumpur",
-   "blood_type": "B",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 117.7,
-   "low": 71.6,
-   "high": 159.5
+   "blood_type": "AB",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 20.6,
+   "low": 1.8,
+   "high": 35.7
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-17",
-   "h": 2,
+   "h": 1,
    "forecast": 148.8,
-   "low": 102.6,
-   "high": 190.5
+   "low": 102.7,
+   "high": 190.6
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 153.4,
-   "low": 107.2,
-   "high": 195.2
+   "h": 2,
+   "forecast": 152.4,
+   "low": 106.2,
+   "high": 194.2
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-19",
-   "h": 4,
-   "forecast": 159.9,
-   "low": 113.8,
-   "high": 201.7
+   "h": 3,
+   "forecast": 158.4,
+   "low": 112.2,
+   "high": 200.2
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 113.9,
-   "low": 67.7,
-   "high": 155.7
-  },
-  {
-   "state": "W.P. Kuala Lumpur",
-   "blood_type": "B",
-   "date": "2026-11-21",
-   "h": 6,
-   "forecast": 189.8,
-   "low": 143.6,
-   "high": 231.6
-  },
-  {
-   "state": "W.P. Kuala Lumpur",
-   "blood_type": "B",
-   "date": "2026-11-22",
-   "h": 7,
-   "forecast": 222.0,
-   "low": 175.8,
-   "high": 263.7
-  },
-  {
-   "state": "W.P. Kuala Lumpur",
-   "blood_type": "B",
-   "date": "2026-11-23",
-   "h": 8,
-   "forecast": 112.2,
-   "low": 69.4,
+   "h": 4,
+   "forecast": 114.5,
+   "low": 68.3,
    "high": 156.3
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
+   "date": "2026-11-21",
+   "h": 5,
+   "forecast": 190.3,
+   "low": 144.1,
+   "high": 232.1
+  },
+  {
+   "state": "W.P. Kuala Lumpur",
+   "blood_type": "B",
+   "date": "2026-11-22",
+   "h": 6,
+   "forecast": 220.1,
+   "low": 173.9,
+   "high": 261.9
+  },
+  {
+   "state": "W.P. Kuala Lumpur",
+   "blood_type": "B",
+   "date": "2026-11-23",
+   "h": 7,
+   "forecast": 110.9,
+   "low": 64.7,
+   "high": 152.7
+  },
+  {
+   "state": "W.P. Kuala Lumpur",
+   "blood_type": "B",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 150.5,
-   "low": 107.7,
-   "high": 194.5
+   "h": 8,
+   "forecast": 149.3,
+   "low": 106.5,
+   "high": 193.4
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 152.2,
-   "low": 109.5,
-   "high": 196.3
+   "h": 9,
+   "forecast": 151.0,
+   "low": 108.3,
+   "high": 195.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 159.2,
-   "low": 116.4,
-   "high": 203.3
+   "h": 10,
+   "forecast": 158.0,
+   "low": 115.2,
+   "high": 202.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 114.1,
-   "low": 71.4,
-   "high": 158.2
+   "h": 11,
+   "forecast": 113.8,
+   "low": 71.0,
+   "high": 157.8
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 189.0,
+   "h": 12,
+   "forecast": 189.1,
    "low": 146.3,
-   "high": 233.1
+   "high": 233.2
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "date": "2026-11-29",
-   "h": 14,
-   "forecast": 221.4,
-   "low": 178.7,
-   "high": 265.5
+   "h": 13,
+   "forecast": 219.5,
+   "low": 176.8,
+   "high": 263.6
   },
   {
    "state": "W.P. Kuala Lumpur",
-   "blood_type": "O",
-   "date": "2026-11-16",
-   "h": 1,
-   "forecast": 191.4,
-   "low": 127.8,
-   "high": 253.4
+   "blood_type": "B",
+   "date": "2026-11-30",
+   "h": 14,
+   "forecast": 111.2,
+   "low": 68.4,
+   "high": 155.3
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-17",
-   "h": 2,
-   "forecast": 231.0,
-   "low": 167.4,
-   "high": 293.0
+   "h": 1,
+   "forecast": 230.1,
+   "low": 166.5,
+   "high": 292.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-18",
-   "h": 3,
-   "forecast": 232.7,
-   "low": 169.1,
-   "high": 294.7
+   "h": 2,
+   "forecast": 229.4,
+   "low": 165.8,
+   "high": 291.4
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-19",
-   "h": 4,
+   "h": 3,
    "forecast": 228.8,
-   "low": 165.2,
+   "low": 165.1,
    "high": 290.8
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-20",
-   "h": 5,
-   "forecast": 183.9,
-   "low": 120.3,
-   "high": 245.9
+   "h": 4,
+   "forecast": 182.6,
+   "low": 119.0,
+   "high": 244.6
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-21",
-   "h": 6,
-   "forecast": 301.1,
-   "low": 237.4,
-   "high": 363.1
+   "h": 5,
+   "forecast": 302.1,
+   "low": 238.5,
+   "high": 364.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-22",
-   "h": 7,
-   "forecast": 355.3,
-   "low": 291.7,
-   "high": 417.3
+   "h": 6,
+   "forecast": 356.3,
+   "low": 292.7,
+   "high": 418.3
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-23",
-   "h": 8,
-   "forecast": 184.7,
-   "low": 121.4,
-   "high": 251.5
+   "h": 7,
+   "forecast": 179.9,
+   "low": 116.3,
+   "high": 242.0
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-24",
-   "h": 9,
-   "forecast": 227.8,
-   "low": 164.5,
-   "high": 294.6
+   "h": 8,
+   "forecast": 229.4,
+   "low": 166.1,
+   "high": 296.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-25",
-   "h": 10,
-   "forecast": 226.9,
-   "low": 163.7,
-   "high": 293.7
+   "h": 9,
+   "forecast": 227.7,
+   "low": 164.4,
+   "high": 294.5
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-26",
-   "h": 11,
-   "forecast": 229.5,
-   "low": 166.2,
-   "high": 296.3
+   "h": 10,
+   "forecast": 228.8,
+   "low": 165.5,
+   "high": 295.6
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-27",
-   "h": 12,
-   "forecast": 183.2,
-   "low": 120.0,
-   "high": 250.0
+   "h": 11,
+   "forecast": 182.3,
+   "low": 119.1,
+   "high": 249.1
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-28",
-   "h": 13,
-   "forecast": 300.5,
-   "low": 237.3,
-   "high": 367.3
+   "h": 12,
+   "forecast": 300.8,
+   "low": 237.6,
+   "high": 367.6
   },
   {
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "date": "2026-11-29",
+   "h": 13,
+   "forecast": 355.7,
+   "low": 292.5,
+   "high": 422.5
+  },
+  {
+   "state": "W.P. Kuala Lumpur",
+   "blood_type": "O",
+   "date": "2026-11-30",
    "h": 14,
-   "forecast": 353.9,
-   "low": 290.7,
-   "high": 420.7
+   "forecast": 180.0,
+   "low": 116.8,
+   "high": 246.8
   }
  ],
  "weeks": [
@@ -6567,11 +6567,11 @@
    "state": "Johor",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 224.1,
-   "low": 184.4,
-   "high": 265.3,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 224.0,
+   "low": 184.3,
+   "high": 265.2,
    "low_line": 191.0,
    "warning": ""
   },
@@ -6579,11 +6579,11 @@
    "state": "Johor",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 226.8,
-   "low": 185.5,
-   "high": 269.2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 226.5,
+   "low": 185.2,
+   "high": 268.9,
    "low_line": 191.0,
    "warning": ""
   },
@@ -6591,35 +6591,35 @@
    "state": "Johor",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 52.2,
-   "low": 38.0,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 51.9,
+   "low": 37.7,
+   "high": 67.3,
+   "low_line": 38.0,
+   "warning": ""
+  },
+  {
+   "state": "Johor",
+   "blood_type": "AB",
+   "week": 2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 52.8,
+   "low": 38.5,
    "high": 67.7,
    "low_line": 38.0,
    "warning": ""
   },
   {
    "state": "Johor",
-   "blood_type": "AB",
-   "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 53.0,
-   "low": 38.7,
-   "high": 67.9,
-   "low_line": 38.0,
-   "warning": ""
-  },
-  {
-   "state": "Johor",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 249.4,
-   "low": 197.0,
-   "high": 306.6,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 248.5,
+   "low": 196.2,
+   "high": 305.7,
    "low_line": 211.0,
    "warning": ""
   },
@@ -6627,11 +6627,11 @@
    "state": "Johor",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 252.4,
-   "low": 201.8,
-   "high": 311.8,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 251.5,
+   "low": 200.9,
+   "high": 311.0,
    "low_line": 211.0,
    "warning": ""
   },
@@ -6639,11 +6639,11 @@
    "state": "Johor",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 408.9,
-   "low": 338.3,
-   "high": 473.9,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 410.1,
+   "low": 339.4,
+   "high": 475.1,
    "low_line": 351.0,
    "warning": ""
   },
@@ -6651,11 +6651,11 @@
    "state": "Johor",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 416.0,
-   "low": 345.1,
-   "high": 482.4,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 418.7,
+   "low": 347.8,
+   "high": 485.1,
    "low_line": 351.0,
    "warning": ""
   },
@@ -6663,11 +6663,11 @@
    "state": "Kedah",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 101.0,
-   "low": 75.1,
-   "high": 129.9,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 101.8,
+   "low": 75.8,
+   "high": 130.7,
    "low_line": 87.0,
    "warning": ""
   },
@@ -6675,11 +6675,11 @@
    "state": "Kedah",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 101.5,
-   "low": 75.7,
-   "high": 130.4,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 102.1,
+   "low": 76.3,
+   "high": 131.0,
    "low_line": 87.0,
    "warning": ""
   },
@@ -6687,11 +6687,11 @@
    "state": "Kedah",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 25.9,
-   "low": 18.4,
-   "high": 36.4,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 26.5,
+   "low": 19.0,
+   "high": 37.0,
    "low_line": 21.0,
    "warning": ""
   },
@@ -6699,11 +6699,11 @@
    "state": "Kedah",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 25.9,
-   "low": 18.4,
-   "high": 36.5,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 26.6,
+   "low": 19.1,
+   "high": 37.2,
    "low_line": 21.0,
    "warning": ""
   },
@@ -6711,11 +6711,11 @@
    "state": "Kedah",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 113.8,
-   "low": 84.1,
-   "high": 149.2,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 114.9,
+   "low": 85.2,
+   "high": 150.3,
    "low_line": 98.0,
    "warning": ""
   },
@@ -6723,11 +6723,11 @@
    "state": "Kedah",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 113.9,
-   "low": 84.1,
-   "high": 147.4,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 115.0,
+   "low": 85.2,
+   "high": 148.4,
    "low_line": 98.0,
    "warning": ""
   },
@@ -6735,11 +6735,11 @@
    "state": "Kedah",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 170.2,
-   "low": 124.9,
-   "high": 219.8,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 173.3,
+   "low": 128.0,
+   "high": 222.8,
    "low_line": 140.0,
    "warning": ""
   },
@@ -6747,11 +6747,11 @@
    "state": "Kedah",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 171.5,
-   "low": 126.1,
-   "high": 219.8,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 173.2,
+   "low": 127.8,
+   "high": 221.5,
    "low_line": 140.0,
    "warning": ""
   },
@@ -6759,11 +6759,11 @@
    "state": "Kelantan",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 96.6,
-   "low": 68.2,
-   "high": 140.7,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 96.1,
+   "low": 67.6,
+   "high": 140.1,
    "low_line": 76.0,
    "warning": ""
   },
@@ -6771,11 +6771,11 @@
    "state": "Kelantan",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 98.6,
-   "low": 69.2,
-   "high": 142.9,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 97.9,
+   "low": 68.5,
+   "high": 142.3,
    "low_line": 76.0,
    "warning": ""
   },
@@ -6783,11 +6783,11 @@
    "state": "Kelantan",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 26.2,
-   "low": 17.2,
-   "high": 37.0,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 25.8,
+   "low": 16.9,
+   "high": 36.6,
    "low_line": 19.0,
    "warning": ""
   },
@@ -6795,11 +6795,11 @@
    "state": "Kelantan",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 26.4,
-   "low": 17.0,
-   "high": 37.0,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 26.1,
+   "low": 16.6,
+   "high": 36.6,
    "low_line": 19.0,
    "warning": ""
   },
@@ -6807,11 +6807,11 @@
    "state": "Kelantan",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 95.2,
-   "low": 65.7,
-   "high": 134.6,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 94.7,
+   "low": 65.2,
+   "high": 134.0,
    "low_line": 75.0,
    "warning": ""
   },
@@ -6819,11 +6819,11 @@
    "state": "Kelantan",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 95.8,
-   "low": 66.8,
-   "high": 134.6,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 95.5,
+   "low": 66.5,
+   "high": 134.3,
    "low_line": 75.0,
    "warning": ""
   },
@@ -6831,56 +6831,56 @@
    "state": "Kelantan",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 146.6,
-   "low": 103.6,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 146.4,
+   "low": 103.4,
+   "high": 205.2,
+   "low_line": 118.0,
+   "warning": ""
+  },
+  {
+   "state": "Kelantan",
+   "blood_type": "O",
+   "week": 2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 148.0,
+   "low": 104.7,
    "high": 205.3,
    "low_line": 118.0,
    "warning": ""
   },
   {
-   "state": "Kelantan",
-   "blood_type": "O",
-   "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 149.0,
-   "low": 105.7,
-   "high": 206.3,
-   "low_line": 118.0,
-   "warning": ""
-  },
-  {
    "state": "Melaka",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 138.5,
-   "low": 99.8,
-   "high": 169.3,
-   "low_line": 124.0,
-   "warning": ""
-  },
-  {
-   "state": "Melaka",
-   "blood_type": "A",
-   "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 139.1,
-   "low": 101.4,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 137.7,
+   "low": 99.1,
    "high": 168.5,
    "low_line": 124.0,
    "warning": ""
   },
   {
    "state": "Melaka",
+   "blood_type": "A",
+   "week": 2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 137.4,
+   "low": 99.7,
+   "high": 166.7,
+   "low_line": 124.0,
+   "warning": ""
+  },
+  {
+   "state": "Melaka",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
+   "first": "2026-11-17",
+   "last": "2026-11-23",
    "forecast": 34.5,
    "low": 23.1,
    "high": 46.5,
@@ -6891,11 +6891,11 @@
    "state": "Melaka",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 34.6,
-   "low": 23.4,
-   "high": 45.9,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 34.5,
+   "low": 23.2,
+   "high": 45.8,
    "low_line": 29.0,
    "warning": ""
   },
@@ -6903,11 +6903,11 @@
    "state": "Melaka",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 146.1,
-   "low": 101.0,
-   "high": 181.8,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 145.7,
+   "low": 100.5,
+   "high": 181.4,
    "low_line": 131.0,
    "warning": ""
   },
@@ -6915,11 +6915,11 @@
    "state": "Melaka",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 147.2,
-   "low": 103.6,
-   "high": 183.5,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 145.6,
+   "low": 101.9,
+   "high": 181.9,
    "low_line": 131.0,
    "warning": ""
   },
@@ -6927,11 +6927,11 @@
    "state": "Melaka",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 239.5,
-   "low": 171.3,
-   "high": 292.6,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 237.9,
+   "low": 169.6,
+   "high": 290.9,
    "low_line": 208.0,
    "warning": ""
   },
@@ -6939,11 +6939,11 @@
    "state": "Melaka",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 240.4,
-   "low": 172.8,
-   "high": 292.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 239.8,
+   "low": 172.1,
+   "high": 291.7,
    "low_line": 208.0,
    "warning": ""
   },
@@ -6951,11 +6951,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 82.2,
-   "low": 57.2,
-   "high": 116.7,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 80.8,
+   "low": 55.8,
+   "high": 115.3,
    "low_line": 67.0,
    "warning": ""
   },
@@ -6963,11 +6963,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 83.1,
-   "low": 56.7,
-   "high": 118.1,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 81.8,
+   "low": 55.4,
+   "high": 116.8,
    "low_line": 67.0,
    "warning": ""
   },
@@ -6975,11 +6975,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 15.7,
-   "low": 3.8,
-   "high": 27.2,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 13.9,
+   "low": 2.0,
+   "high": 25.4,
    "low_line": 11.0,
    "warning": ""
   },
@@ -6987,11 +6987,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 15.8,
-   "low": 2.7,
-   "high": 27.6,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 14.5,
+   "low": 1.3,
+   "high": 26.3,
    "low_line": 11.0,
    "warning": ""
   },
@@ -6999,11 +6999,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 94.4,
-   "low": 65.5,
-   "high": 128.1,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 93.4,
+   "low": 64.5,
+   "high": 127.2,
    "low_line": 71.0,
    "warning": ""
   },
@@ -7011,11 +7011,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 92.5,
-   "low": 62.7,
-   "high": 126.0,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 91.9,
+   "low": 62.1,
+   "high": 125.3,
    "low_line": 71.0,
    "warning": ""
   },
@@ -7023,11 +7023,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 149.2,
-   "low": 103.2,
-   "high": 208.0,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 147.0,
+   "low": 100.9,
+   "high": 205.7,
    "low_line": 120.0,
    "warning": ""
   },
@@ -7035,11 +7035,11 @@
    "state": "Negeri Sembilan",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 150.3,
-   "low": 103.3,
-   "high": 209.8,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 148.1,
+   "low": 101.1,
+   "high": 207.6,
    "low_line": 120.0,
    "warning": ""
   },
@@ -7047,11 +7047,11 @@
    "state": "Pahang",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 120.4,
-   "low": 78.9,
-   "high": 156.6,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 120.5,
+   "low": 79.0,
+   "high": 156.7,
    "low_line": 100.0,
    "warning": ""
   },
@@ -7059,11 +7059,11 @@
    "state": "Pahang",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 121.2,
-   "low": 75.9,
-   "high": 158.1,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 121.7,
+   "low": 76.4,
+   "high": 158.6,
    "low_line": 100.0,
    "warning": ""
   },
@@ -7071,11 +7071,11 @@
    "state": "Pahang",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 29.9,
-   "low": 18.7,
-   "high": 41.4,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 30.1,
+   "low": 18.9,
+   "high": 41.6,
    "low_line": 22.0,
    "warning": ""
   },
@@ -7083,11 +7083,11 @@
    "state": "Pahang",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 29.9,
-   "low": 18.6,
-   "high": 41.2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 30.2,
+   "low": 18.9,
+   "high": 41.5,
    "low_line": 22.0,
    "warning": ""
   },
@@ -7095,11 +7095,11 @@
    "state": "Pahang",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 131.5,
-   "low": 92.7,
-   "high": 166.8,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 131.8,
+   "low": 93.0,
+   "high": 167.2,
    "low_line": 111.7,
    "warning": ""
   },
@@ -7107,8 +7107,8 @@
    "state": "Pahang",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
+   "first": "2026-11-24",
+   "last": "2026-11-30",
    "forecast": 132.8,
    "low": 92.4,
    "high": 169.4,
@@ -7119,11 +7119,11 @@
    "state": "Pahang",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 195.4,
-   "low": 136.3,
-   "high": 241.3,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 196.2,
+   "low": 137.1,
+   "high": 242.1,
    "low_line": 162.0,
    "warning": ""
   },
@@ -7131,11 +7131,11 @@
    "state": "Pahang",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 197.6,
-   "low": 136.8,
-   "high": 243.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 198.1,
+   "low": 137.3,
+   "high": 243.8,
    "low_line": 162.0,
    "warning": ""
   },
@@ -7143,11 +7143,11 @@
    "state": "Perak",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 219.2,
-   "low": 155.2,
-   "high": 273.5,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 220.0,
+   "low": 156.0,
+   "high": 274.2,
    "low_line": 195.7,
    "warning": ""
   },
@@ -7155,11 +7155,11 @@
    "state": "Perak",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 223.1,
-   "low": 160.6,
-   "high": 276.0,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 223.3,
+   "low": 160.8,
+   "high": 276.1,
    "low_line": 195.7,
    "warning": ""
   },
@@ -7167,23 +7167,23 @@
    "state": "Perak",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 52.6,
-   "low": 34.4,
-   "high": 70.2,
-   "low_line": 45.0,
-   "warning": ""
-  },
-  {
-   "state": "Perak",
-   "blood_type": "AB",
-   "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
+   "first": "2026-11-17",
+   "last": "2026-11-23",
    "forecast": 52.9,
-   "low": 33.8,
-   "high": 70.3,
+   "low": 34.7,
+   "high": 70.5,
+   "low_line": 45.0,
+   "warning": ""
+  },
+  {
+   "state": "Perak",
+   "blood_type": "AB",
+   "week": 2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 53.3,
+   "low": 34.2,
+   "high": 70.7,
    "low_line": 45.0,
    "warning": ""
   },
@@ -7191,11 +7191,11 @@
    "state": "Perak",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 242.4,
-   "low": 173.8,
-   "high": 303.9,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 242.0,
+   "low": 173.3,
+   "high": 303.4,
    "low_line": 216.0,
    "warning": ""
   },
@@ -7203,11 +7203,11 @@
    "state": "Perak",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 246.5,
-   "low": 179.7,
-   "high": 306.6,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 245.4,
+   "low": 178.6,
+   "high": 305.5,
    "low_line": 216.0,
    "warning": ""
   },
@@ -7215,11 +7215,11 @@
    "state": "Perak",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 380.9,
-   "low": 276.0,
-   "high": 465.6,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 383.6,
+   "low": 278.8,
+   "high": 468.3,
    "low_line": 336.0,
    "warning": ""
   },
@@ -7227,11 +7227,11 @@
    "state": "Perak",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 387.4,
-   "low": 280.9,
-   "high": 470.0,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 388.7,
+   "low": 282.2,
+   "high": 471.3,
    "low_line": 336.0,
    "warning": ""
   },
@@ -7239,11 +7239,11 @@
    "state": "Pulau Pinang",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 215.0,
-   "low": 176.5,
-   "high": 259.0,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 214.7,
+   "low": 176.2,
+   "high": 258.7,
    "low_line": 181.0,
    "warning": ""
   },
@@ -7251,11 +7251,11 @@
    "state": "Pulau Pinang",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 215.9,
-   "low": 177.0,
-   "high": 257.6,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 215.6,
+   "low": 176.7,
+   "high": 257.4,
    "low_line": 181.0,
    "warning": ""
   },
@@ -7263,11 +7263,11 @@
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 55.1,
-   "low": 39.3,
-   "high": 67.8,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 54.7,
+   "low": 38.9,
+   "high": 67.3,
    "low_line": 45.0,
    "warning": ""
   },
@@ -7275,11 +7275,11 @@
    "state": "Pulau Pinang",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 55.9,
-   "low": 40.4,
-   "high": 68.5,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 55.4,
+   "low": 39.9,
+   "high": 68.0,
    "low_line": 45.0,
    "warning": ""
   },
@@ -7287,11 +7287,11 @@
    "state": "Pulau Pinang",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 232.1,
-   "low": 179.1,
-   "high": 267.1,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 231.3,
+   "low": 178.3,
+   "high": 266.3,
    "low_line": 196.0,
    "warning": ""
   },
@@ -7299,11 +7299,11 @@
    "state": "Pulau Pinang",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 233.3,
-   "low": 180.4,
-   "high": 269.8,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 232.7,
+   "low": 179.8,
+   "high": 269.1,
    "low_line": 196.0,
    "warning": ""
   },
@@ -7311,11 +7311,11 @@
    "state": "Pulau Pinang",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 365.5,
-   "low": 286.0,
-   "high": 439.1,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 365.3,
+   "low": 285.8,
+   "high": 438.9,
    "low_line": 305.7,
    "warning": ""
   },
@@ -7323,11 +7323,11 @@
    "state": "Pulau Pinang",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 365.7,
-   "low": 284.1,
-   "high": 440.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 365.3,
+   "low": 283.7,
+   "high": 439.9,
    "low_line": 305.7,
    "warning": ""
   },
@@ -7335,11 +7335,11 @@
    "state": "Sabah",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 172.6,
-   "low": 117.7,
-   "high": 223.0,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 172.9,
+   "low": 117.9,
+   "high": 223.3,
    "low_line": 143.0,
    "warning": ""
   },
@@ -7347,11 +7347,11 @@
    "state": "Sabah",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 173.6,
-   "low": 118.8,
-   "high": 221.7,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 173.1,
+   "low": 118.4,
+   "high": 221.3,
    "low_line": 143.0,
    "warning": ""
   },
@@ -7359,11 +7359,11 @@
    "state": "Sabah",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 36.5,
-   "low": 17.1,
-   "high": 57.0,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 36.1,
+   "low": 16.8,
+   "high": 56.7,
    "low_line": 30.0,
    "warning": ""
   },
@@ -7371,11 +7371,11 @@
    "state": "Sabah",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 36.6,
-   "low": 16.0,
-   "high": 58.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 36.4,
+   "low": 15.8,
+   "high": 58.1,
    "low_line": 30.0,
    "warning": ""
   },
@@ -7383,11 +7383,11 @@
    "state": "Sabah",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 183.0,
-   "low": 117.2,
-   "high": 236.1,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 183.7,
+   "low": 118.0,
+   "high": 236.8,
    "low_line": 153.0,
    "warning": ""
   },
@@ -7395,11 +7395,11 @@
    "state": "Sabah",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 185.4,
-   "low": 118.2,
-   "high": 240.6,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 184.8,
+   "low": 117.5,
+   "high": 240.0,
    "low_line": 153.0,
    "warning": ""
   },
@@ -7407,11 +7407,11 @@
    "state": "Sabah",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 406.2,
-   "low": 288.3,
-   "high": 498.9,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 402.2,
+   "low": 284.3,
+   "high": 494.8,
    "low_line": 309.0,
    "warning": ""
   },
@@ -7419,11 +7419,11 @@
    "state": "Sabah",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 377.3,
-   "low": 261.9,
-   "high": 468.5,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 377.8,
+   "low": 262.5,
+   "high": 469.1,
    "low_line": 309.0,
    "warning": ""
   },
@@ -7431,23 +7431,23 @@
    "state": "Sarawak",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 195.3,
+   "low": 154.6,
+   "high": 235.7,
+   "low_line": 176.0,
+   "warning": ""
+  },
+  {
+   "state": "Sarawak",
+   "blood_type": "A",
+   "week": 2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
    "forecast": 195.2,
    "low": 154.5,
-   "high": 235.6,
-   "low_line": 176.0,
-   "warning": ""
-  },
-  {
-   "state": "Sarawak",
-   "blood_type": "A",
-   "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 194.8,
-   "low": 154.1,
-   "high": 237.0,
+   "high": 237.3,
    "low_line": 176.0,
    "warning": ""
   },
@@ -7455,11 +7455,11 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 52.9,
-   "low": 40.1,
-   "high": 70.9,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 52.8,
+   "low": 39.9,
+   "high": 70.8,
    "low_line": 43.0,
    "warning": ""
   },
@@ -7467,11 +7467,11 @@
    "state": "Sarawak",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 51.8,
-   "low": 39.0,
-   "high": 70.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 51.9,
+   "low": 39.1,
+   "high": 70.4,
    "low_line": 43.0,
    "warning": ""
   },
@@ -7479,11 +7479,11 @@
    "state": "Sarawak",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 236.4,
-   "low": 185.3,
-   "high": 287.1,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 236.1,
+   "low": 185.0,
+   "high": 286.8,
    "low_line": 208.0,
    "warning": ""
   },
@@ -7491,11 +7491,11 @@
    "state": "Sarawak",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 235.3,
-   "low": 181.6,
-   "high": 286.0,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 235.4,
+   "low": 181.7,
+   "high": 286.2,
    "low_line": 208.0,
    "warning": ""
   },
@@ -7503,11 +7503,11 @@
    "state": "Sarawak",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 339.0,
-   "low": 264.9,
-   "high": 400.7,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 339.1,
+   "low": 265.1,
+   "high": 400.8,
    "low_line": 306.0,
    "warning": ""
   },
@@ -7515,8 +7515,8 @@
    "state": "Sarawak",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
+   "first": "2026-11-24",
+   "last": "2026-11-30",
    "forecast": 338.2,
    "low": 264.2,
    "high": 398.9,
@@ -7527,11 +7527,11 @@
    "state": "Selangor",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 148.4,
-   "low": 103.5,
-   "high": 187.8,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 148.5,
+   "low": 103.6,
+   "high": 187.9,
    "low_line": 129.0,
    "warning": ""
   },
@@ -7539,11 +7539,11 @@
    "state": "Selangor",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 150.1,
-   "low": 103.5,
-   "high": 189.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 149.6,
+   "low": 103.0,
+   "high": 188.8,
    "low_line": 129.0,
    "warning": ""
   },
@@ -7551,23 +7551,23 @@
    "state": "Selangor",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 33.1,
+   "low": 16.5,
+   "high": 48.2,
+   "low_line": 26.0,
+   "warning": ""
+  },
+  {
+   "state": "Selangor",
+   "blood_type": "AB",
+   "week": 2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
    "forecast": 33.5,
-   "low": 16.8,
-   "high": 48.5,
-   "low_line": 26.0,
-   "warning": ""
-  },
-  {
-   "state": "Selangor",
-   "blood_type": "AB",
-   "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 33.9,
-   "low": 16.1,
-   "high": 49.3,
+   "low": 15.8,
+   "high": 49.0,
    "low_line": 26.0,
    "warning": ""
   },
@@ -7575,11 +7575,11 @@
    "state": "Selangor",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 166.2,
-   "low": 121.0,
-   "high": 205.4,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 166.3,
+   "low": 121.1,
+   "high": 205.6,
    "low_line": 146.7,
    "warning": ""
   },
@@ -7587,11 +7587,11 @@
    "state": "Selangor",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 167.9,
-   "low": 119.8,
-   "high": 207.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 167.7,
+   "low": 119.6,
+   "high": 207.1,
    "low_line": 146.7,
    "warning": ""
   },
@@ -7599,11 +7599,11 @@
    "state": "Selangor",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 250.8,
-   "low": 181.8,
-   "high": 317.2,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 249.9,
+   "low": 180.8,
+   "high": 316.2,
    "low_line": 230.0,
    "warning": ""
   },
@@ -7611,11 +7611,11 @@
    "state": "Selangor",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 252.7,
-   "low": 179.4,
-   "high": 318.2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 251.6,
+   "low": 178.4,
+   "high": 317.1,
    "low_line": 230.0,
    "warning": ""
   },
@@ -7623,35 +7623,35 @@
    "state": "Terengganu",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 106.1,
-   "low": 81.9,
-   "high": 141.8,
-   "low_line": 83.0,
-   "warning": ""
-  },
-  {
-   "state": "Terengganu",
-   "blood_type": "A",
-   "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 105.1,
-   "low": 80.8,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 105.6,
+   "low": 81.4,
    "high": 141.3,
    "low_line": 83.0,
    "warning": ""
   },
   {
    "state": "Terengganu",
+   "blood_type": "A",
+   "week": 2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 104.0,
+   "low": 79.7,
+   "high": 140.3,
+   "low_line": 83.0,
+   "warning": ""
+  },
+  {
+   "state": "Terengganu",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 30.9,
-   "low": 22.3,
-   "high": 41.9,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 31.2,
+   "low": 22.5,
+   "high": 42.1,
    "low_line": 23.0,
    "warning": ""
   },
@@ -7659,11 +7659,11 @@
    "state": "Terengganu",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 31.0,
-   "low": 21.7,
-   "high": 41.2,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 31.2,
+   "low": 21.9,
+   "high": 41.4,
    "low_line": 23.0,
    "warning": ""
   },
@@ -7671,11 +7671,11 @@
    "state": "Terengganu",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 120.3,
-   "low": 90.9,
-   "high": 155.0,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 119.8,
+   "low": 90.4,
+   "high": 154.5,
    "low_line": 94.0,
    "warning": ""
   },
@@ -7683,11 +7683,11 @@
    "state": "Terengganu",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 121.0,
-   "low": 92.1,
-   "high": 156.9,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 120.1,
+   "low": 91.2,
+   "high": 156.0,
    "low_line": 94.0,
    "warning": ""
   },
@@ -7695,11 +7695,11 @@
    "state": "Terengganu",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 177.9,
-   "low": 138.0,
-   "high": 234.2,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 176.5,
+   "low": 136.7,
+   "high": 232.9,
    "low_line": 141.0,
    "warning": ""
   },
@@ -7707,11 +7707,11 @@
    "state": "Terengganu",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 178.2,
-   "low": 139.2,
-   "high": 236.0,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 177.2,
+   "low": 138.2,
+   "high": 235.1,
    "low_line": 141.0,
    "warning": ""
   },
@@ -7719,11 +7719,11 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 1053.5,
-   "low": 883.2,
-   "high": 1189.5,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 1045.6,
+   "low": 875.3,
+   "high": 1181.6,
    "low_line": 929.0,
    "warning": ""
   },
@@ -7731,11 +7731,11 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "A",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 1047.5,
-   "low": 880.7,
-   "high": 1196.7,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 1040.7,
+   "low": 874.0,
+   "high": 1190.0,
    "low_line": 929.0,
    "warning": ""
   },
@@ -7743,10 +7743,10 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
+   "first": "2026-11-17",
+   "last": "2026-11-23",
    "forecast": 213.9,
-   "low": 117.9,
+   "low": 118.0,
    "high": 271.2,
    "low_line": 188.7,
    "warning": ""
@@ -7755,8 +7755,8 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "AB",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
+   "first": "2026-11-24",
+   "last": "2026-11-30",
    "forecast": 214.4,
    "low": 108.6,
    "high": 277.7,
@@ -7767,11 +7767,11 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 1105.4,
-   "low": 947.4,
-   "high": 1281.5,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 1095.4,
+   "low": 937.4,
+   "high": 1271.5,
    "low_line": 998.0,
    "warning": ""
   },
@@ -7779,11 +7779,11 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "B",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 1098.7,
-   "low": 945.4,
-   "high": 1270.0,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 1091.9,
+   "low": 938.6,
+   "high": 1263.2,
    "low_line": 998.0,
    "warning": ""
   },
@@ -7791,11 +7791,11 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "week": 1,
-   "first": "2026-11-16",
-   "last": "2026-11-22",
-   "forecast": 1724.1,
-   "low": 1487.0,
-   "high": 1960.9,
+   "first": "2026-11-17",
+   "last": "2026-11-23",
+   "forecast": 1709.1,
+   "low": 1472.0,
+   "high": 1945.9,
    "low_line": 1577.7,
    "warning": ""
   },
@@ -7803,53 +7803,53 @@
    "state": "W.P. Kuala Lumpur",
    "blood_type": "O",
    "week": 2,
-   "first": "2026-11-23",
-   "last": "2026-11-29",
-   "forecast": 1706.5,
-   "low": 1492.0,
-   "high": 1950.3,
+   "first": "2026-11-24",
+   "last": "2026-11-30",
+   "forecast": 1704.7,
+   "low": 1490.2,
+   "high": 1948.4,
    "low_line": 1577.7,
    "warning": ""
   }
  ],
  "scorecard": {
-  "forecast_files": 9,
-  "scored_days": 1872,
+  "forecast_files": 10,
+  "scored_days": 2340,
   "methods": [
    {
     "method": "Same weekday last week",
-    "scored": 1872,
-    "MAE": 17.903846153846153,
-    "coverage": 0.8274572649572649,
+    "scored": 2340,
+    "MAE": 17.194871794871794,
+    "coverage": 0.8166666666666667,
     "from": "2026-11-08",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    {
     "method": "Recent weekday average",
-    "scored": 1872,
-    "MAE": 9.071709401709402,
-    "coverage": 0.7889957264957265,
+    "scored": 2340,
+    "MAE": 8.317564102564102,
+    "coverage": 0.8311965811965812,
     "from": "2026-11-08",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    },
    {
     "method": "Gradient-boosted trees",
-    "scored": 1872,
-    "MAE": 8.744994658119658,
-    "coverage": 0.7884615384615384,
+    "scored": 2340,
+    "MAE": 8.031363247863247,
+    "coverage": 0.8303418803418804,
     "from": "2026-11-08",
-    "to": "2026-11-15"
+    "to": "2026-11-16"
    }
   ],
   "first_issue": "2026-11-07",
-  "last_issue": "2026-11-15",
+  "last_issue": "2026-11-16",
   "weeks": {
-   "scored": 104,
-   "really_low": 34,
+   "scored": 156,
+   "really_low": 52,
    "warnings": 2,
    "warning_hit_rate": 0.0,
    "warning_catch_rate": 0.0,
-   "coverage": 0.7596153846153846
+   "coverage": 0.7692307692307693
   }
  }
 }
